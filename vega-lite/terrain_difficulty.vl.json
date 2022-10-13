@@ -4,10 +4,9 @@
     "mark": "bar",
     "width": 1200,
     "height": 200,
-    "transform": [{"filter":{"field":"Percentage","greaterThan":0}}],
+    "transform": [{"filter":"datum.Percentage > 0"}],
     "encoding": {
-        "x": { "field": "resort", "type": "nominal", "sort": "-y"},
-        "y": { "field": "Percentage", "type": "quantitative" },
-        "color": { "field": "pass", "type": "nominal"}
+        "x": { "field": "resort", "type": "nominal"},
+        "y": { "field": "Percentage", "type": "quantitative" }
     }
 }

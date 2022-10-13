@@ -1,377 +1,445 @@
-short-name,Run Type,Percentage
-alta-ski-area,Beginners Runs,
-aspen-snowmass,Beginners Runs,
-big-sky-resort,Beginners Runs,15
-coronet-peak,Beginners Runs,17
-jackson-hole,Beginners Runs,4
-lake-louise,Beginners Runs,
-mammoth-mountain-ski-area,Beginners Runs,15
-squaw-valley-usa,Beginners Runs,
-revelstoke-mountain,Beginners Runs,
-snowbasin,Beginners Runs,7
-snowbird,Beginners Runs,8
-sugarbush,Beginners Runs,23
-sun-valley,Beginners Runs,
-sunshine-village,Beginners Runs,18
-taos-ski-valley,Beginners Runs,14
-the-remarkables,Beginners Runs,17
-thredbo-alpine-resort,Beginners Runs,
-valle-nevado,Beginners Runs,30
-afton-alps,Beginners Runs,34
-folgaria,Beginners Runs,
-andalo-fai-della-paganella,Beginners Runs,
-beaver-creek,Beginners Runs,38
-breckenridge,Beginners Runs,13
-brides-les-bains,Beginners Runs,9
-courchevel,Beginners Runs,19
-crested-butte-mountain-resort,Beginners Runs,14
-falls-creek-alpine-resort,Beginners Runs,
-fernie-alpine,Beginners Runs,
-folgarida-marilleva,Beginners Runs,
-heavenly-mountain-resort,Beginners Runs,8
-keystone,Beginners Runs,16
-kicking-horse,Beginners Runs,
-kimberley,Beginners Runs,
-kirkwood,Beginners Runs,
-la-tania,Beginners Runs,19
-les-menuires,Beginners Runs,15
-madonna-di-campiglio,Beginners Runs,
-meribel,Beginners Runs,11
-mont-sainte-anne,Beginners Runs,21
-monte-bondone,Beginners Runs,
-mount-sunapee,Beginners Runs,30
-mount-brighton,Beginners Runs,24
-mt-hotham,Beginners Runs,5
-nakiska-ski-area,Beginners Runs,15
-nendaz,Beginners Runs,
-northstar-california,Beginners Runs,13
-okemo-mountain-resort,Beginners Runs,33
-orelle,Beginners Runs,13
-park-city-mountain-resort,Beginners Runs,8
-pejo,Beginners Runs,
-perisher,Beginners Runs,
-pinzolo,Beginners Runs,
-pontedilegno-tonale-adamello-ski,Beginners Runs,
-saint-martin-de-belleville,Beginners Runs,15
-stevens-pass-resort,Beginners Runs,8
-stoneham,Beginners Runs,19
-stowe-mountain-resort,Beginners Runs,16
-telluride,Beginners Runs,16
-thyon-2000,Beginners Runs,
-vail,Beginners Runs,22
-val-thorens,Beginners Runs,13
-verbier,Beginners Runs,
-veysonnaz,Beginners Runs,
-whistler-blackcomb,Beginners Runs,18
-wilmot-mountain,Beginners Runs,33
-arapahoe-basin-ski-area,Beginners Runs,7
-bear-mountain,Beginners Runs,20
-blue-mountain,Beginners Runs,22
-boyne-mountain-resort,Beginners Runs,49
-brighton-resort,Beginners Runs,
-copper-mountain-resort,Beginners Runs,25
-crystal-mountain-wa,Beginners Runs,8
-cypress-mountain,Beginners Runs,8
-deer-valley-resort,Beginners Runs,27
-eldora-mountain-resort,Beginners Runs,18
-june-mountain,Beginners Runs,16
-killington-resort,Beginners Runs,
-loon-mountain,Beginners Runs,
-mt-bachelor,Beginners Runs,19
-mt-buller,Beginners Runs,5
-ski-banff-norquay,Beginners Runs,38
-panorama-mountain,Beginners Runs,10
-snow-summit,Beginners Runs,19
-snowshoe-mountain-resort,Beginners Runs,40
-solitude-mountain-resort,Beginners Runs,5
-steamboat,Beginners Runs,
-stratton-mountain,Beginners Runs,
-sugarloaf,Beginners Runs,22
-sunday-river,Beginners Runs,30
-boyne-highlands,Beginners Runs,36
-the-summit-at-snoqualmie,Beginners Runs,15
-tremblant,Beginners Runs,19
-windham-mountain,Beginners Runs,20
-winter-park-resort,Beginners Runs,24
-alta-ski-area,Intermediate Runs,
-aspen-snowmass,Intermediate Runs,
-big-sky-resort,Intermediate Runs,25
-coronet-peak,Intermediate Runs,50
-jackson-hole,Intermediate Runs,41
-lake-louise,Intermediate Runs,
-mammoth-mountain-ski-area,Intermediate Runs,48
-squaw-valley-usa,Intermediate Runs,
-revelstoke-mountain,Intermediate Runs,
-snowbasin,Intermediate Runs,37
-snowbird,Intermediate Runs,25
-sugarbush,Intermediate Runs,42
-sun-valley,Intermediate Runs,
-sunshine-village,Intermediate Runs,26
-taos-ski-valley,Intermediate Runs,16
-the-remarkables,Intermediate Runs,40
-thredbo-alpine-resort,Intermediate Runs,
-valle-nevado,Intermediate Runs,23
-afton-alps,Intermediate Runs,37
-folgaria,Intermediate Runs,59
-andalo-fai-della-paganella,Intermediate Runs,40
-beaver-creek,Intermediate Runs,30
-breckenridge,Intermediate Runs,23
-brides-les-bains,Intermediate Runs,40
-courchevel,Intermediate Runs,38
-crested-butte-mountain-resort,Intermediate Runs,25
-falls-creek-alpine-resort,Intermediate Runs,
-fernie-alpine,Intermediate Runs,
-folgarida-marilleva,Intermediate Runs,32
-heavenly-mountain-resort,Intermediate Runs,62
-keystone,Intermediate Runs,43
-kicking-horse,Intermediate Runs,
-kimberley,Intermediate Runs,
-kirkwood,Intermediate Runs,
-la-tania,Intermediate Runs,38
-les-menuires,Intermediate Runs,47
-madonna-di-campiglio,Intermediate Runs,50
-meribel,Intermediate Runs,37
-mont-sainte-anne,Intermediate Runs,46
-monte-bondone,Intermediate Runs,26
-mount-sunapee,Intermediate Runs,46
-mount-brighton,Intermediate Runs,44
-mt-hotham,Intermediate Runs,40
-nakiska-ski-area,Intermediate Runs,59
-nendaz,Intermediate Runs,41
-northstar-california,Intermediate Runs,60
-okemo-mountain-resort,Intermediate Runs,38
-orelle,Intermediate Runs,42
-park-city-mountain-resort,Intermediate Runs,41
-pejo,Intermediate Runs,25
-perisher,Intermediate Runs,
-pinzolo,Intermediate Runs,12
-pontedilegno-tonale-adamello-ski,Intermediate Runs,24
-saint-martin-de-belleville,Intermediate Runs,50
-stevens-pass-resort,Intermediate Runs,43
-stoneham,Intermediate Runs,26
-stowe-mountain-resort,Intermediate Runs,55
-telluride,Intermediate Runs,30
-thyon-2000,Intermediate Runs,36
-vail,Intermediate Runs,34
-val-thorens,Intermediate Runs,45
-verbier,Intermediate Runs,31
-veysonnaz,Intermediate Runs,41
-whistler-blackcomb,Intermediate Runs,40
-wilmot-mountain,Intermediate Runs,33
-arapahoe-basin-ski-area,Intermediate Runs,20
-bear-mountain,Intermediate Runs,33
-blue-mountain,Intermediate Runs,33
-boyne-mountain-resort,Intermediate Runs,28
-brighton-resort,Intermediate Runs,
-copper-mountain-resort,Intermediate Runs,24
-crystal-mountain-wa,Intermediate Runs,31
-cypress-mountain,Intermediate Runs,38
-deer-valley-resort,Intermediate Runs,31
-eldora-mountain-resort,Intermediate Runs,48
-june-mountain,Intermediate Runs,40
-killington-resort,Intermediate Runs,
-loon-mountain,Intermediate Runs,
-mt-bachelor,Intermediate Runs,55
-mt-buller,Intermediate Runs,39
-ski-banff-norquay,Intermediate Runs,25
-panorama-mountain,Intermediate Runs,35
-snow-summit,Intermediate Runs,48
-snowshoe-mountain-resort,Intermediate Runs,33
-solitude-mountain-resort,Intermediate Runs,31
-steamboat,Intermediate Runs,
-stratton-mountain,Intermediate Runs,
-sugarloaf,Intermediate Runs,32
-sunday-river,Intermediate Runs,36
-boyne-highlands,Intermediate Runs,31
-the-summit-at-snoqualmie,Intermediate Runs,40
-tremblant,Intermediate Runs,30
-windham-mountain,Intermediate Runs,48
-winter-park-resort,Intermediate Runs,22
-alta-ski-area,Advanced Runs,
-aspen-snowmass,Advanced Runs,
-big-sky-resort,Advanced Runs,42
-coronet-peak,Advanced Runs,26
-jackson-hole,Advanced Runs,38
-lake-louise,Advanced Runs,
-mammoth-mountain-ski-area,Advanced Runs,24
-squaw-valley-usa,Advanced Runs,
-revelstoke-mountain,Advanced Runs,
-snowbasin,Advanced Runs,47
-snowbird,Advanced Runs,43
-sugarbush,Advanced Runs,27
-sun-valley,Advanced Runs,
-sunshine-village,Advanced Runs,48
-taos-ski-valley,Advanced Runs,30
-the-remarkables,Advanced Runs,10
-thredbo-alpine-resort,Advanced Runs,
-valle-nevado,Advanced Runs,35
-afton-alps,Advanced Runs,29
-folgaria,Advanced Runs,34
-andalo-fai-della-paganella,Advanced Runs,57
-beaver-creek,Advanced Runs,24
-breckenridge,Advanced Runs,36
-brides-les-bains,Advanced Runs,37
-courchevel,Advanced Runs,33
-crested-butte-mountain-resort,Advanced Runs,25
-falls-creek-alpine-resort,Advanced Runs,
-fernie-alpine,Advanced Runs,
-folgarida-marilleva,Advanced Runs,48
-heavenly-mountain-resort,Advanced Runs,25
-keystone,Advanced Runs,41
-kicking-horse,Advanced Runs,
-kimberley,Advanced Runs,
-kirkwood,Advanced Runs,
-la-tania,Advanced Runs,33
-les-menuires,Advanced Runs,28
-madonna-di-campiglio,Advanced Runs,38
-meribel,Advanced Runs,40
-mont-sainte-anne,Advanced Runs,20
-monte-bondone,Advanced Runs,74
-mount-sunapee,Advanced Runs,11
-mount-brighton,Advanced Runs,24
-mt-hotham,Advanced Runs,43
-nakiska-ski-area,Advanced Runs,21
-nendaz,Advanced Runs,54
-northstar-california,Advanced Runs,27
-okemo-mountain-resort,Advanced Runs,21
-orelle,Advanced Runs,36
-park-city-mountain-resort,Advanced Runs,28
-pejo,Advanced Runs,65
-perisher,Advanced Runs,
-pinzolo,Advanced Runs,41
-pontedilegno-tonale-adamello-ski,Advanced Runs,61
-saint-martin-de-belleville,Advanced Runs,26
-stevens-pass-resort,Advanced Runs,31
-stoneham,Advanced Runs,39
-stowe-mountain-resort,Advanced Runs,15
-telluride,Advanced Runs,21
-thyon-2000,Advanced Runs,56
-vail,Advanced Runs,41
-val-thorens,Advanced Runs,34
-verbier,Advanced Runs,48
-veysonnaz,Advanced Runs,54
-whistler-blackcomb,Advanced Runs,35
-wilmot-mountain,Advanced Runs,33
-arapahoe-basin-ski-area,Advanced Runs,49
-bear-mountain,Advanced Runs,33
-blue-mountain,Advanced Runs,16
-boyne-mountain-resort,Advanced Runs,20
-brighton-resort,Advanced Runs,
-copper-mountain-resort,Advanced Runs,34
-crystal-mountain-wa,Advanced Runs,32
-cypress-mountain,Advanced Runs,34
-deer-valley-resort,Advanced Runs,10
-eldora-mountain-resort,Advanced Runs,18
-june-mountain,Advanced Runs,28
-killington-resort,Advanced Runs,
-loon-mountain,Advanced Runs,
-mt-bachelor,Advanced Runs,22
-mt-buller,Advanced Runs,56
-ski-banff-norquay,Advanced Runs,37
-panorama-mountain,Advanced Runs,21
-snow-summit,Advanced Runs,26
-snowshoe-mountain-resort,Advanced Runs,25
-solitude-mountain-resort,Advanced Runs,46
-steamboat,Advanced Runs,
-stratton-mountain,Advanced Runs,
-sugarloaf,Advanced Runs,26
-sunday-river,Advanced Runs,18
-boyne-highlands,Advanced Runs,31
-the-summit-at-snoqualmie,Advanced Runs,45
-tremblant,Advanced Runs,37
-windham-mountain,Advanced Runs,19
-winter-park-resort,Advanced Runs,50
-alta-ski-area,Expert Runs,
-aspen-snowmass,Expert Runs,
-big-sky-resort,Expert Runs,18
-coronet-peak,Expert Runs,21
-jackson-hole,Expert Runs,17
-lake-louise,Expert Runs,
-mammoth-mountain-ski-area,Expert Runs,13
-squaw-valley-usa,Expert Runs,
-revelstoke-mountain,Expert Runs,
-snowbasin,Expert Runs,9
-snowbird,Expert Runs,24
-sugarbush,Expert Runs,7
-sun-valley,Expert Runs,
-sunshine-village,Expert Runs,8
-taos-ski-valley,Expert Runs,40
-the-remarkables,Expert Runs,40
-thredbo-alpine-resort,Expert Runs,
-valle-nevado,Expert Runs,12
-afton-alps,Expert Runs,
-folgaria,Expert Runs,6
-andalo-fai-della-paganella,Expert Runs,3
-beaver-creek,Expert Runs,8
-breckenridge,Expert Runs,28
-brides-les-bains,Expert Runs,15
-courchevel,Expert Runs,10
-crested-butte-mountain-resort,Expert Runs,36
-falls-creek-alpine-resort,Expert Runs,
-fernie-alpine,Expert Runs,
-folgarida-marilleva,Expert Runs,21
-heavenly-mountain-resort,Expert Runs,5
-keystone,Expert Runs,
-kicking-horse,Expert Runs,
-kimberley,Expert Runs,
-kirkwood,Expert Runs,
-la-tania,Expert Runs,10
-les-menuires,Expert Runs,10
-madonna-di-campiglio,Expert Runs,12
-meribel,Expert Runs,11
-mont-sainte-anne,Expert Runs,13
-monte-bondone,Expert Runs,
-mount-sunapee,Expert Runs,13
-mount-brighton,Expert Runs,8
-mt-hotham,Expert Runs,12
-nakiska-ski-area,Expert Runs,5
-nendaz,Expert Runs,5
-northstar-california,Expert Runs,
-okemo-mountain-resort,Expert Runs,9
-orelle,Expert Runs,9
-park-city-mountain-resort,Expert Runs,23
-pejo,Expert Runs,10
-perisher,Expert Runs,
-pinzolo,Expert Runs,47
-pontedilegno-tonale-adamello-ski,Expert Runs,15
-saint-martin-de-belleville,Expert Runs,10
-stevens-pass-resort,Expert Runs,18
-stoneham,Expert Runs,16
-stowe-mountain-resort,Expert Runs,15
-telluride,Expert Runs,34
-thyon-2000,Expert Runs,9
-vail,Expert Runs,2
-val-thorens,Expert Runs,8
-verbier,Expert Runs,21
-veysonnaz,Expert Runs,5
-whistler-blackcomb,Expert Runs,7
-wilmot-mountain,Expert Runs,
-arapahoe-basin-ski-area,Expert Runs,24
-bear-mountain,Expert Runs,13
-blue-mountain,Expert Runs,29
-boyne-mountain-resort,Expert Runs,3
-brighton-resort,Expert Runs,
-copper-mountain-resort,Expert Runs,17
-crystal-mountain-wa,Expert Runs,29
-cypress-mountain,Expert Runs,20
-deer-valley-resort,Expert Runs,32
-eldora-mountain-resort,Expert Runs,16
-june-mountain,Expert Runs,16
-killington-resort,Expert Runs,
-loon-mountain,Expert Runs,
-mt-bachelor,Expert Runs,3
-mt-buller,Expert Runs,
-ski-banff-norquay,Expert Runs,
-panorama-mountain,Expert Runs,34
-snow-summit,Expert Runs,7
-snowshoe-mountain-resort,Expert Runs,2
-solitude-mountain-resort,Expert Runs,18
-steamboat,Expert Runs,
-stratton-mountain,Expert Runs,
-sugarloaf,Expert Runs,20
-sunday-river,Expert Runs,16
-boyne-highlands,Expert Runs,2
-the-summit-at-snoqualmie,Expert Runs,
-tremblant,Expert Runs,13
-windham-mountain,Expert Runs,13
-winter-park-resort,Expert Runs,4
+short-name,Run Type,Percentage,pass,resort,link
+alta-ski-area,Beginners Runs,,mountain-collective,Alta Ski Area,https://www.onthesnow.com/utah/alta-ski-area/ski-resort
+alta-ski-area,Beginners Runs,,ikon-pass,Alta Ski Area,https://www.onthesnow.com/utah/alta-ski-area/ski-resort
+aspen-snowmass,Beginners Runs,,mountain-collective,Aspen Snowmass,https://www.onthesnow.com/colorado/aspen-snowmass/ski-resort
+aspen-snowmass,Beginners Runs,,ikon-pass,Aspen Snowmass,https://www.onthesnow.com/colorado/aspen-snowmass/ski-resort
+big-sky-resort,Beginners Runs,15,mountain-collective,Big Sky,https://www.onthesnow.com/montana/big-sky-resort/ski-resort
+big-sky-resort,Beginners Runs,15,ikon-pass,Big Sky,https://www.onthesnow.com/montana/big-sky-resort/ski-resort
+coronet-peak,Beginners Runs,17,mountain-collective,Coronet Peak,https://www.onthesnow.com/new-zealand/coronet-peak/ski-resort
+jackson-hole,Beginners Runs,4,mountain-collective,Jackson Hole,https://www.onthesnow.com/wyoming/jackson-hole/ski-resort
+jackson-hole,Beginners Runs,4,ikon-pass,Jackson Hole,https://www.onthesnow.com/wyoming/jackson-hole/ski-resort
+lake-louise,Beginners Runs,,mountain-collective,Lake Louise,https://www.onthesnow.com/alberta/lake-louise/ski-resort
+lake-louise,Beginners Runs,,ikon-pass,Lake Louise,https://www.onthesnow.com/alberta/lake-louise/ski-resort
+mammoth-mountain-ski-area,Beginners Runs,15,mountain-collective,Mammoth Mountain,https://www.onthesnow.com/california/mammoth-mountain-ski-area/ski-resort
+mammoth-mountain-ski-area,Beginners Runs,15,ikon-pass,Mammoth Mountain,https://www.onthesnow.com/california/mammoth-mountain-ski-area/ski-resort
+squaw-valley-usa,Beginners Runs,,mountain-collective,Palisades Tahoe,https://www.onthesnow.com/california/squaw-valley-usa/ski-resort
+squaw-valley-usa,Beginners Runs,,ikon-pass,Palisades Tahoe,https://www.onthesnow.com/california/squaw-valley-usa/ski-resort
+revelstoke-mountain,Beginners Runs,,mountain-collective,Revelstoke,https://www.onthesnow.com/british-columbia/revelstoke-mountain/ski-resort
+revelstoke-mountain,Beginners Runs,,ikon-pass,Revelstoke,https://www.onthesnow.com/british-columbia/revelstoke-mountain/ski-resort
+snowbasin,Beginners Runs,7,mountain-collective,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+snowbasin,Beginners Runs,7,epic-pass,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+snowbasin,Beginners Runs,7,ikon-pass,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+snowbird,Beginners Runs,8,mountain-collective,Snowbird,https://www.onthesnow.com/utah/snowbird/ski-resort
+snowbird,Beginners Runs,8,ikon-pass,Snowbird,https://www.onthesnow.com/utah/snowbird/ski-resort
+sugarbush,Beginners Runs,23,mountain-collective,Sugarbush,https://www.onthesnow.com/vermont/sugarbush/ski-resort
+sugarbush,Beginners Runs,23,ikon-pass,Sugarbush,https://www.onthesnow.com/vermont/sugarbush/ski-resort
+sun-valley,Beginners Runs,,mountain-collective,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+sun-valley,Beginners Runs,,epic-pass,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+sun-valley,Beginners Runs,,ikon-pass,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+sunshine-village,Beginners Runs,18,mountain-collective,Sunshine Village,https://www.onthesnow.com/alberta/sunshine-village/ski-resort
+sunshine-village,Beginners Runs,18,ikon-pass,Sunshine Village,https://www.onthesnow.com/alberta/sunshine-village/ski-resort
+taos-ski-valley,Beginners Runs,14,mountain-collective,Taos Ski Valley,https://www.onthesnow.com/new-mexico/taos-ski-valley/ski-resort
+taos-ski-valley,Beginners Runs,14,ikon-pass,Taos Ski Valley,https://www.onthesnow.com/new-mexico/taos-ski-valley/ski-resort
+the-remarkables,Beginners Runs,17,mountain-collective,The Remarkables,https://www.onthesnow.com/new-zealand/the-remarkables/ski-resort
+thredbo-alpine-resort,Beginners Runs,,mountain-collective,Thredbo Alpine Resort,https://www.onthesnow.com/australia/thredbo-alpine-resort/ski-resort
+thredbo-alpine-resort,Beginners Runs,,ikon-pass,Thredbo Alpine Resort,https://www.onthesnow.com/australia/thredbo-alpine-resort/ski-resort
+valle-nevado,Beginners Runs,30,mountain-collective,Valle Nevado,https://www.onthesnow.com/chile/valle-nevado/ski-resort
+afton-alps,Beginners Runs,34,epic-pass,Afton Alps,https://www.onthesnow.com/minnesota/afton-alps/ski-resort
+folgaria,Beginners Runs,,epic-pass,Alpe Cimbra - Folgaria - Lavarone,https://www.onthesnow.co.uk/trentino/folgaria/ski-resort
+andalo-fai-della-paganella,Beginners Runs,,epic-pass,Andalo - Fai della Paganella,https://www.onthesnow.co.uk/trentino/andalo-fai-della-paganella/ski-resort
+beaver-creek,Beginners Runs,38,epic-pass,Beaver Creek,https://www.onthesnow.com/colorado/beaver-creek/ski-resort
+breckenridge,Beginners Runs,13,epic-pass,Breckenridge,https://www.onthesnow.com/colorado/breckenridge/ski-resort
+brides-les-bains,Beginners Runs,9,epic-pass,Brides les Bains,https://www.onthesnow.co.uk/northern-alps/brides-les-bains/ski-resort
+courchevel,Beginners Runs,19,epic-pass,Courchevel,https://www.onthesnow.co.uk/northern-alps/courchevel/ski-resort
+crested-butte-mountain-resort,Beginners Runs,14,epic-pass,Crested Butte Mountain Resort,https://www.onthesnow.com/colorado/crested-butte-mountain-resort/ski-resort
+falls-creek-alpine-resort,Beginners Runs,,epic-pass,Falls Creek Alpine Resort,https://www.onthesnow.com/australia/falls-creek-alpine-resort/ski-resort
+fernie-alpine,Beginners Runs,,epic-pass,Fernie Alpine,https://www.onthesnow.com/british-columbia/fernie-alpine/ski-resort
+folgarida-marilleva,Beginners Runs,,epic-pass,Folgàrida - Marilléva,https://www.onthesnow.co.uk/trentino/folgarida-marilleva/ski-resort
+heavenly-mountain-resort,Beginners Runs,8,epic-pass,Heavenly,https://www.onthesnow.com/california/heavenly-mountain-resort/ski-resort
+keystone,Beginners Runs,16,epic-pass,Keystone,https://www.onthesnow.com/colorado/keystone/ski-resort
+kicking-horse,Beginners Runs,,epic-pass,Kicking Horse,https://www.onthesnow.com/british-columbia/kicking-horse/ski-resort
+kimberley,Beginners Runs,,epic-pass,Kimberley,https://www.onthesnow.com/british-columbia/kimberley/ski-resort
+kirkwood,Beginners Runs,,epic-pass,Kirkwood,https://www.onthesnow.com/california/kirkwood/ski-resort
+la-tania,Beginners Runs,19,epic-pass,La Tania,https://www.onthesnow.co.uk/northern-alps/la-tania/ski-resort
+les-menuires,Beginners Runs,15,epic-pass,Les Menuires,https://www.onthesnow.co.uk/northern-alps/les-menuires/ski-resort
+madonna-di-campiglio,Beginners Runs,,epic-pass,Madonna di Campiglio,https://www.onthesnow.co.uk/trentino/madonna-di-campiglio/ski-resort
+meribel,Beginners Runs,11,epic-pass,Meribel,https://www.onthesnow.co.uk/northern-alps/meribel/ski-resort
+mont-sainte-anne,Beginners Runs,21,epic-pass,Mont Sainte Anne,https://www.onthesnow.com/quebec/mont-sainte-anne/ski-resort
+monte-bondone,Beginners Runs,,epic-pass,Monte Bondone,https://www.onthesnow.co.uk/trentino/monte-bondone/ski-resort
+mount-sunapee,Beginners Runs,30,epic-pass,Mount Sunapee,https://www.onthesnow.com/new-hampshire/mount-sunapee/ski-resort
+mount-brighton,Beginners Runs,24,epic-pass,Mt. Brighton,https://www.onthesnow.com/michigan/mount-brighton/ski-resort
+mt-hotham,Beginners Runs,5,epic-pass,Mt. Hotham,https://www.onthesnow.com/australia/mt-hotham/ski-resort
+nakiska-ski-area,Beginners Runs,15,epic-pass,Nakiska Ski Area,https://www.onthesnow.com/alberta/nakiska-ski-area/ski-resort
+nendaz,Beginners Runs,,epic-pass,Nendaz,https://www.onthesnow.co.uk/valais/nendaz/ski-resort
+northstar-california,Beginners Runs,13,epic-pass,Northstar California,https://www.onthesnow.com/california/northstar-california/ski-resort
+okemo-mountain-resort,Beginners Runs,33,epic-pass,Okemo Mountain Resort,https://www.onthesnow.com/vermont/okemo-mountain-resort/ski-resort
+orelle,Beginners Runs,13,epic-pass,Orelle,https://www.onthesnow.co.uk/northern-alps/orelle/ski-resort
+park-city-mountain-resort,Beginners Runs,8,epic-pass,Park City,https://www.onthesnow.com/utah/park-city-mountain-resort/ski-resort
+pejo,Beginners Runs,,epic-pass,Pejo,https://www.onthesnow.co.uk/trentino/pejo/ski-resort
+perisher,Beginners Runs,,epic-pass,Perisher,https://www.onthesnow.com/australia/perisher/ski-resort
+pinzolo,Beginners Runs,,epic-pass,Pinzolo,https://www.onthesnow.co.uk/trentino/pinzolo/ski-resort
+pontedilegno-tonale-adamello-ski,Beginners Runs,,epic-pass,Pontedilegno - Tonale,https://www.onthesnow.co.uk/trentino/pontedilegno-tonale-adamello-ski/ski-resort
+saint-martin-de-belleville,Beginners Runs,15,epic-pass,Saint Martin de Belleville,https://www.onthesnow.co.uk/northern-alps/saint-martin-de-belleville/ski-resort
+stevens-pass-resort,Beginners Runs,8,epic-pass,Stevens Pass Resort,https://www.onthesnow.com/washington/stevens-pass-resort/ski-resort
+stoneham,Beginners Runs,19,epic-pass,Stoneham,https://www.onthesnow.com/quebec/stoneham/ski-resort
+stowe-mountain-resort,Beginners Runs,16,epic-pass,Stowe Mountain,https://www.onthesnow.com/vermont/stowe-mountain-resort/ski-resort
+telluride,Beginners Runs,16,epic-pass,Telluride,https://www.onthesnow.com/colorado/telluride/ski-resort
+thyon-2000,Beginners Runs,,epic-pass,Thyon 2000,https://www.onthesnow.co.uk/valais/thyon-2000/ski-resort
+vail,Beginners Runs,22,epic-pass,Vail,https://www.onthesnow.com/colorado/vail/ski-resort
+val-thorens,Beginners Runs,13,epic-pass,Val Thorens,https://www.onthesnow.co.uk/northern-alps/val-thorens/ski-resort
+verbier,Beginners Runs,,epic-pass,Verbier,https://www.onthesnow.co.uk/valais/verbier/ski-resort
+veysonnaz,Beginners Runs,,epic-pass,Veysonnaz,https://www.onthesnow.co.uk/valais/veysonnaz/ski-resort
+whistler-blackcomb,Beginners Runs,18,epic-pass,Whistler Blackcomb,https://www.onthesnow.com/british-columbia/whistler-blackcomb/ski-resort
+wilmot-mountain,Beginners Runs,33,epic-pass,Wilmot Mountain,https://www.onthesnow.com/wisconsin/wilmot-mountain/ski-resort
+arapahoe-basin-ski-area,Beginners Runs,7,ikon-pass,Arapahoe Basin Ski Area,https://www.onthesnow.com/colorado/arapahoe-basin-ski-area/ski-resort
+bear-mountain,Beginners Runs,20,ikon-pass,Bear Mountain,https://www.onthesnow.com/california/bear-mountain/ski-resort
+blue-mountain,Beginners Runs,22,ikon-pass,Blue Mountain,https://www.onthesnow.com/ontario/blue-mountain/ski-resort
+boyne-mountain-resort,Beginners Runs,49,ikon-pass,Boyne Mountain Resort,https://www.onthesnow.com/michigan/boyne-mountain-resort/ski-resort
+brighton-resort,Beginners Runs,,ikon-pass,Brighton Resort,https://www.onthesnow.com/utah/brighton-resort/ski-resort
+copper-mountain-resort,Beginners Runs,25,ikon-pass,Copper Mountain,https://www.onthesnow.com/colorado/copper-mountain-resort/ski-resort
+crystal-mountain-wa,Beginners Runs,8,ikon-pass,Crystal Mountain,https://www.onthesnow.com/washington/crystal-mountain-wa/ski-resort
+cypress-mountain,Beginners Runs,8,ikon-pass,Cypress Mountain,https://www.onthesnow.com/british-columbia/cypress-mountain/ski-resort
+deer-valley-resort,Beginners Runs,27,ikon-pass,Deer Valley Resort,https://www.onthesnow.com/utah/deer-valley-resort/ski-resort
+eldora-mountain-resort,Beginners Runs,18,ikon-pass,Eldora Mountain Resort,https://www.onthesnow.com/colorado/eldora-mountain-resort/ski-resort
+june-mountain,Beginners Runs,16,ikon-pass,June Mountain,https://www.onthesnow.com/california/june-mountain/ski-resort
+killington-resort,Beginners Runs,,ikon-pass,Killington Resort,https://www.onthesnow.com/vermont/killington-resort/ski-resort
+loon-mountain,Beginners Runs,,ikon-pass,Loon Mountain,https://www.onthesnow.com/new-hampshire/loon-mountain/ski-resort
+mt-bachelor,Beginners Runs,19,ikon-pass,Mt. Bachelor,https://www.onthesnow.com/oregon/mt-bachelor/ski-resort
+mt-buller,Beginners Runs,5,ikon-pass,Mt. Buller,https://www.onthesnow.com/australia/mt-buller/ski-resort
+ski-banff-norquay,Beginners Runs,38,ikon-pass,Mt. Norquay,https://www.onthesnow.com/alberta/ski-banff-norquay/ski-resort
+panorama-mountain,Beginners Runs,10,ikon-pass,Panorama Mountain,https://www.onthesnow.com/british-columbia/panorama-mountain/ski-resort
+snow-summit,Beginners Runs,19,ikon-pass,Snow Summit,https://www.onthesnow.com/california/snow-summit/ski-resort
+snowshoe-mountain-resort,Beginners Runs,40,ikon-pass,Snowshoe Mountain,https://www.onthesnow.com/west-virginia/snowshoe-mountain-resort/ski-resort
+solitude-mountain-resort,Beginners Runs,5,ikon-pass,Solitude Mountain Resort,https://www.onthesnow.com/utah/solitude-mountain-resort/ski-resort
+steamboat,Beginners Runs,,ikon-pass,Steamboat,https://www.onthesnow.com/colorado/steamboat/ski-resort
+stratton-mountain,Beginners Runs,,ikon-pass,Stratton Mountain,https://www.onthesnow.com/vermont/stratton-mountain/ski-resort
+sugarloaf,Beginners Runs,22,ikon-pass,Sugarloaf,https://www.onthesnow.com/maine/sugarloaf/ski-resort
+sunday-river,Beginners Runs,30,ikon-pass,Sunday River,https://www.onthesnow.com/maine/sunday-river/ski-resort
+boyne-highlands,Beginners Runs,36,ikon-pass,The Highlands,https://www.onthesnow.com/michigan/boyne-highlands/ski-resort
+the-summit-at-snoqualmie,Beginners Runs,15,ikon-pass,The Summit at Snoqualmie,https://www.onthesnow.com/washington/the-summit-at-snoqualmie/ski-resort
+tremblant,Beginners Runs,19,ikon-pass,Tremblant,https://www.onthesnow.com/quebec/tremblant/ski-resort
+windham-mountain,Beginners Runs,20,ikon-pass,Windham Mountain,https://www.onthesnow.com/new-york/windham-mountain/ski-resort
+winter-park-resort,Beginners Runs,24,ikon-pass,Winter Park,https://www.onthesnow.com/colorado/winter-park-resort/ski-resort
+alta-ski-area,Intermediate Runs,,mountain-collective,Alta Ski Area,https://www.onthesnow.com/utah/alta-ski-area/ski-resort
+alta-ski-area,Intermediate Runs,,ikon-pass,Alta Ski Area,https://www.onthesnow.com/utah/alta-ski-area/ski-resort
+aspen-snowmass,Intermediate Runs,,mountain-collective,Aspen Snowmass,https://www.onthesnow.com/colorado/aspen-snowmass/ski-resort
+aspen-snowmass,Intermediate Runs,,ikon-pass,Aspen Snowmass,https://www.onthesnow.com/colorado/aspen-snowmass/ski-resort
+big-sky-resort,Intermediate Runs,25,mountain-collective,Big Sky,https://www.onthesnow.com/montana/big-sky-resort/ski-resort
+big-sky-resort,Intermediate Runs,25,ikon-pass,Big Sky,https://www.onthesnow.com/montana/big-sky-resort/ski-resort
+coronet-peak,Intermediate Runs,50,mountain-collective,Coronet Peak,https://www.onthesnow.com/new-zealand/coronet-peak/ski-resort
+jackson-hole,Intermediate Runs,41,mountain-collective,Jackson Hole,https://www.onthesnow.com/wyoming/jackson-hole/ski-resort
+jackson-hole,Intermediate Runs,41,ikon-pass,Jackson Hole,https://www.onthesnow.com/wyoming/jackson-hole/ski-resort
+lake-louise,Intermediate Runs,,mountain-collective,Lake Louise,https://www.onthesnow.com/alberta/lake-louise/ski-resort
+lake-louise,Intermediate Runs,,ikon-pass,Lake Louise,https://www.onthesnow.com/alberta/lake-louise/ski-resort
+mammoth-mountain-ski-area,Intermediate Runs,48,mountain-collective,Mammoth Mountain,https://www.onthesnow.com/california/mammoth-mountain-ski-area/ski-resort
+mammoth-mountain-ski-area,Intermediate Runs,48,ikon-pass,Mammoth Mountain,https://www.onthesnow.com/california/mammoth-mountain-ski-area/ski-resort
+squaw-valley-usa,Intermediate Runs,,mountain-collective,Palisades Tahoe,https://www.onthesnow.com/california/squaw-valley-usa/ski-resort
+squaw-valley-usa,Intermediate Runs,,ikon-pass,Palisades Tahoe,https://www.onthesnow.com/california/squaw-valley-usa/ski-resort
+revelstoke-mountain,Intermediate Runs,,mountain-collective,Revelstoke,https://www.onthesnow.com/british-columbia/revelstoke-mountain/ski-resort
+revelstoke-mountain,Intermediate Runs,,ikon-pass,Revelstoke,https://www.onthesnow.com/british-columbia/revelstoke-mountain/ski-resort
+snowbasin,Intermediate Runs,37,mountain-collective,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+snowbasin,Intermediate Runs,37,epic-pass,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+snowbasin,Intermediate Runs,37,ikon-pass,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+snowbird,Intermediate Runs,25,mountain-collective,Snowbird,https://www.onthesnow.com/utah/snowbird/ski-resort
+snowbird,Intermediate Runs,25,ikon-pass,Snowbird,https://www.onthesnow.com/utah/snowbird/ski-resort
+sugarbush,Intermediate Runs,42,mountain-collective,Sugarbush,https://www.onthesnow.com/vermont/sugarbush/ski-resort
+sugarbush,Intermediate Runs,42,ikon-pass,Sugarbush,https://www.onthesnow.com/vermont/sugarbush/ski-resort
+sun-valley,Intermediate Runs,,mountain-collective,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+sun-valley,Intermediate Runs,,epic-pass,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+sun-valley,Intermediate Runs,,ikon-pass,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+sunshine-village,Intermediate Runs,26,mountain-collective,Sunshine Village,https://www.onthesnow.com/alberta/sunshine-village/ski-resort
+sunshine-village,Intermediate Runs,26,ikon-pass,Sunshine Village,https://www.onthesnow.com/alberta/sunshine-village/ski-resort
+taos-ski-valley,Intermediate Runs,16,mountain-collective,Taos Ski Valley,https://www.onthesnow.com/new-mexico/taos-ski-valley/ski-resort
+taos-ski-valley,Intermediate Runs,16,ikon-pass,Taos Ski Valley,https://www.onthesnow.com/new-mexico/taos-ski-valley/ski-resort
+the-remarkables,Intermediate Runs,40,mountain-collective,The Remarkables,https://www.onthesnow.com/new-zealand/the-remarkables/ski-resort
+thredbo-alpine-resort,Intermediate Runs,,mountain-collective,Thredbo Alpine Resort,https://www.onthesnow.com/australia/thredbo-alpine-resort/ski-resort
+thredbo-alpine-resort,Intermediate Runs,,ikon-pass,Thredbo Alpine Resort,https://www.onthesnow.com/australia/thredbo-alpine-resort/ski-resort
+valle-nevado,Intermediate Runs,23,mountain-collective,Valle Nevado,https://www.onthesnow.com/chile/valle-nevado/ski-resort
+afton-alps,Intermediate Runs,37,epic-pass,Afton Alps,https://www.onthesnow.com/minnesota/afton-alps/ski-resort
+folgaria,Intermediate Runs,59,epic-pass,Alpe Cimbra - Folgaria - Lavarone,https://www.onthesnow.co.uk/trentino/folgaria/ski-resort
+andalo-fai-della-paganella,Intermediate Runs,40,epic-pass,Andalo - Fai della Paganella,https://www.onthesnow.co.uk/trentino/andalo-fai-della-paganella/ski-resort
+beaver-creek,Intermediate Runs,30,epic-pass,Beaver Creek,https://www.onthesnow.com/colorado/beaver-creek/ski-resort
+breckenridge,Intermediate Runs,23,epic-pass,Breckenridge,https://www.onthesnow.com/colorado/breckenridge/ski-resort
+brides-les-bains,Intermediate Runs,40,epic-pass,Brides les Bains,https://www.onthesnow.co.uk/northern-alps/brides-les-bains/ski-resort
+courchevel,Intermediate Runs,38,epic-pass,Courchevel,https://www.onthesnow.co.uk/northern-alps/courchevel/ski-resort
+crested-butte-mountain-resort,Intermediate Runs,25,epic-pass,Crested Butte Mountain Resort,https://www.onthesnow.com/colorado/crested-butte-mountain-resort/ski-resort
+falls-creek-alpine-resort,Intermediate Runs,,epic-pass,Falls Creek Alpine Resort,https://www.onthesnow.com/australia/falls-creek-alpine-resort/ski-resort
+fernie-alpine,Intermediate Runs,,epic-pass,Fernie Alpine,https://www.onthesnow.com/british-columbia/fernie-alpine/ski-resort
+folgarida-marilleva,Intermediate Runs,32,epic-pass,Folgàrida - Marilléva,https://www.onthesnow.co.uk/trentino/folgarida-marilleva/ski-resort
+heavenly-mountain-resort,Intermediate Runs,62,epic-pass,Heavenly,https://www.onthesnow.com/california/heavenly-mountain-resort/ski-resort
+keystone,Intermediate Runs,43,epic-pass,Keystone,https://www.onthesnow.com/colorado/keystone/ski-resort
+kicking-horse,Intermediate Runs,,epic-pass,Kicking Horse,https://www.onthesnow.com/british-columbia/kicking-horse/ski-resort
+kimberley,Intermediate Runs,,epic-pass,Kimberley,https://www.onthesnow.com/british-columbia/kimberley/ski-resort
+kirkwood,Intermediate Runs,,epic-pass,Kirkwood,https://www.onthesnow.com/california/kirkwood/ski-resort
+la-tania,Intermediate Runs,38,epic-pass,La Tania,https://www.onthesnow.co.uk/northern-alps/la-tania/ski-resort
+les-menuires,Intermediate Runs,47,epic-pass,Les Menuires,https://www.onthesnow.co.uk/northern-alps/les-menuires/ski-resort
+madonna-di-campiglio,Intermediate Runs,50,epic-pass,Madonna di Campiglio,https://www.onthesnow.co.uk/trentino/madonna-di-campiglio/ski-resort
+meribel,Intermediate Runs,37,epic-pass,Meribel,https://www.onthesnow.co.uk/northern-alps/meribel/ski-resort
+mont-sainte-anne,Intermediate Runs,46,epic-pass,Mont Sainte Anne,https://www.onthesnow.com/quebec/mont-sainte-anne/ski-resort
+monte-bondone,Intermediate Runs,26,epic-pass,Monte Bondone,https://www.onthesnow.co.uk/trentino/monte-bondone/ski-resort
+mount-sunapee,Intermediate Runs,46,epic-pass,Mount Sunapee,https://www.onthesnow.com/new-hampshire/mount-sunapee/ski-resort
+mount-brighton,Intermediate Runs,44,epic-pass,Mt. Brighton,https://www.onthesnow.com/michigan/mount-brighton/ski-resort
+mt-hotham,Intermediate Runs,40,epic-pass,Mt. Hotham,https://www.onthesnow.com/australia/mt-hotham/ski-resort
+nakiska-ski-area,Intermediate Runs,59,epic-pass,Nakiska Ski Area,https://www.onthesnow.com/alberta/nakiska-ski-area/ski-resort
+nendaz,Intermediate Runs,41,epic-pass,Nendaz,https://www.onthesnow.co.uk/valais/nendaz/ski-resort
+northstar-california,Intermediate Runs,60,epic-pass,Northstar California,https://www.onthesnow.com/california/northstar-california/ski-resort
+okemo-mountain-resort,Intermediate Runs,38,epic-pass,Okemo Mountain Resort,https://www.onthesnow.com/vermont/okemo-mountain-resort/ski-resort
+orelle,Intermediate Runs,42,epic-pass,Orelle,https://www.onthesnow.co.uk/northern-alps/orelle/ski-resort
+park-city-mountain-resort,Intermediate Runs,41,epic-pass,Park City,https://www.onthesnow.com/utah/park-city-mountain-resort/ski-resort
+pejo,Intermediate Runs,25,epic-pass,Pejo,https://www.onthesnow.co.uk/trentino/pejo/ski-resort
+perisher,Intermediate Runs,,epic-pass,Perisher,https://www.onthesnow.com/australia/perisher/ski-resort
+pinzolo,Intermediate Runs,12,epic-pass,Pinzolo,https://www.onthesnow.co.uk/trentino/pinzolo/ski-resort
+pontedilegno-tonale-adamello-ski,Intermediate Runs,24,epic-pass,Pontedilegno - Tonale,https://www.onthesnow.co.uk/trentino/pontedilegno-tonale-adamello-ski/ski-resort
+saint-martin-de-belleville,Intermediate Runs,50,epic-pass,Saint Martin de Belleville,https://www.onthesnow.co.uk/northern-alps/saint-martin-de-belleville/ski-resort
+stevens-pass-resort,Intermediate Runs,43,epic-pass,Stevens Pass Resort,https://www.onthesnow.com/washington/stevens-pass-resort/ski-resort
+stoneham,Intermediate Runs,26,epic-pass,Stoneham,https://www.onthesnow.com/quebec/stoneham/ski-resort
+stowe-mountain-resort,Intermediate Runs,55,epic-pass,Stowe Mountain,https://www.onthesnow.com/vermont/stowe-mountain-resort/ski-resort
+telluride,Intermediate Runs,30,epic-pass,Telluride,https://www.onthesnow.com/colorado/telluride/ski-resort
+thyon-2000,Intermediate Runs,36,epic-pass,Thyon 2000,https://www.onthesnow.co.uk/valais/thyon-2000/ski-resort
+vail,Intermediate Runs,34,epic-pass,Vail,https://www.onthesnow.com/colorado/vail/ski-resort
+val-thorens,Intermediate Runs,45,epic-pass,Val Thorens,https://www.onthesnow.co.uk/northern-alps/val-thorens/ski-resort
+verbier,Intermediate Runs,31,epic-pass,Verbier,https://www.onthesnow.co.uk/valais/verbier/ski-resort
+veysonnaz,Intermediate Runs,41,epic-pass,Veysonnaz,https://www.onthesnow.co.uk/valais/veysonnaz/ski-resort
+whistler-blackcomb,Intermediate Runs,40,epic-pass,Whistler Blackcomb,https://www.onthesnow.com/british-columbia/whistler-blackcomb/ski-resort
+wilmot-mountain,Intermediate Runs,33,epic-pass,Wilmot Mountain,https://www.onthesnow.com/wisconsin/wilmot-mountain/ski-resort
+arapahoe-basin-ski-area,Intermediate Runs,20,ikon-pass,Arapahoe Basin Ski Area,https://www.onthesnow.com/colorado/arapahoe-basin-ski-area/ski-resort
+bear-mountain,Intermediate Runs,33,ikon-pass,Bear Mountain,https://www.onthesnow.com/california/bear-mountain/ski-resort
+blue-mountain,Intermediate Runs,33,ikon-pass,Blue Mountain,https://www.onthesnow.com/ontario/blue-mountain/ski-resort
+boyne-mountain-resort,Intermediate Runs,28,ikon-pass,Boyne Mountain Resort,https://www.onthesnow.com/michigan/boyne-mountain-resort/ski-resort
+brighton-resort,Intermediate Runs,,ikon-pass,Brighton Resort,https://www.onthesnow.com/utah/brighton-resort/ski-resort
+copper-mountain-resort,Intermediate Runs,24,ikon-pass,Copper Mountain,https://www.onthesnow.com/colorado/copper-mountain-resort/ski-resort
+crystal-mountain-wa,Intermediate Runs,31,ikon-pass,Crystal Mountain,https://www.onthesnow.com/washington/crystal-mountain-wa/ski-resort
+cypress-mountain,Intermediate Runs,38,ikon-pass,Cypress Mountain,https://www.onthesnow.com/british-columbia/cypress-mountain/ski-resort
+deer-valley-resort,Intermediate Runs,31,ikon-pass,Deer Valley Resort,https://www.onthesnow.com/utah/deer-valley-resort/ski-resort
+eldora-mountain-resort,Intermediate Runs,48,ikon-pass,Eldora Mountain Resort,https://www.onthesnow.com/colorado/eldora-mountain-resort/ski-resort
+june-mountain,Intermediate Runs,40,ikon-pass,June Mountain,https://www.onthesnow.com/california/june-mountain/ski-resort
+killington-resort,Intermediate Runs,,ikon-pass,Killington Resort,https://www.onthesnow.com/vermont/killington-resort/ski-resort
+loon-mountain,Intermediate Runs,,ikon-pass,Loon Mountain,https://www.onthesnow.com/new-hampshire/loon-mountain/ski-resort
+mt-bachelor,Intermediate Runs,55,ikon-pass,Mt. Bachelor,https://www.onthesnow.com/oregon/mt-bachelor/ski-resort
+mt-buller,Intermediate Runs,39,ikon-pass,Mt. Buller,https://www.onthesnow.com/australia/mt-buller/ski-resort
+ski-banff-norquay,Intermediate Runs,25,ikon-pass,Mt. Norquay,https://www.onthesnow.com/alberta/ski-banff-norquay/ski-resort
+panorama-mountain,Intermediate Runs,35,ikon-pass,Panorama Mountain,https://www.onthesnow.com/british-columbia/panorama-mountain/ski-resort
+snow-summit,Intermediate Runs,48,ikon-pass,Snow Summit,https://www.onthesnow.com/california/snow-summit/ski-resort
+snowshoe-mountain-resort,Intermediate Runs,33,ikon-pass,Snowshoe Mountain,https://www.onthesnow.com/west-virginia/snowshoe-mountain-resort/ski-resort
+solitude-mountain-resort,Intermediate Runs,31,ikon-pass,Solitude Mountain Resort,https://www.onthesnow.com/utah/solitude-mountain-resort/ski-resort
+steamboat,Intermediate Runs,,ikon-pass,Steamboat,https://www.onthesnow.com/colorado/steamboat/ski-resort
+stratton-mountain,Intermediate Runs,,ikon-pass,Stratton Mountain,https://www.onthesnow.com/vermont/stratton-mountain/ski-resort
+sugarloaf,Intermediate Runs,32,ikon-pass,Sugarloaf,https://www.onthesnow.com/maine/sugarloaf/ski-resort
+sunday-river,Intermediate Runs,36,ikon-pass,Sunday River,https://www.onthesnow.com/maine/sunday-river/ski-resort
+boyne-highlands,Intermediate Runs,31,ikon-pass,The Highlands,https://www.onthesnow.com/michigan/boyne-highlands/ski-resort
+the-summit-at-snoqualmie,Intermediate Runs,40,ikon-pass,The Summit at Snoqualmie,https://www.onthesnow.com/washington/the-summit-at-snoqualmie/ski-resort
+tremblant,Intermediate Runs,30,ikon-pass,Tremblant,https://www.onthesnow.com/quebec/tremblant/ski-resort
+windham-mountain,Intermediate Runs,48,ikon-pass,Windham Mountain,https://www.onthesnow.com/new-york/windham-mountain/ski-resort
+winter-park-resort,Intermediate Runs,22,ikon-pass,Winter Park,https://www.onthesnow.com/colorado/winter-park-resort/ski-resort
+alta-ski-area,Advanced Runs,,mountain-collective,Alta Ski Area,https://www.onthesnow.com/utah/alta-ski-area/ski-resort
+alta-ski-area,Advanced Runs,,ikon-pass,Alta Ski Area,https://www.onthesnow.com/utah/alta-ski-area/ski-resort
+aspen-snowmass,Advanced Runs,,mountain-collective,Aspen Snowmass,https://www.onthesnow.com/colorado/aspen-snowmass/ski-resort
+aspen-snowmass,Advanced Runs,,ikon-pass,Aspen Snowmass,https://www.onthesnow.com/colorado/aspen-snowmass/ski-resort
+big-sky-resort,Advanced Runs,42,mountain-collective,Big Sky,https://www.onthesnow.com/montana/big-sky-resort/ski-resort
+big-sky-resort,Advanced Runs,42,ikon-pass,Big Sky,https://www.onthesnow.com/montana/big-sky-resort/ski-resort
+coronet-peak,Advanced Runs,26,mountain-collective,Coronet Peak,https://www.onthesnow.com/new-zealand/coronet-peak/ski-resort
+jackson-hole,Advanced Runs,38,mountain-collective,Jackson Hole,https://www.onthesnow.com/wyoming/jackson-hole/ski-resort
+jackson-hole,Advanced Runs,38,ikon-pass,Jackson Hole,https://www.onthesnow.com/wyoming/jackson-hole/ski-resort
+lake-louise,Advanced Runs,,mountain-collective,Lake Louise,https://www.onthesnow.com/alberta/lake-louise/ski-resort
+lake-louise,Advanced Runs,,ikon-pass,Lake Louise,https://www.onthesnow.com/alberta/lake-louise/ski-resort
+mammoth-mountain-ski-area,Advanced Runs,24,mountain-collective,Mammoth Mountain,https://www.onthesnow.com/california/mammoth-mountain-ski-area/ski-resort
+mammoth-mountain-ski-area,Advanced Runs,24,ikon-pass,Mammoth Mountain,https://www.onthesnow.com/california/mammoth-mountain-ski-area/ski-resort
+squaw-valley-usa,Advanced Runs,,mountain-collective,Palisades Tahoe,https://www.onthesnow.com/california/squaw-valley-usa/ski-resort
+squaw-valley-usa,Advanced Runs,,ikon-pass,Palisades Tahoe,https://www.onthesnow.com/california/squaw-valley-usa/ski-resort
+revelstoke-mountain,Advanced Runs,,mountain-collective,Revelstoke,https://www.onthesnow.com/british-columbia/revelstoke-mountain/ski-resort
+revelstoke-mountain,Advanced Runs,,ikon-pass,Revelstoke,https://www.onthesnow.com/british-columbia/revelstoke-mountain/ski-resort
+snowbasin,Advanced Runs,47,mountain-collective,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+snowbasin,Advanced Runs,47,epic-pass,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+snowbasin,Advanced Runs,47,ikon-pass,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+snowbird,Advanced Runs,43,mountain-collective,Snowbird,https://www.onthesnow.com/utah/snowbird/ski-resort
+snowbird,Advanced Runs,43,ikon-pass,Snowbird,https://www.onthesnow.com/utah/snowbird/ski-resort
+sugarbush,Advanced Runs,27,mountain-collective,Sugarbush,https://www.onthesnow.com/vermont/sugarbush/ski-resort
+sugarbush,Advanced Runs,27,ikon-pass,Sugarbush,https://www.onthesnow.com/vermont/sugarbush/ski-resort
+sun-valley,Advanced Runs,,mountain-collective,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+sun-valley,Advanced Runs,,epic-pass,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+sun-valley,Advanced Runs,,ikon-pass,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+sunshine-village,Advanced Runs,48,mountain-collective,Sunshine Village,https://www.onthesnow.com/alberta/sunshine-village/ski-resort
+sunshine-village,Advanced Runs,48,ikon-pass,Sunshine Village,https://www.onthesnow.com/alberta/sunshine-village/ski-resort
+taos-ski-valley,Advanced Runs,30,mountain-collective,Taos Ski Valley,https://www.onthesnow.com/new-mexico/taos-ski-valley/ski-resort
+taos-ski-valley,Advanced Runs,30,ikon-pass,Taos Ski Valley,https://www.onthesnow.com/new-mexico/taos-ski-valley/ski-resort
+the-remarkables,Advanced Runs,10,mountain-collective,The Remarkables,https://www.onthesnow.com/new-zealand/the-remarkables/ski-resort
+thredbo-alpine-resort,Advanced Runs,,mountain-collective,Thredbo Alpine Resort,https://www.onthesnow.com/australia/thredbo-alpine-resort/ski-resort
+thredbo-alpine-resort,Advanced Runs,,ikon-pass,Thredbo Alpine Resort,https://www.onthesnow.com/australia/thredbo-alpine-resort/ski-resort
+valle-nevado,Advanced Runs,35,mountain-collective,Valle Nevado,https://www.onthesnow.com/chile/valle-nevado/ski-resort
+afton-alps,Advanced Runs,29,epic-pass,Afton Alps,https://www.onthesnow.com/minnesota/afton-alps/ski-resort
+folgaria,Advanced Runs,34,epic-pass,Alpe Cimbra - Folgaria - Lavarone,https://www.onthesnow.co.uk/trentino/folgaria/ski-resort
+andalo-fai-della-paganella,Advanced Runs,57,epic-pass,Andalo - Fai della Paganella,https://www.onthesnow.co.uk/trentino/andalo-fai-della-paganella/ski-resort
+beaver-creek,Advanced Runs,24,epic-pass,Beaver Creek,https://www.onthesnow.com/colorado/beaver-creek/ski-resort
+breckenridge,Advanced Runs,36,epic-pass,Breckenridge,https://www.onthesnow.com/colorado/breckenridge/ski-resort
+brides-les-bains,Advanced Runs,37,epic-pass,Brides les Bains,https://www.onthesnow.co.uk/northern-alps/brides-les-bains/ski-resort
+courchevel,Advanced Runs,33,epic-pass,Courchevel,https://www.onthesnow.co.uk/northern-alps/courchevel/ski-resort
+crested-butte-mountain-resort,Advanced Runs,25,epic-pass,Crested Butte Mountain Resort,https://www.onthesnow.com/colorado/crested-butte-mountain-resort/ski-resort
+falls-creek-alpine-resort,Advanced Runs,,epic-pass,Falls Creek Alpine Resort,https://www.onthesnow.com/australia/falls-creek-alpine-resort/ski-resort
+fernie-alpine,Advanced Runs,,epic-pass,Fernie Alpine,https://www.onthesnow.com/british-columbia/fernie-alpine/ski-resort
+folgarida-marilleva,Advanced Runs,48,epic-pass,Folgàrida - Marilléva,https://www.onthesnow.co.uk/trentino/folgarida-marilleva/ski-resort
+heavenly-mountain-resort,Advanced Runs,25,epic-pass,Heavenly,https://www.onthesnow.com/california/heavenly-mountain-resort/ski-resort
+keystone,Advanced Runs,41,epic-pass,Keystone,https://www.onthesnow.com/colorado/keystone/ski-resort
+kicking-horse,Advanced Runs,,epic-pass,Kicking Horse,https://www.onthesnow.com/british-columbia/kicking-horse/ski-resort
+kimberley,Advanced Runs,,epic-pass,Kimberley,https://www.onthesnow.com/british-columbia/kimberley/ski-resort
+kirkwood,Advanced Runs,,epic-pass,Kirkwood,https://www.onthesnow.com/california/kirkwood/ski-resort
+la-tania,Advanced Runs,33,epic-pass,La Tania,https://www.onthesnow.co.uk/northern-alps/la-tania/ski-resort
+les-menuires,Advanced Runs,28,epic-pass,Les Menuires,https://www.onthesnow.co.uk/northern-alps/les-menuires/ski-resort
+madonna-di-campiglio,Advanced Runs,38,epic-pass,Madonna di Campiglio,https://www.onthesnow.co.uk/trentino/madonna-di-campiglio/ski-resort
+meribel,Advanced Runs,40,epic-pass,Meribel,https://www.onthesnow.co.uk/northern-alps/meribel/ski-resort
+mont-sainte-anne,Advanced Runs,20,epic-pass,Mont Sainte Anne,https://www.onthesnow.com/quebec/mont-sainte-anne/ski-resort
+monte-bondone,Advanced Runs,74,epic-pass,Monte Bondone,https://www.onthesnow.co.uk/trentino/monte-bondone/ski-resort
+mount-sunapee,Advanced Runs,11,epic-pass,Mount Sunapee,https://www.onthesnow.com/new-hampshire/mount-sunapee/ski-resort
+mount-brighton,Advanced Runs,24,epic-pass,Mt. Brighton,https://www.onthesnow.com/michigan/mount-brighton/ski-resort
+mt-hotham,Advanced Runs,43,epic-pass,Mt. Hotham,https://www.onthesnow.com/australia/mt-hotham/ski-resort
+nakiska-ski-area,Advanced Runs,21,epic-pass,Nakiska Ski Area,https://www.onthesnow.com/alberta/nakiska-ski-area/ski-resort
+nendaz,Advanced Runs,54,epic-pass,Nendaz,https://www.onthesnow.co.uk/valais/nendaz/ski-resort
+northstar-california,Advanced Runs,27,epic-pass,Northstar California,https://www.onthesnow.com/california/northstar-california/ski-resort
+okemo-mountain-resort,Advanced Runs,21,epic-pass,Okemo Mountain Resort,https://www.onthesnow.com/vermont/okemo-mountain-resort/ski-resort
+orelle,Advanced Runs,36,epic-pass,Orelle,https://www.onthesnow.co.uk/northern-alps/orelle/ski-resort
+park-city-mountain-resort,Advanced Runs,28,epic-pass,Park City,https://www.onthesnow.com/utah/park-city-mountain-resort/ski-resort
+pejo,Advanced Runs,65,epic-pass,Pejo,https://www.onthesnow.co.uk/trentino/pejo/ski-resort
+perisher,Advanced Runs,,epic-pass,Perisher,https://www.onthesnow.com/australia/perisher/ski-resort
+pinzolo,Advanced Runs,41,epic-pass,Pinzolo,https://www.onthesnow.co.uk/trentino/pinzolo/ski-resort
+pontedilegno-tonale-adamello-ski,Advanced Runs,61,epic-pass,Pontedilegno - Tonale,https://www.onthesnow.co.uk/trentino/pontedilegno-tonale-adamello-ski/ski-resort
+saint-martin-de-belleville,Advanced Runs,26,epic-pass,Saint Martin de Belleville,https://www.onthesnow.co.uk/northern-alps/saint-martin-de-belleville/ski-resort
+stevens-pass-resort,Advanced Runs,31,epic-pass,Stevens Pass Resort,https://www.onthesnow.com/washington/stevens-pass-resort/ski-resort
+stoneham,Advanced Runs,39,epic-pass,Stoneham,https://www.onthesnow.com/quebec/stoneham/ski-resort
+stowe-mountain-resort,Advanced Runs,15,epic-pass,Stowe Mountain,https://www.onthesnow.com/vermont/stowe-mountain-resort/ski-resort
+telluride,Advanced Runs,21,epic-pass,Telluride,https://www.onthesnow.com/colorado/telluride/ski-resort
+thyon-2000,Advanced Runs,56,epic-pass,Thyon 2000,https://www.onthesnow.co.uk/valais/thyon-2000/ski-resort
+vail,Advanced Runs,41,epic-pass,Vail,https://www.onthesnow.com/colorado/vail/ski-resort
+val-thorens,Advanced Runs,34,epic-pass,Val Thorens,https://www.onthesnow.co.uk/northern-alps/val-thorens/ski-resort
+verbier,Advanced Runs,48,epic-pass,Verbier,https://www.onthesnow.co.uk/valais/verbier/ski-resort
+veysonnaz,Advanced Runs,54,epic-pass,Veysonnaz,https://www.onthesnow.co.uk/valais/veysonnaz/ski-resort
+whistler-blackcomb,Advanced Runs,35,epic-pass,Whistler Blackcomb,https://www.onthesnow.com/british-columbia/whistler-blackcomb/ski-resort
+wilmot-mountain,Advanced Runs,33,epic-pass,Wilmot Mountain,https://www.onthesnow.com/wisconsin/wilmot-mountain/ski-resort
+arapahoe-basin-ski-area,Advanced Runs,49,ikon-pass,Arapahoe Basin Ski Area,https://www.onthesnow.com/colorado/arapahoe-basin-ski-area/ski-resort
+bear-mountain,Advanced Runs,33,ikon-pass,Bear Mountain,https://www.onthesnow.com/california/bear-mountain/ski-resort
+blue-mountain,Advanced Runs,16,ikon-pass,Blue Mountain,https://www.onthesnow.com/ontario/blue-mountain/ski-resort
+boyne-mountain-resort,Advanced Runs,20,ikon-pass,Boyne Mountain Resort,https://www.onthesnow.com/michigan/boyne-mountain-resort/ski-resort
+brighton-resort,Advanced Runs,,ikon-pass,Brighton Resort,https://www.onthesnow.com/utah/brighton-resort/ski-resort
+copper-mountain-resort,Advanced Runs,34,ikon-pass,Copper Mountain,https://www.onthesnow.com/colorado/copper-mountain-resort/ski-resort
+crystal-mountain-wa,Advanced Runs,32,ikon-pass,Crystal Mountain,https://www.onthesnow.com/washington/crystal-mountain-wa/ski-resort
+cypress-mountain,Advanced Runs,34,ikon-pass,Cypress Mountain,https://www.onthesnow.com/british-columbia/cypress-mountain/ski-resort
+deer-valley-resort,Advanced Runs,10,ikon-pass,Deer Valley Resort,https://www.onthesnow.com/utah/deer-valley-resort/ski-resort
+eldora-mountain-resort,Advanced Runs,18,ikon-pass,Eldora Mountain Resort,https://www.onthesnow.com/colorado/eldora-mountain-resort/ski-resort
+june-mountain,Advanced Runs,28,ikon-pass,June Mountain,https://www.onthesnow.com/california/june-mountain/ski-resort
+killington-resort,Advanced Runs,,ikon-pass,Killington Resort,https://www.onthesnow.com/vermont/killington-resort/ski-resort
+loon-mountain,Advanced Runs,,ikon-pass,Loon Mountain,https://www.onthesnow.com/new-hampshire/loon-mountain/ski-resort
+mt-bachelor,Advanced Runs,22,ikon-pass,Mt. Bachelor,https://www.onthesnow.com/oregon/mt-bachelor/ski-resort
+mt-buller,Advanced Runs,56,ikon-pass,Mt. Buller,https://www.onthesnow.com/australia/mt-buller/ski-resort
+ski-banff-norquay,Advanced Runs,37,ikon-pass,Mt. Norquay,https://www.onthesnow.com/alberta/ski-banff-norquay/ski-resort
+panorama-mountain,Advanced Runs,21,ikon-pass,Panorama Mountain,https://www.onthesnow.com/british-columbia/panorama-mountain/ski-resort
+snow-summit,Advanced Runs,26,ikon-pass,Snow Summit,https://www.onthesnow.com/california/snow-summit/ski-resort
+snowshoe-mountain-resort,Advanced Runs,25,ikon-pass,Snowshoe Mountain,https://www.onthesnow.com/west-virginia/snowshoe-mountain-resort/ski-resort
+solitude-mountain-resort,Advanced Runs,46,ikon-pass,Solitude Mountain Resort,https://www.onthesnow.com/utah/solitude-mountain-resort/ski-resort
+steamboat,Advanced Runs,,ikon-pass,Steamboat,https://www.onthesnow.com/colorado/steamboat/ski-resort
+stratton-mountain,Advanced Runs,,ikon-pass,Stratton Mountain,https://www.onthesnow.com/vermont/stratton-mountain/ski-resort
+sugarloaf,Advanced Runs,26,ikon-pass,Sugarloaf,https://www.onthesnow.com/maine/sugarloaf/ski-resort
+sunday-river,Advanced Runs,18,ikon-pass,Sunday River,https://www.onthesnow.com/maine/sunday-river/ski-resort
+boyne-highlands,Advanced Runs,31,ikon-pass,The Highlands,https://www.onthesnow.com/michigan/boyne-highlands/ski-resort
+the-summit-at-snoqualmie,Advanced Runs,45,ikon-pass,The Summit at Snoqualmie,https://www.onthesnow.com/washington/the-summit-at-snoqualmie/ski-resort
+tremblant,Advanced Runs,37,ikon-pass,Tremblant,https://www.onthesnow.com/quebec/tremblant/ski-resort
+windham-mountain,Advanced Runs,19,ikon-pass,Windham Mountain,https://www.onthesnow.com/new-york/windham-mountain/ski-resort
+winter-park-resort,Advanced Runs,50,ikon-pass,Winter Park,https://www.onthesnow.com/colorado/winter-park-resort/ski-resort
+alta-ski-area,Expert Runs,,mountain-collective,Alta Ski Area,https://www.onthesnow.com/utah/alta-ski-area/ski-resort
+alta-ski-area,Expert Runs,,ikon-pass,Alta Ski Area,https://www.onthesnow.com/utah/alta-ski-area/ski-resort
+aspen-snowmass,Expert Runs,,mountain-collective,Aspen Snowmass,https://www.onthesnow.com/colorado/aspen-snowmass/ski-resort
+aspen-snowmass,Expert Runs,,ikon-pass,Aspen Snowmass,https://www.onthesnow.com/colorado/aspen-snowmass/ski-resort
+big-sky-resort,Expert Runs,18,mountain-collective,Big Sky,https://www.onthesnow.com/montana/big-sky-resort/ski-resort
+big-sky-resort,Expert Runs,18,ikon-pass,Big Sky,https://www.onthesnow.com/montana/big-sky-resort/ski-resort
+coronet-peak,Expert Runs,21,mountain-collective,Coronet Peak,https://www.onthesnow.com/new-zealand/coronet-peak/ski-resort
+jackson-hole,Expert Runs,17,mountain-collective,Jackson Hole,https://www.onthesnow.com/wyoming/jackson-hole/ski-resort
+jackson-hole,Expert Runs,17,ikon-pass,Jackson Hole,https://www.onthesnow.com/wyoming/jackson-hole/ski-resort
+lake-louise,Expert Runs,,mountain-collective,Lake Louise,https://www.onthesnow.com/alberta/lake-louise/ski-resort
+lake-louise,Expert Runs,,ikon-pass,Lake Louise,https://www.onthesnow.com/alberta/lake-louise/ski-resort
+mammoth-mountain-ski-area,Expert Runs,13,mountain-collective,Mammoth Mountain,https://www.onthesnow.com/california/mammoth-mountain-ski-area/ski-resort
+mammoth-mountain-ski-area,Expert Runs,13,ikon-pass,Mammoth Mountain,https://www.onthesnow.com/california/mammoth-mountain-ski-area/ski-resort
+squaw-valley-usa,Expert Runs,,mountain-collective,Palisades Tahoe,https://www.onthesnow.com/california/squaw-valley-usa/ski-resort
+squaw-valley-usa,Expert Runs,,ikon-pass,Palisades Tahoe,https://www.onthesnow.com/california/squaw-valley-usa/ski-resort
+revelstoke-mountain,Expert Runs,,mountain-collective,Revelstoke,https://www.onthesnow.com/british-columbia/revelstoke-mountain/ski-resort
+revelstoke-mountain,Expert Runs,,ikon-pass,Revelstoke,https://www.onthesnow.com/british-columbia/revelstoke-mountain/ski-resort
+snowbasin,Expert Runs,9,mountain-collective,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+snowbasin,Expert Runs,9,epic-pass,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+snowbasin,Expert Runs,9,ikon-pass,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+snowbird,Expert Runs,24,mountain-collective,Snowbird,https://www.onthesnow.com/utah/snowbird/ski-resort
+snowbird,Expert Runs,24,ikon-pass,Snowbird,https://www.onthesnow.com/utah/snowbird/ski-resort
+sugarbush,Expert Runs,7,mountain-collective,Sugarbush,https://www.onthesnow.com/vermont/sugarbush/ski-resort
+sugarbush,Expert Runs,7,ikon-pass,Sugarbush,https://www.onthesnow.com/vermont/sugarbush/ski-resort
+sun-valley,Expert Runs,,mountain-collective,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+sun-valley,Expert Runs,,epic-pass,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+sun-valley,Expert Runs,,ikon-pass,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+sunshine-village,Expert Runs,8,mountain-collective,Sunshine Village,https://www.onthesnow.com/alberta/sunshine-village/ski-resort
+sunshine-village,Expert Runs,8,ikon-pass,Sunshine Village,https://www.onthesnow.com/alberta/sunshine-village/ski-resort
+taos-ski-valley,Expert Runs,40,mountain-collective,Taos Ski Valley,https://www.onthesnow.com/new-mexico/taos-ski-valley/ski-resort
+taos-ski-valley,Expert Runs,40,ikon-pass,Taos Ski Valley,https://www.onthesnow.com/new-mexico/taos-ski-valley/ski-resort
+the-remarkables,Expert Runs,40,mountain-collective,The Remarkables,https://www.onthesnow.com/new-zealand/the-remarkables/ski-resort
+thredbo-alpine-resort,Expert Runs,,mountain-collective,Thredbo Alpine Resort,https://www.onthesnow.com/australia/thredbo-alpine-resort/ski-resort
+thredbo-alpine-resort,Expert Runs,,ikon-pass,Thredbo Alpine Resort,https://www.onthesnow.com/australia/thredbo-alpine-resort/ski-resort
+valle-nevado,Expert Runs,12,mountain-collective,Valle Nevado,https://www.onthesnow.com/chile/valle-nevado/ski-resort
+afton-alps,Expert Runs,,epic-pass,Afton Alps,https://www.onthesnow.com/minnesota/afton-alps/ski-resort
+folgaria,Expert Runs,6,epic-pass,Alpe Cimbra - Folgaria - Lavarone,https://www.onthesnow.co.uk/trentino/folgaria/ski-resort
+andalo-fai-della-paganella,Expert Runs,3,epic-pass,Andalo - Fai della Paganella,https://www.onthesnow.co.uk/trentino/andalo-fai-della-paganella/ski-resort
+beaver-creek,Expert Runs,8,epic-pass,Beaver Creek,https://www.onthesnow.com/colorado/beaver-creek/ski-resort
+breckenridge,Expert Runs,28,epic-pass,Breckenridge,https://www.onthesnow.com/colorado/breckenridge/ski-resort
+brides-les-bains,Expert Runs,15,epic-pass,Brides les Bains,https://www.onthesnow.co.uk/northern-alps/brides-les-bains/ski-resort
+courchevel,Expert Runs,10,epic-pass,Courchevel,https://www.onthesnow.co.uk/northern-alps/courchevel/ski-resort
+crested-butte-mountain-resort,Expert Runs,36,epic-pass,Crested Butte Mountain Resort,https://www.onthesnow.com/colorado/crested-butte-mountain-resort/ski-resort
+falls-creek-alpine-resort,Expert Runs,,epic-pass,Falls Creek Alpine Resort,https://www.onthesnow.com/australia/falls-creek-alpine-resort/ski-resort
+fernie-alpine,Expert Runs,,epic-pass,Fernie Alpine,https://www.onthesnow.com/british-columbia/fernie-alpine/ski-resort
+folgarida-marilleva,Expert Runs,21,epic-pass,Folgàrida - Marilléva,https://www.onthesnow.co.uk/trentino/folgarida-marilleva/ski-resort
+heavenly-mountain-resort,Expert Runs,5,epic-pass,Heavenly,https://www.onthesnow.com/california/heavenly-mountain-resort/ski-resort
+keystone,Expert Runs,,epic-pass,Keystone,https://www.onthesnow.com/colorado/keystone/ski-resort
+kicking-horse,Expert Runs,,epic-pass,Kicking Horse,https://www.onthesnow.com/british-columbia/kicking-horse/ski-resort
+kimberley,Expert Runs,,epic-pass,Kimberley,https://www.onthesnow.com/british-columbia/kimberley/ski-resort
+kirkwood,Expert Runs,,epic-pass,Kirkwood,https://www.onthesnow.com/california/kirkwood/ski-resort
+la-tania,Expert Runs,10,epic-pass,La Tania,https://www.onthesnow.co.uk/northern-alps/la-tania/ski-resort
+les-menuires,Expert Runs,10,epic-pass,Les Menuires,https://www.onthesnow.co.uk/northern-alps/les-menuires/ski-resort
+madonna-di-campiglio,Expert Runs,12,epic-pass,Madonna di Campiglio,https://www.onthesnow.co.uk/trentino/madonna-di-campiglio/ski-resort
+meribel,Expert Runs,11,epic-pass,Meribel,https://www.onthesnow.co.uk/northern-alps/meribel/ski-resort
+mont-sainte-anne,Expert Runs,13,epic-pass,Mont Sainte Anne,https://www.onthesnow.com/quebec/mont-sainte-anne/ski-resort
+monte-bondone,Expert Runs,,epic-pass,Monte Bondone,https://www.onthesnow.co.uk/trentino/monte-bondone/ski-resort
+mount-sunapee,Expert Runs,13,epic-pass,Mount Sunapee,https://www.onthesnow.com/new-hampshire/mount-sunapee/ski-resort
+mount-brighton,Expert Runs,8,epic-pass,Mt. Brighton,https://www.onthesnow.com/michigan/mount-brighton/ski-resort
+mt-hotham,Expert Runs,12,epic-pass,Mt. Hotham,https://www.onthesnow.com/australia/mt-hotham/ski-resort
+nakiska-ski-area,Expert Runs,5,epic-pass,Nakiska Ski Area,https://www.onthesnow.com/alberta/nakiska-ski-area/ski-resort
+nendaz,Expert Runs,5,epic-pass,Nendaz,https://www.onthesnow.co.uk/valais/nendaz/ski-resort
+northstar-california,Expert Runs,,epic-pass,Northstar California,https://www.onthesnow.com/california/northstar-california/ski-resort
+okemo-mountain-resort,Expert Runs,9,epic-pass,Okemo Mountain Resort,https://www.onthesnow.com/vermont/okemo-mountain-resort/ski-resort
+orelle,Expert Runs,9,epic-pass,Orelle,https://www.onthesnow.co.uk/northern-alps/orelle/ski-resort
+park-city-mountain-resort,Expert Runs,23,epic-pass,Park City,https://www.onthesnow.com/utah/park-city-mountain-resort/ski-resort
+pejo,Expert Runs,10,epic-pass,Pejo,https://www.onthesnow.co.uk/trentino/pejo/ski-resort
+perisher,Expert Runs,,epic-pass,Perisher,https://www.onthesnow.com/australia/perisher/ski-resort
+pinzolo,Expert Runs,47,epic-pass,Pinzolo,https://www.onthesnow.co.uk/trentino/pinzolo/ski-resort
+pontedilegno-tonale-adamello-ski,Expert Runs,15,epic-pass,Pontedilegno - Tonale,https://www.onthesnow.co.uk/trentino/pontedilegno-tonale-adamello-ski/ski-resort
+saint-martin-de-belleville,Expert Runs,10,epic-pass,Saint Martin de Belleville,https://www.onthesnow.co.uk/northern-alps/saint-martin-de-belleville/ski-resort
+stevens-pass-resort,Expert Runs,18,epic-pass,Stevens Pass Resort,https://www.onthesnow.com/washington/stevens-pass-resort/ski-resort
+stoneham,Expert Runs,16,epic-pass,Stoneham,https://www.onthesnow.com/quebec/stoneham/ski-resort
+stowe-mountain-resort,Expert Runs,15,epic-pass,Stowe Mountain,https://www.onthesnow.com/vermont/stowe-mountain-resort/ski-resort
+telluride,Expert Runs,34,epic-pass,Telluride,https://www.onthesnow.com/colorado/telluride/ski-resort
+thyon-2000,Expert Runs,9,epic-pass,Thyon 2000,https://www.onthesnow.co.uk/valais/thyon-2000/ski-resort
+vail,Expert Runs,2,epic-pass,Vail,https://www.onthesnow.com/colorado/vail/ski-resort
+val-thorens,Expert Runs,8,epic-pass,Val Thorens,https://www.onthesnow.co.uk/northern-alps/val-thorens/ski-resort
+verbier,Expert Runs,21,epic-pass,Verbier,https://www.onthesnow.co.uk/valais/verbier/ski-resort
+veysonnaz,Expert Runs,5,epic-pass,Veysonnaz,https://www.onthesnow.co.uk/valais/veysonnaz/ski-resort
+whistler-blackcomb,Expert Runs,7,epic-pass,Whistler Blackcomb,https://www.onthesnow.com/british-columbia/whistler-blackcomb/ski-resort
+wilmot-mountain,Expert Runs,,epic-pass,Wilmot Mountain,https://www.onthesnow.com/wisconsin/wilmot-mountain/ski-resort
+arapahoe-basin-ski-area,Expert Runs,24,ikon-pass,Arapahoe Basin Ski Area,https://www.onthesnow.com/colorado/arapahoe-basin-ski-area/ski-resort
+bear-mountain,Expert Runs,13,ikon-pass,Bear Mountain,https://www.onthesnow.com/california/bear-mountain/ski-resort
+blue-mountain,Expert Runs,29,ikon-pass,Blue Mountain,https://www.onthesnow.com/ontario/blue-mountain/ski-resort
+boyne-mountain-resort,Expert Runs,3,ikon-pass,Boyne Mountain Resort,https://www.onthesnow.com/michigan/boyne-mountain-resort/ski-resort
+brighton-resort,Expert Runs,,ikon-pass,Brighton Resort,https://www.onthesnow.com/utah/brighton-resort/ski-resort
+copper-mountain-resort,Expert Runs,17,ikon-pass,Copper Mountain,https://www.onthesnow.com/colorado/copper-mountain-resort/ski-resort
+crystal-mountain-wa,Expert Runs,29,ikon-pass,Crystal Mountain,https://www.onthesnow.com/washington/crystal-mountain-wa/ski-resort
+cypress-mountain,Expert Runs,20,ikon-pass,Cypress Mountain,https://www.onthesnow.com/british-columbia/cypress-mountain/ski-resort
+deer-valley-resort,Expert Runs,32,ikon-pass,Deer Valley Resort,https://www.onthesnow.com/utah/deer-valley-resort/ski-resort
+eldora-mountain-resort,Expert Runs,16,ikon-pass,Eldora Mountain Resort,https://www.onthesnow.com/colorado/eldora-mountain-resort/ski-resort
+june-mountain,Expert Runs,16,ikon-pass,June Mountain,https://www.onthesnow.com/california/june-mountain/ski-resort
+killington-resort,Expert Runs,,ikon-pass,Killington Resort,https://www.onthesnow.com/vermont/killington-resort/ski-resort
+loon-mountain,Expert Runs,,ikon-pass,Loon Mountain,https://www.onthesnow.com/new-hampshire/loon-mountain/ski-resort
+mt-bachelor,Expert Runs,3,ikon-pass,Mt. Bachelor,https://www.onthesnow.com/oregon/mt-bachelor/ski-resort
+mt-buller,Expert Runs,,ikon-pass,Mt. Buller,https://www.onthesnow.com/australia/mt-buller/ski-resort
+ski-banff-norquay,Expert Runs,,ikon-pass,Mt. Norquay,https://www.onthesnow.com/alberta/ski-banff-norquay/ski-resort
+panorama-mountain,Expert Runs,34,ikon-pass,Panorama Mountain,https://www.onthesnow.com/british-columbia/panorama-mountain/ski-resort
+snow-summit,Expert Runs,7,ikon-pass,Snow Summit,https://www.onthesnow.com/california/snow-summit/ski-resort
+snowshoe-mountain-resort,Expert Runs,2,ikon-pass,Snowshoe Mountain,https://www.onthesnow.com/west-virginia/snowshoe-mountain-resort/ski-resort
+solitude-mountain-resort,Expert Runs,18,ikon-pass,Solitude Mountain Resort,https://www.onthesnow.com/utah/solitude-mountain-resort/ski-resort
+steamboat,Expert Runs,,ikon-pass,Steamboat,https://www.onthesnow.com/colorado/steamboat/ski-resort
+stratton-mountain,Expert Runs,,ikon-pass,Stratton Mountain,https://www.onthesnow.com/vermont/stratton-mountain/ski-resort
+sugarloaf,Expert Runs,20,ikon-pass,Sugarloaf,https://www.onthesnow.com/maine/sugarloaf/ski-resort
+sunday-river,Expert Runs,16,ikon-pass,Sunday River,https://www.onthesnow.com/maine/sunday-river/ski-resort
+boyne-highlands,Expert Runs,2,ikon-pass,The Highlands,https://www.onthesnow.com/michigan/boyne-highlands/ski-resort
+the-summit-at-snoqualmie,Expert Runs,,ikon-pass,The Summit at Snoqualmie,https://www.onthesnow.com/washington/the-summit-at-snoqualmie/ski-resort
+tremblant,Expert Runs,13,ikon-pass,Tremblant,https://www.onthesnow.com/quebec/tremblant/ski-resort
+windham-mountain,Expert Runs,13,ikon-pass,Windham Mountain,https://www.onthesnow.com/new-york/windham-mountain/ski-resort
+winter-park-resort,Expert Runs,4,ikon-pass,Winter Park,https://www.onthesnow.com/colorado/winter-park-resort/ski-resort
