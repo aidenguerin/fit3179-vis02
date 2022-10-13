@@ -1,8 +1,9 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 1000,
-    "height": 600,
+    "width": 600,
+    "height": 400,
     "projection": {"type": "mercator"},
+    "title":"Australia / NZ",
     "layer": [
       {
         "data": {
