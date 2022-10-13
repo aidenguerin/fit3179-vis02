@@ -14,7 +14,7 @@
     },
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/aidenguerin/fit3179-vis02/main/web-scraping/data/raw_resort_locations.csv"
+        "url": "https://raw.githubusercontent.com/aidenguerin/fit3179-vis02/main/web-scraping/data/master.csv"
       },
       "transform": [{"filter":{"field":"country-short","oneOf":["US","CA"]}}],
       "mark": {"type": "circle"},
@@ -23,7 +23,8 @@
         "latitude": {"field": "lat", "type": "quantitative"},
         "longitude": {"field": "lng", "type": "quantitative"},
         "tooltip":[
-          {"field": "short-name","type": "nominal", "title":"Resort"},
+          {"field": "resort","type": "nominal", "title":"Resort"},
+          {"field": "pass", "type": "nominal", "title":"Included in: "},
           {"field": "country-long", "type": "nominal", "title":"Country"}]
       }
     }

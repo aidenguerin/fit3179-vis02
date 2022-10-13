@@ -1,12 +1,13 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "data": {"url": "https://raw.githubusercontent.com/aidenguerin/fit3179-vis02/main/web-scraping/data/master.csv"},
+    "data": {"url": "https://raw.githubusercontent.com/aidenguerin/fit3179-vis02/main/web-scraping/data/terrain_difficulty.csv"},
     "mark": "bar",
     "width": 1200,
     "height": 200,
+    "transform": [{"filter":{"field":"Percentage","greaterThan":0}}],
     "encoding": {
         "x": { "field": "resort", "type": "nominal", "sort": "-y"},
-        "y": { "field": "Total Lifts", "type": "quantitative" },
+        "y": { "field": "Percentage", "type": "quantitative" },
         "color": { "field": "pass", "type": "nominal"}
     }
 }
