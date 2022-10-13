@@ -15,14 +15,15 @@
       "data": {
         "url": "https://raw.githubusercontent.com/aidenguerin/fit3179-vis02/main/web-scraping/data/raw_resort_locations.csv"
       },
+      "transform": [{"filter":{"field":"country-short","oneOf":["US","CA"]}}],
       "mark": {"type": "circle"},
       "encoding": {
+        "color": {"field": "country-short", "type": "nominal"},
         "latitude": {"field": "lat", "type": "quantitative"},
         "longitude": {"field": "lng", "type": "quantitative"},
-        "tooltip":{
-          "field": "short-name",
-          "type": "nominal"
-        }
+        "tooltip":[
+          {"field": "short-name","type": "nominal", "title":"Resort"},
+          {"field": "country-long", "type": "nominal", "title":"Country"}]
       }
     }
   ],
