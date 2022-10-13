@@ -1,6 +1,6 @@
 console.log("vegalite_vis.js loaded");
 
-var vl_map = "../vega-lite/map.vl.json"
+var vl_map = "../vega-lite/map_na.vl.json"
 vegaEmbed("#map", vl_map)
 
 // var vg_1 = "../vega-lite/map.vl.json"; vegaEmbed("#map", vg_1).then(function(result) {
