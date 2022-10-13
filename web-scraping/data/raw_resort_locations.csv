@@ -1,95 +1,95 @@
-short-name,lat,lng
-alta-ski-area,40.5884218,-111.6385807
-aspen-snowmass,39.2083984,-106.9490961
-big-sky-resort,45.28590249,-111.401154
-coronet-peak,-44.9271654,168.7362725
-jackson-hole,43.4799291,-110.7624282
-lake-louise,51.4253705,-116.1772552
-mammoth-mountain-ski-area,37.6307692,-119.0326342
-squaw-valley-usa,39.1906091,-120.2483913
-revelstoke-mountain,50.998115,-118.195672
-snowbasin,41.2161404,-111.8571529
-snowbird,40.5829259,-111.6556388
-sugarbush,44.1359019,-72.8944139
-sun-valley,43.6971294,-114.3517172
-sunshine-village,51.1151858,-115.7632758
-taos-ski-valley,36.5959999,-105.4545
-the-remarkables,-45.15,168.8333333
-thredbo-alpine-resort,-36.4990449,148.3118522
-valle-nevado,-33.3538494,-70.2489324
-afton-alps,44.8576608,-92.7878062
-folgaria,45.9477771,11.2857605
-andalo-fai-della-paganella,46.1782815,11.0693311
-beaver-creek,39.604225,-106.516515
-breckenridge,39.4816537,-106.0383518
-brides-les-bains,45.45441,6.571562
-courchevel,45.414659,6.63469
-crested-butte-mountain-resort,38.8991036,-106.9657648
-falls-creek-alpine-resort,-36.8646894,147.279182
-fernie-alpine,49.4638537,-115.0866092
-folgarida-marilleva,46.298418,10.8663748
-heavenly-mountain-resort,38.9349226,-119.9402777
-keystone,39.6077615,-105.9437549
-kicking-horse,51.2975688,-117.0482516
-kimberley,-28.7282384,24.7499112
-kirkwood,38.5833862,-90.406785
-la-tania,45.4317306,6.5949887
-les-menuires,45.3242022,6.5378012
-madonna-di-campiglio,46.2302584,10.826401
-meribel,45.3967099,6.5666896
-mont-sainte-anne,47.0837074,-70.923666
-monte-bondone,45.988056,11.030833
-mount-sunapee,43.313611,-72.074167
-mount-brighton,42.54083,-83.8115217
-mt-hotham,-36.9752778,147.1327778
-nakiska-ski-area,50.9427038,-115.1510985
-nendaz,46.1834441,7.2942353
-northstar-california,39.2745678,-120.1210934
-okemo-mountain-resort,43.4018257,-72.7170416
-orelle,45.210032,6.534071
-park-city-mountain-resort,40.6460622,-111.4979729
-pejo,46.3837162,10.6793795
-perisher,-36.4058898,148.4117257
-pinzolo,46.1597701,10.7650269
-pontedilegno-tonale-adamello-ski,46.2602731,10.5090969
-saint-martin-de-belleville,45.3804019,6.504104
-stevens-pass-resort,47.7448119,-121.0890197
-stoneham,42.4802469,-71.0999719
-stowe-mountain-resort,44.5303066,-72.7814124
-telluride,37.9374939,-107.8122852
-thyon-2000,46.1812597,7.3717198
-vail,39.6433243,-106.3780801
-val-thorens,45.298346,6.5823249
-verbier,46.0960814,7.2285512
-veysonnaz,46.1957548,7.3379757
-whistler-blackcomb,50.1161686,-122.9535117
-wilmot-mountain,42.4989548,-88.1876602
-arapahoe-basin-ski-area,39.6425118,-105.8719397
-bear-mountain,41.3128717,-74.0062519
-blue-mountain,40.81073,-75.520864
-boyne-mountain-resort,45.162884,-84.930067
-brighton-resort,40.598019,-111.583187
-copper-mountain-resort,39.5021802,-106.1497037
-crystal-mountain-wa,46.9281666,-121.5045349
-cypress-mountain,49.396018,-123.204545
-deer-valley-resort,40.63738,-111.478306
-eldora-mountain-resort,39.9372203,-105.5826786
-june-mountain,37.7679169,-119.0906293
-killington-resort,43.6262922,-72.7967531
-loon-mountain,44.0563456,-71.6336041
-mt-bachelor,44.002974,-121.6780089
-mt-buller,-37.1465655,146.4506354
-ski-banff-norquay,51.2015844,-115.5993428
-panorama-mountain,50.4602801,-116.2380671
-snow-summit,34.2364081,-116.8892717
-snowshoe-mountain-resort,38.4118566,-79.9960444
-solitude-mountain-resort,40.619852,-111.591885
-steamboat,40.4849769,-106.8317158
-stratton-mountain,43.1134212,-72.9081354
-sugarloaf,45.0314444,-70.3131231
-sunday-river,44.4734182,-70.8568727
-boyne-highlands,45.46489622,-84.92649966
-the-summit-at-snoqualmie,47.4245711,-121.4164161
-tremblant,46.1184616,-74.5961852
-windham-mountain,42.2937298,-74.2567116
-winter-park-resort,39.8916537,-105.7630624
+short-name,lat,lng,country-short,country-long
+alta-ski-area,40.5884218,-111.6385807,US,United States
+aspen-snowmass,39.2083984,-106.9490961,US,United States
+big-sky-resort,45.2859326883829,-111.40120760189154,US,United States
+coronet-peak,-44.9271654,168.7362725,NZ,New Zealand
+jackson-hole,43.4799291,-110.7624282,US,United States
+lake-louise,51.4253705,-116.1772552,CA,Canada
+mammoth-mountain-ski-area,37.6307692,-119.0326342,US,United States
+squaw-valley-usa,39.1906091,-120.2483913,US,United States
+revelstoke-mountain,50.998115,-118.195672,CA,Canada
+snowbasin,41.2161404,-111.8571529,US,United States
+snowbird,40.5829259,-111.6556388,US,United States
+sugarbush,44.1359019,-72.8944139,US,United States
+sun-valley,43.6971294,-114.3517172,US,United States
+sunshine-village,51.11518580000001,-115.7632758,CA,Canada
+taos-ski-valley,36.5959999,-105.4545,US,United States
+the-remarkables,-45.15,168.8333333,NZ,New Zealand
+thredbo-alpine-resort,-36.4990449,148.3118522,AU,Australia
+valle-nevado,-33.3538494,-70.2489324,CL,Chile
+afton-alps,44.8576608,-92.78780619999999,US,United States
+folgaria,45.9477771,11.2857605,IT,Italy
+andalo-fai-della-paganella,46.1782815,11.0693311,IT,Italy
+beaver-creek,39.604225,-106.516515,US,United States
+breckenridge,39.4816537,-106.0383518,US,United States
+brides-les-bains,45.45441,6.571562,FR,France
+courchevel,45.414659,6.63469,FR,France
+crested-butte-mountain-resort,38.8991036,-106.9657648,US,United States
+falls-creek-alpine-resort,-36.8646894,147.279182,AU,Australia
+fernie-alpine,49.46385369999999,-115.0866092,CA,Canada
+folgarida-marilleva,46.3192726,10.8365861,IT,Italy
+heavenly-mountain-resort,38.9349226,-119.9402777,US,United States
+keystone,39.607802758569356,-105.94376561689656,US,United States
+kicking-horse,51.2975688,-117.0482516,CA,Canada
+kimberley,-28.7282384,24.7499112,ZA,South Africa
+kirkwood,38.5833862,-90.406785,US,United States
+la-tania,45.43173059999999,6.5949887,FR,France
+les-menuires,45.32420219999999,6.5378012,FR,France
+madonna-di-campiglio,46.2302584,10.826401,IT,Italy
+meribel,45.3967099,6.5666896,FR,France
+mont-sainte-anne,47.08370739999999,-70.923666,CA,Canada
+monte-bondone,45.988056,11.030833,IT,Italy
+mount-sunapee,43.31361099999999,-72.074167,US,United States
+mount-brighton,42.54083,-83.8115217,US,United States
+mt-hotham,-36.9752778,147.1327778,AU,Australia
+nakiska-ski-area,50.9427038,-115.1510985,CA,Canada
+nendaz,46.1834441,7.2942353,CH,Switzerland
+northstar-california,39.2745678,-120.1210934,US,United States
+okemo-mountain-resort,43.4018257,-72.7170416,US,United States
+orelle,45.210032,6.534071,FR,France
+park-city-mountain-resort,40.6460622,-111.4979729,US,United States
+pejo,46.38371619999999,10.6793795,IT,Italy
+perisher,-36.4058898,148.4117257,AU,Australia
+pinzolo,46.1597701,10.7650269,IT,Italy
+pontedilegno-tonale-adamello-ski,46.2602731,10.5090969,IT,Italy
+saint-martin-de-belleville,45.3804019,6.504104,FR,France
+stevens-pass-resort,47.74481189999999,-121.0890197,US,United States
+stoneham,42.4802469,-71.0999719,US,United States
+stowe-mountain-resort,44.5303066,-72.7814124,US,United States
+telluride,37.9374939,-107.8122852,US,United States
+thyon-2000,46.1812597,7.3717198,CH,Switzerland
+vail,39.6433243,-106.3780801,US,United States
+val-thorens,45.298346,6.5823249,FR,France
+verbier,46.0960814,7.2285512,CH,Switzerland
+veysonnaz,46.1957548,7.337975699999999,CH,Switzerland
+whistler-blackcomb,50.11616859999999,-122.9535117,CA,Canada
+wilmot-mountain,42.4989548,-88.1876602,US,United States
+arapahoe-basin-ski-area,39.6425118,-105.8719397,US,United States
+bear-mountain,41.3128717,-74.0062519,US,United States
+blue-mountain,40.81073,-75.520864,US,United States
+boyne-mountain-resort,45.162884,-84.930067,US,United States
+brighton-resort,40.598019,-111.583187,US,United States
+copper-mountain-resort,39.5021802,-106.1497037,US,United States
+crystal-mountain-wa,46.9281666,-121.5045349,US,United States
+cypress-mountain,49.396018,-123.204545,CA,Canada
+deer-valley-resort,40.63738,-111.478306,US,United States
+eldora-mountain-resort,39.9372203,-105.5826786,US,United States
+june-mountain,37.7679169,-119.0906293,US,United States
+killington-resort,43.62629219999999,-72.7967531,US,United States
+loon-mountain,44.0563456,-71.6336041,US,United States
+mt-bachelor,44.00297399999999,-121.6780089,US,United States
+mt-buller,-37.1465655,146.4506354,AU,Australia
+ski-banff-norquay,51.20158439999999,-115.5993428,CA,Canada
+panorama-mountain,50.4602801,-116.2380671,CA,Canada
+snow-summit,34.2364081,-116.8892717,US,United States
+snowshoe-mountain-resort,38.4118566,-79.9960444,US,United States
+solitude-mountain-resort,40.619852,-111.591885,US,United States
+steamboat,40.4849769,-106.8317158,US,United States
+stratton-mountain,43.1134212,-72.90813539999999,US,United States
+sugarloaf,45.0314444,-70.3131231,US,United States
+sunday-river,44.4734182,-70.8568727,US,United States
+boyne-highlands,45.464836748744645,-84.92655645968269,US,United States
+the-summit-at-snoqualmie,47.42457109999999,-121.4164161,US,United States
+tremblant,46.1184616,-74.5961852,CA,Canada
+windham-mountain,42.2937298,-74.2567116,US,United States
+winter-park-resort,39.8916537,-105.7630624,US,United States
