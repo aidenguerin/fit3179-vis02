@@ -3,7 +3,7 @@
   "width": 300,
   "height": 450,
   "title": "Location of ski resorts",
-  "projection": {"type": "equalEarth"},
+  "projection": {"type": "mercator"},
   "layer": [
     {
       "data": {
@@ -16,10 +16,14 @@
       "data": {
         "url": "https://raw.githubusercontent.com/aidenguerin/fit3179-vis02/main/web-scraping/data/raw_resort_locations.csv"
       },
-      "mark": {"type": "circle", "tooltip": {"content": "data"}},
+      "mark": {"type": "circle"},
       "encoding": {
         "latitude": {"field": "lat", "type": "quantitative"},
-        "longitude": {"field": "lng", "type": "quantitative"}
+        "longitude": {"field": "lng", "type": "quantitative"},
+        "tooltip":{
+          "field": "short-name",
+          "type": "nominal"
+        }
       }
     }
   ],
