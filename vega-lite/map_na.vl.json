@@ -13,7 +13,7 @@
     },
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/aidenguerin/fit3179-vis02/main/web-scraping/data/raw_resort_locations.csv"
+        "url": "https://raw.githubusercontent.com/aidenguerin/fit3179-vis02/main/web-scraping/data/master.csv"
       },
       "transform": [{"filter":{"field":"country-short","oneOf":["US","CA"]}}],
       "mark": {"type": "circle"},
