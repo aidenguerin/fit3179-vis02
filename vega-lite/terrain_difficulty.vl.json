@@ -1,12 +1,46 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "data": {"url": "https://raw.githubusercontent.com/aidenguerin/fit3179-vis02/main/web-scraping/data/terrain_difficulty.csv"},
+    "params": [{
+        "name": "pass_selection",
+        "bind": {
+            "input": "select",
+            "options": [
+                "epic-pass",
+                "ikon-pass",
+                "mountain-collective"
+            ],
+            "labels":[
+                "Epic Pass",
+                "Ikon Pass",
+                "Mountain Collective"
+            ],
+            "name": "Pass selection: "
+          }
+        }
+    ],
     "mark": "bar",
-    "width": 1200,
-    "height": 200,
-    "transform": [{"filter":"datum.Percentage > 0"}],
+    "width": 600,
+    "height": 300,
+    "transform": [{"filter":"datum.Percentage > 0"}, 
+                  {"filter":"datum.pass == pass_selection"},
+                  {"calculate": "datum.run_type == 'Beginners Runs'", "as": "Beginners"},
+                  {"calculate": "datum.run_type == 'Intermediate Runs'", "as": "Intermediate"},
+                  {"calculate": "datum.run_type == 'Advanced Runs'", "as": "Advanced"},
+                  {"calculate": "datum.run_type == 'Expert Runs'", "as": "Expert"}
+                ],
     "encoding": {
-        "x": { "field": "resort", "type": "nominal"},
-        "y": { "field": "Percentage", "type": "quantitative" }
+        "x": { "field": "resort", "type": "nominal", "sort": {"op": "sum", "field": "Beginners"}},
+        "y": { "field": "Percentage", "type": "quantitative", "stack":"normalize"},
+        "color": { "field": "run_type", 
+                    "type": "nominal", 
+                    "scale": {"range": [ "#17202A", "#212F3D", "#3498DB","#2ECC71"],
+                    "domain": ["Expert Runs", "Advanced Runs","Intermediate Runs", "Beginners Runs"]}
+        },
+        "tooltip":[
+            {"field": "run_type","type": "nominal", "title":"run_type"},
+            {"field": "Percentage", "type": "quantitative", "title":"Percentage of runs"}],
+        "order": {"field": "Difficulty", "type": "ordinal"}        
     }
+    
 }
