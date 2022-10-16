@@ -7,7 +7,7 @@
     "background": null,
     "params": [{
         "name": "pass_selection",
-        "value": "epic-pass",
+        "value": "ikon-pass",
         "bind": {
             "input": "select",
             "options": [

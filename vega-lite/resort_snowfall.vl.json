@@ -9,7 +9,7 @@
                   {"filter": "datum.resort == resort_selection"}],
     "params": [{
         "name": "resort_selection",
-        "value": "Whistler Blackcomb",
+        "value": "Winter Park",
         "bind": {
             "input": "select",
             "options": [
