@@ -20,8 +20,8 @@
         }
     ],
     "mark": "bar",
-    "width": 600,
-    "height": 300,
+    "width": 500,
+    "height": 200,
     "background": null,
     "transform": [{"filter":"datum.Percentage > 0"}, 
                   {"filter":"datum.pass == pass_selection"},
@@ -35,8 +35,9 @@
         "y": { "field": "Percentage", "type": "quantitative", "stack":"normalize"},
         "color": { "field": "run_type", 
                     "type": "nominal", 
-                    "scale": {"range": [ "#17202A", "#212F3D", "#3498DB","#2ECC71"],
-                    "domain": ["Expert Runs", "Advanced Runs","Intermediate Runs", "Beginners Runs"]}
+                    "scale": {"range": [ "#090c12", "#161d2b", "#3498DB","#2ECC71"],
+                    "domain": ["Expert Runs", "Advanced Runs","Intermediate Runs", "Beginners Runs"]},
+                    "legend": {"orient": "top"}
         },
         "tooltip":[
             {"field": "resort","type": "nominal", "title":"Resort"},

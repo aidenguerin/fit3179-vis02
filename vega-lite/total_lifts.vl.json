@@ -29,7 +29,7 @@
     "encoding": {
         "x": { "field": "resort", "type": "nominal", "sort": "-y"},
         "y": { "field": "Total Lifts", "type": "quantitative" },
-        "color": { "field": "pass", "type": "nominal"},
+        "color": { "field": "pass", "type": "nominal", "legend": null },
         "tooltip":[
             {"field": "resort","type": "nominal", "title":"Resort"},
             {"field": "Total Lifts", "type": "quantitative", "title":"Total Lifts"}]
