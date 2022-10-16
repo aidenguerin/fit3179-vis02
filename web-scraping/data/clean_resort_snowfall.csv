@@ -1,112 +1,1333 @@
-short-name,Nov,Dec,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,pass,resort,link
-alta-ski-area,30.48,208.28,193.04,185.42000000000002,160.02,93.98,0.0,0.0,0.0,0.0,0.0,0.0,mountain-collective,Alta Ski Area,https://www.onthesnow.com/utah/alta-ski-area/ski-resort
-alta-ski-area,30.48,208.28,193.04,185.42000000000002,160.02,93.98,0.0,0.0,0.0,0.0,0.0,0.0,ikon-pass,Alta Ski Area,https://www.onthesnow.com/utah/alta-ski-area/ski-resort
-aspen-snowmass,55.88,165.1,134.62,152.4,167.64000000000001,81.28,0.762,0.0,0.0,0.0,0.0,0.0,mountain-collective,Aspen Snowmass,https://www.onthesnow.com/colorado/aspen-snowmass/ski-resort
-aspen-snowmass,55.88,165.1,134.62,152.4,167.64000000000001,81.28,0.762,0.0,0.0,0.0,0.0,0.0,ikon-pass,Aspen Snowmass,https://www.onthesnow.com/colorado/aspen-snowmass/ski-resort
-big-sky-resort,38.1,157.48,121.92,147.32,142.24,86.36,0.0,0.0,0.0,0.0,0.0,0.0,mountain-collective,Big Sky,https://www.onthesnow.com/montana/big-sky-resort/ski-resort
-big-sky-resort,38.1,157.48,121.92,147.32,142.24,86.36,0.0,0.0,0.0,0.0,0.0,0.0,ikon-pass,Big Sky,https://www.onthesnow.com/montana/big-sky-resort/ski-resort
-jackson-hole,53.34,271.78000000000003,251.46,284.48,167.64000000000001,33.02,0.0,0.0,0.0,0.0,0.0,0.0,mountain-collective,Jackson Hole,https://www.onthesnow.com/wyoming/jackson-hole/ski-resort
-jackson-hole,53.34,271.78000000000003,251.46,284.48,167.64000000000001,33.02,0.0,0.0,0.0,0.0,0.0,0.0,ikon-pass,Jackson Hole,https://www.onthesnow.com/wyoming/jackson-hole/ski-resort
-lake-louise,93.98,99.06,88.9,88.9,93.98,73.66,12.7,0.0,0.0,0.0,0.0,0.0,mountain-collective,Lake Louise,https://www.onthesnow.com/alberta/lake-louise/ski-resort
-lake-louise,93.98,99.06,88.9,88.9,93.98,73.66,12.7,0.0,0.0,0.0,0.0,0.0,ikon-pass,Lake Louise,https://www.onthesnow.com/alberta/lake-louise/ski-resort
-mammoth-mountain-ski-area,76.2,177.8,167.64000000000001,139.7,129.54,66.04,20.32,0.508,0.0,0.0,0.0,0.0,mountain-collective,Mammoth Mountain,https://www.onthesnow.com/california/mammoth-mountain-ski-area/ski-resort
-mammoth-mountain-ski-area,76.2,177.8,167.64000000000001,139.7,129.54,66.04,20.32,0.508,0.0,0.0,0.0,0.0,ikon-pass,Mammoth Mountain,https://www.onthesnow.com/california/mammoth-mountain-ski-area/ski-resort
-squaw-valley-usa,78.74,198.12,195.58,200.66,182.88,81.28,12.7,1.016,0.0,0.0,0.0,0.0,mountain-collective,Palisades Tahoe,https://www.onthesnow.com/california/squaw-valley-usa/ski-resort
-squaw-valley-usa,78.74,198.12,195.58,200.66,182.88,81.28,12.7,1.016,0.0,0.0,0.0,0.0,ikon-pass,Palisades Tahoe,https://www.onthesnow.com/california/squaw-valley-usa/ski-resort
-revelstoke-mountain,22.86,162.56,142.24,111.76,119.38,45.72,0.0,0.0,0.0,0.0,0.0,0.0,mountain-collective,Revelstoke,https://www.onthesnow.com/british-columbia/revelstoke-mountain/ski-resort
-revelstoke-mountain,22.86,162.56,142.24,111.76,119.38,45.72,0.0,0.0,0.0,0.0,0.0,0.0,ikon-pass,Revelstoke,https://www.onthesnow.com/british-columbia/revelstoke-mountain/ski-resort
-snowbasin,30.48,170.18,154.94,165.1,109.22,33.02,0.0,0.0,0.0,0.0,0.0,0.0,mountain-collective,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
-snowbasin,30.48,170.18,154.94,165.1,109.22,33.02,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
-snowbasin,30.48,170.18,154.94,165.1,109.22,33.02,0.0,0.0,0.0,0.0,0.0,0.0,ikon-pass,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
-snowbird,48.26,220.98,228.6,213.36,177.8,154.94,35.56,0.0,0.0,0.0,0.0,0.0,mountain-collective,Snowbird,https://www.onthesnow.com/utah/snowbird/ski-resort
-snowbird,48.26,220.98,228.6,213.36,177.8,154.94,35.56,0.0,0.0,0.0,0.0,0.0,ikon-pass,Snowbird,https://www.onthesnow.com/utah/snowbird/ski-resort
-sugarbush,38.1,137.16,116.84,119.38,111.76,35.56,0.0,0.0,0.0,0.0,0.0,0.0,mountain-collective,Sugarbush,https://www.onthesnow.com/vermont/sugarbush/ski-resort
-sugarbush,38.1,137.16,116.84,119.38,111.76,35.56,0.0,0.0,0.0,0.0,0.0,0.0,ikon-pass,Sugarbush,https://www.onthesnow.com/vermont/sugarbush/ski-resort
-sun-valley,15.24,139.7,93.98,109.22,60.96,20.32,0.0,0.0,0.0,0.0,0.0,0.0,mountain-collective,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
-sun-valley,15.24,139.7,93.98,109.22,60.96,20.32,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
-sun-valley,15.24,139.7,93.98,109.22,60.96,20.32,0.0,0.0,0.0,0.0,0.0,0.0,ikon-pass,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
-sunshine-village,101.6,119.38,106.68,109.22,127.0,63.5,20.32,0.0,0.0,0.0,0.0,0.0,mountain-collective,Sunshine Village,https://www.onthesnow.com/alberta/sunshine-village/ski-resort
-sunshine-village,101.6,119.38,106.68,109.22,127.0,63.5,20.32,0.0,0.0,0.0,0.0,0.0,ikon-pass,Sunshine Village,https://www.onthesnow.com/alberta/sunshine-village/ski-resort
-taos-ski-valley,38.1,101.6,83.82000000000001,114.3,99.06,17.78,0.0,0.0,0.0,0.0,0.0,0.0,mountain-collective,Taos Ski Valley,https://www.onthesnow.com/new-mexico/taos-ski-valley/ski-resort
-taos-ski-valley,38.1,101.6,83.82000000000001,114.3,99.06,17.78,0.0,0.0,0.0,0.0,0.0,0.0,ikon-pass,Taos Ski Valley,https://www.onthesnow.com/new-mexico/taos-ski-valley/ski-resort
-afton-alps,5.08,33.02,27.94,33.02,15.24,1.27,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Afton Alps,https://www.onthesnow.com/minnesota/afton-alps/ski-resort
-folgaria,26.0,35.0,51.0,81.0,26.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Alpe Cimbra - Folgaria - Lavarone,https://www.onthesnow.co.uk/trentino/folgaria/ski-resort
-andalo-fai-della-paganella,16.0,33.0,53.0,81.0,52.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Andalo - Fai della Paganella,https://www.onthesnow.co.uk/trentino/andalo-fai-della-paganella/ski-resort
-beaver-creek,50.8,127.0,119.38,121.92,129.54,43.18,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Beaver Creek,https://www.onthesnow.com/colorado/beaver-creek/ski-resort
-breckenridge,76.2,152.4,144.78,144.78,152.4,91.44,15.24,0.0,0.0,0.0,0.0,0.0,epic-pass,Breckenridge,https://www.onthesnow.com/colorado/breckenridge/ski-resort
-brides-les-bains,5.0,24.0,45.0,25.0,28.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Brides les Bains,https://www.onthesnow.co.uk/northern-alps/brides-les-bains/ski-resort
-courchevel,33.0,77.0,93.0,67.0,57.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Courchevel,https://www.onthesnow.co.uk/northern-alps/courchevel/ski-resort
-crested-butte-mountain-resort,33.02,144.78,114.3,114.3,91.44,12.7,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Crested Butte Mountain Resort,https://www.onthesnow.com/colorado/crested-butte-mountain-resort/ski-resort
-fernie-alpine,10.16,182.88,170.18,139.7,157.48,43.18,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Fernie Alpine,https://www.onthesnow.com/british-columbia/fernie-alpine/ski-resort
-folgarida-marilleva,7.0,24.0,48.0,78.0,36.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Folgàrida - Marilléva,https://www.onthesnow.co.uk/trentino/folgarida-marilleva/ski-resort
-heavenly-mountain-resort,40.64,175.26,154.94,170.18,119.38,38.1,5.08,0.0,0.0,0.0,0.0,0.0,epic-pass,Heavenly,https://www.onthesnow.com/california/heavenly-mountain-resort/ski-resort
-keystone,73.66,106.68,104.14,99.06,129.54,38.1,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Keystone,https://www.onthesnow.com/colorado/keystone/ski-resort
-kicking-horse,43.18,119.38,109.22,86.36,114.3,35.56,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Kicking Horse,https://www.onthesnow.com/british-columbia/kicking-horse/ski-resort
-kimberley,10.16,76.2,78.74,76.2,66.04,10.16,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Kimberley,https://www.onthesnow.com/british-columbia/kimberley/ski-resort
-kirkwood,53.34,193.04,185.42000000000002,193.04,172.72,66.04,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Kirkwood,https://www.onthesnow.com/california/kirkwood/ski-resort
-la-tania,14.0,50.0,53.0,50.0,38.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,La Tania,https://www.onthesnow.co.uk/northern-alps/la-tania/ski-resort
-les-menuires,37.0,84.0,82.0,66.0,53.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Les Menuires,https://www.onthesnow.co.uk/northern-alps/les-menuires/ski-resort
-madonna-di-campiglio,70.0,49.0,53.0,79.0,48.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Madonna di Campiglio,https://www.onthesnow.co.uk/trentino/madonna-di-campiglio/ski-resort
-meribel,29.0,80.0,75.0,48.0,51.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Meribel,https://www.onthesnow.co.uk/northern-alps/meribel/ski-resort
-mont-sainte-anne,5.08,99.06,109.22,104.14,96.52,33.02,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Mont Sainte Anne,https://www.onthesnow.com/quebec/mont-sainte-anne/ski-resort
-monte-bondone,1.7,21.0,14.0,60.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Monte Bondone,https://www.onthesnow.co.uk/trentino/monte-bondone/ski-resort
-mount-sunapee,5.08,58.42,50.8,81.28,43.18,7.62,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Mount Sunapee,https://www.onthesnow.com/new-hampshire/mount-sunapee/ski-resort
-mount-brighton,1.7779999999999998,17.78,30.48,40.64,12.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Mt. Brighton,https://www.onthesnow.com/michigan/mount-brighton/ski-resort
-nakiska-ski-area,48.26,48.26,38.1,48.26,58.42,38.1,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Nakiska Ski Area,https://www.onthesnow.com/alberta/nakiska-ski-area/ski-resort
-nendaz,7.0,73.0,74.0,55.0,43.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Nendaz,https://www.onthesnow.co.uk/valais/nendaz/ski-resort
-northstar-california,55.88,198.12,185.42000000000002,185.42000000000002,157.48,38.1,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Northstar California,https://www.onthesnow.com/california/northstar-california/ski-resort
-okemo-mountain-resort,20.32,68.58,63.5,86.36,55.88,10.16,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Okemo Mountain Resort,https://www.onthesnow.com/vermont/okemo-mountain-resort/ski-resort
-orelle,7.0,90.0,92.0,75.0,66.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Orelle,https://www.onthesnow.co.uk/northern-alps/orelle/ski-resort
-park-city-mountain-resort,40.64,157.48,144.78,139.7,111.76,27.94,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Park City,https://www.onthesnow.com/utah/park-city-mountain-resort/ski-resort
-pejo,6.0,21.0,49.0,46.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Pejo,https://www.onthesnow.co.uk/trentino/pejo/ski-resort
-pinzolo,7.0,27.0,29.0,42.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Pinzolo,https://www.onthesnow.co.uk/trentino/pinzolo/ski-resort
-pontedilegno-tonale-adamello-ski,32.0,30.0,34.0,72.0,42.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Pontedilegno - Tonale,https://www.onthesnow.co.uk/trentino/pontedilegno-tonale-adamello-ski/ski-resort
-saint-martin-de-belleville,13.0,67.0,72.0,64.0,42.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Saint Martin de Belleville,https://www.onthesnow.co.uk/northern-alps/saint-martin-de-belleville/ski-resort
-stevens-pass-resort,35.56,243.84,208.28,220.98,121.92,55.88,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Stevens Pass Resort,https://www.onthesnow.com/washington/stevens-pass-resort/ski-resort
-stoneham,1.7779999999999998,86.36,116.84,96.52,50.8,7.62,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Stoneham,https://www.onthesnow.com/quebec/stoneham/ski-resort
-stowe-mountain-resort,33.02,111.76,129.54,144.78,119.38,35.56,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Stowe Mountain,https://www.onthesnow.com/vermont/stowe-mountain-resort/ski-resort
-telluride,43.18,132.08,114.3,134.62,127.0,12.7,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Telluride,https://www.onthesnow.com/colorado/telluride/ski-resort
-thyon-2000,5.0,38.0,71.0,55.0,44.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Thyon 2000,https://www.onthesnow.co.uk/valais/thyon-2000/ski-resort
-vail,60.96,142.24,127.0,124.46000000000001,114.3,60.96,0.762,0.0,0.0,0.0,0.0,0.0,epic-pass,Vail,https://www.onthesnow.com/colorado/vail/ski-resort
-val-thorens,77.0,126.0,145.0,115.0,107.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Val Thorens,https://www.onthesnow.co.uk/northern-alps/val-thorens/ski-resort
-verbier,33.0,115.0,111.0,93.0,79.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Verbier,https://www.onthesnow.co.uk/valais/verbier/ski-resort
-veysonnaz,9.0,55.0,73.0,55.0,44.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Veysonnaz,https://www.onthesnow.co.uk/valais/veysonnaz/ski-resort
-whistler-blackcomb,101.6,195.58,210.82,116.84,157.48,71.12,15.24,0.0,0.0,0.0,0.0,0.0,epic-pass,Whistler Blackcomb,https://www.onthesnow.com/british-columbia/whistler-blackcomb/ski-resort
-wilmot-mountain,0.254,10.16,27.94,22.86,10.16,0.0,0.0,0.0,0.0,0.0,0.0,0.0,epic-pass,Wilmot Mountain,https://www.onthesnow.com/wisconsin/wilmot-mountain/ski-resort
-arapahoe-basin-ski-area,86.36,109.22,109.22,114.3,114.3,101.6,86.36,2.54,0.0,0.0,0.0,0.0,ikon-pass,Arapahoe Basin Ski Area,https://www.onthesnow.com/colorado/arapahoe-basin-ski-area/ski-resort
-bear-mountain,12.7,45.72,73.66,58.42,40.64,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ikon-pass,Bear Mountain,https://www.onthesnow.com/california/bear-mountain/ski-resort
-blue-mountain,0.508,48.26,78.74,71.12,30.48,10.16,0.0,0.0,0.0,0.0,0.0,0.0,ikon-pass,Blue Mountain,https://www.onthesnow.com/ontario/blue-mountain/ski-resort
-boyne-mountain-resort,10.16,73.66,101.6,73.66,35.56,20.32,0.0,0.0,0.0,0.0,0.0,0.0,ikon-pass,Boyne Mountain Resort,https://www.onthesnow.com/michigan/boyne-mountain-resort/ski-resort
-brighton-resort,50.8,205.74,223.52,200.66,167.64000000000001,86.36,0.0,0.0,0.0,0.0,0.0,0.0,ikon-pass,Brighton Resort,https://www.onthesnow.com/utah/brighton-resort/ski-resort
-copper-mountain-resort,66.04,119.38,116.84,114.3,127.0,71.12,0.0,0.0,0.0,0.0,0.0,0.0,ikon-pass,Copper Mountain,https://www.onthesnow.com/colorado/copper-mountain-resort/ski-resort
-crystal-mountain-wa,58.42,284.48,233.68,218.44,154.94,106.68,12.7,0.0,0.0,0.0,0.0,0.0,ikon-pass,Crystal Mountain,https://www.onthesnow.com/washington/crystal-mountain-wa/ski-resort
-cypress-mountain,22.86,177.8,134.62,121.92,132.08,33.02,0.0,0.0,0.0,0.0,0.0,0.0,ikon-pass,Cypress Mountain,https://www.onthesnow.com/british-columbia/cypress-mountain/ski-resort
-deer-valley-resort,10.16,139.7,154.94,139.7,106.68,30.48,0.0,0.0,0.0,0.0,0.0,0.0,ikon-pass,Deer Valley Resort,https://www.onthesnow.com/utah/deer-valley-resort/ski-resort
-eldora-mountain-resort,33.02,104.14,99.06,124.46000000000001,104.14,43.18,0.0,0.0,0.0,0.0,0.0,0.0,ikon-pass,Eldora Mountain Resort,https://www.onthesnow.com/colorado/eldora-mountain-resort/ski-resort
-june-mountain,0.0,50.8,154.94,142.24,96.52,12.7,0.0,0.0,0.0,0.0,0.0,0.0,ikon-pass,June Mountain,https://www.onthesnow.com/california/june-mountain/ski-resort
-killington-resort,43.18,93.98,93.98,114.3,73.66,25.4,0.508,0.0,0.0,0.0,0.0,0.0,ikon-pass,Killington Resort,https://www.onthesnow.com/vermont/killington-resort/ski-resort
-loon-mountain,20.32,81.28,76.2,93.98,58.42,22.86,0.0,0.0,0.0,0.0,0.0,0.0,ikon-pass,Loon Mountain,https://www.onthesnow.com/new-hampshire/loon-mountain/ski-resort
-mt-bachelor,50.8,266.7,200.66,220.98,157.48,99.06,25.4,0.0,0.0,0.0,0.0,0.0,ikon-pass,Mt. Bachelor,https://www.onthesnow.com/oregon/mt-bachelor/ski-resort
-ski-banff-norquay,35.56,50.8,50.8,50.8,53.34,25.4,0.508,0.0,0.0,0.0,0.0,0.0,ikon-pass,Mt. Norquay,https://www.onthesnow.com/alberta/ski-banff-norquay/ski-resort
-panorama-mountain,10.16,81.28,104.14,109.22,119.38,25.4,0.0,0.0,0.0,0.0,0.0,0.0,ikon-pass,Panorama Mountain,https://www.onthesnow.com/british-columbia/panorama-mountain/ski-resort
-snow-summit,15.24,55.88,73.66,53.34,40.64,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ikon-pass,Snow Summit,https://www.onthesnow.com/california/snow-summit/ski-resort
-snowshoe-mountain-resort,12.7,48.26,86.36,78.74,66.04,0.508,0.0,0.0,0.0,0.0,0.0,0.0,ikon-pass,Snowshoe Mountain,https://www.onthesnow.com/west-virginia/snowshoe-mountain-resort/ski-resort
-solitude-mountain-resort,43.18,182.88,193.04,205.74,162.56,58.42,0.0,0.0,0.0,0.0,0.0,0.0,ikon-pass,Solitude Mountain Resort,https://www.onthesnow.com/utah/solitude-mountain-resort/ski-resort
-steamboat,30.48,198.12,160.02,160.02,111.76,35.56,0.0,0.0,0.0,0.0,0.0,0.0,ikon-pass,Steamboat,https://www.onthesnow.com/colorado/steamboat/ski-resort
-stratton-mountain,10.16,81.28,66.04,101.6,48.26,5.08,0.0,0.0,0.0,0.0,0.0,0.0,ikon-pass,Stratton Mountain,https://www.onthesnow.com/vermont/stratton-mountain/ski-resort
-sugarloaf,27.94,81.28,68.58,99.06,58.42,30.48,0.0,0.0,0.0,0.0,0.0,0.0,ikon-pass,Sugarloaf,https://www.onthesnow.com/maine/sugarloaf/ski-resort
-sunday-river,22.86,71.12,63.5,93.98,45.72,15.24,0.0,0.0,0.0,0.0,0.0,0.0,ikon-pass,Sunday River,https://www.onthesnow.com/maine/sunday-river/ski-resort
-boyne-highlands,10.16,76.2,119.38,76.2,27.94,1.27,0.0,0.0,0.0,0.0,0.0,0.0,ikon-pass,The Highlands,https://www.onthesnow.com/michigan/boyne-highlands/ski-resort
-the-summit-at-snoqualmie,12.7,180.34,165.1,162.56,88.9,35.56,0.0,0.0,0.0,0.0,0.0,0.0,ikon-pass,The Summit at Snoqualmie,https://www.onthesnow.com/washington/the-summit-at-snoqualmie/ski-resort
-tremblant,12.7,96.52,119.38,121.92,73.66,17.78,0.0,0.0,0.0,0.0,0.0,0.0,ikon-pass,Tremblant,https://www.onthesnow.com/quebec/tremblant/ski-resort
-windham-mountain,10.16,50.8,50.8,76.2,45.72,0.762,0.0,0.0,0.0,0.0,0.0,0.0,ikon-pass,Windham Mountain,https://www.onthesnow.com/new-york/windham-mountain/ski-resort
-winter-park-resort,86.36,162.56,139.7,142.24,139.7,104.14,17.78,0.0,0.0,0.0,0.0,0.0,ikon-pass,Winter Park,https://www.onthesnow.com/colorado/winter-park-resort/ski-resort
-coronet-peak,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.86,33.02,15.24,22.86,0.762,mountain-collective,Coronet Peak,https://www.onthesnow.com/new-zealand/coronet-peak/ski-resort
-the-remarkables,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.86,48.26,38.1,38.1,10.16,mountain-collective,The Remarkables,https://www.onthesnow.com/new-zealand/the-remarkables/ski-resort
-thredbo-alpine-resort,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27.94,68.58,86.36,27.94,0.0,mountain-collective,Thredbo Alpine Resort,https://www.onthesnow.com/australia/thredbo-alpine-resort/ski-resort
-thredbo-alpine-resort,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27.94,68.58,86.36,27.94,0.0,ikon-pass,Thredbo Alpine Resort,https://www.onthesnow.com/australia/thredbo-alpine-resort/ski-resort
-valle-nevado,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.16,33.02,33.02,15.24,1.7779999999999998,mountain-collective,Valle Nevado,https://www.onthesnow.com/chile/valle-nevado/ski-resort
-falls-creek-alpine-resort,0.0,0.0,0.0,0.0,0.0,0.0,0.0,25.4,53.34,48.26,15.24,1.27,epic-pass,Falls Creek Alpine Resort,https://www.onthesnow.com/australia/falls-creek-alpine-resort/ski-resort
-mt-hotham,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27.94,50.8,53.34,20.32,1.016,epic-pass,Mt. Hotham,https://www.onthesnow.com/australia/mt-hotham/ski-resort
-perisher,0.0,0.0,0.0,0.0,0.0,0.0,0.0,48.26,66.04,50.8,35.56,1.016,epic-pass,Perisher,https://www.onthesnow.com/australia/perisher/ski-resort
-mt-buller,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.86,38.1,48.26,17.78,1.27,ikon-pass,Mt. Buller,https://www.onthesnow.com/australia/mt-buller/ski-resort
+short-name,month,snowfall_cm,pass,resort,link
+jackson-hole,Feb,284.48,mountain-collective,Jackson Hole,https://www.onthesnow.com/wyoming/jackson-hole/ski-resort
+jackson-hole,Feb,284.48,ikon-pass,Jackson Hole,https://www.onthesnow.com/wyoming/jackson-hole/ski-resort
+crystal-mountain-wa,Dec,284.48,ikon-pass,Crystal Mountain,https://www.onthesnow.com/washington/crystal-mountain-wa/ski-resort
+jackson-hole,Dec,271.78000000000003,mountain-collective,Jackson Hole,https://www.onthesnow.com/wyoming/jackson-hole/ski-resort
+jackson-hole,Dec,271.78000000000003,ikon-pass,Jackson Hole,https://www.onthesnow.com/wyoming/jackson-hole/ski-resort
+mt-bachelor,Dec,266.7,ikon-pass,Mt. Bachelor,https://www.onthesnow.com/oregon/mt-bachelor/ski-resort
+jackson-hole,Jan,251.46,mountain-collective,Jackson Hole,https://www.onthesnow.com/wyoming/jackson-hole/ski-resort
+jackson-hole,Jan,251.46,ikon-pass,Jackson Hole,https://www.onthesnow.com/wyoming/jackson-hole/ski-resort
+stevens-pass-resort,Dec,243.84,epic-pass,Stevens Pass Resort,https://www.onthesnow.com/washington/stevens-pass-resort/ski-resort
+crystal-mountain-wa,Jan,233.68,ikon-pass,Crystal Mountain,https://www.onthesnow.com/washington/crystal-mountain-wa/ski-resort
+snowbird,Jan,228.6,mountain-collective,Snowbird,https://www.onthesnow.com/utah/snowbird/ski-resort
+snowbird,Jan,228.6,ikon-pass,Snowbird,https://www.onthesnow.com/utah/snowbird/ski-resort
+brighton-resort,Jan,223.52,ikon-pass,Brighton Resort,https://www.onthesnow.com/utah/brighton-resort/ski-resort
+snowbird,Dec,220.98,mountain-collective,Snowbird,https://www.onthesnow.com/utah/snowbird/ski-resort
+snowbird,Dec,220.98,ikon-pass,Snowbird,https://www.onthesnow.com/utah/snowbird/ski-resort
+mt-bachelor,Feb,220.98,ikon-pass,Mt. Bachelor,https://www.onthesnow.com/oregon/mt-bachelor/ski-resort
+stevens-pass-resort,Feb,220.98,epic-pass,Stevens Pass Resort,https://www.onthesnow.com/washington/stevens-pass-resort/ski-resort
+crystal-mountain-wa,Feb,218.44,ikon-pass,Crystal Mountain,https://www.onthesnow.com/washington/crystal-mountain-wa/ski-resort
+snowbird,Feb,213.36,mountain-collective,Snowbird,https://www.onthesnow.com/utah/snowbird/ski-resort
+snowbird,Feb,213.36,ikon-pass,Snowbird,https://www.onthesnow.com/utah/snowbird/ski-resort
+whistler-blackcomb,Jan,210.82,epic-pass,Whistler Blackcomb,https://www.onthesnow.com/british-columbia/whistler-blackcomb/ski-resort
+stevens-pass-resort,Jan,208.28,epic-pass,Stevens Pass Resort,https://www.onthesnow.com/washington/stevens-pass-resort/ski-resort
+alta-ski-area,Dec,208.28,mountain-collective,Alta Ski Area,https://www.onthesnow.com/utah/alta-ski-area/ski-resort
+alta-ski-area,Dec,208.28,ikon-pass,Alta Ski Area,https://www.onthesnow.com/utah/alta-ski-area/ski-resort
+brighton-resort,Dec,205.74,ikon-pass,Brighton Resort,https://www.onthesnow.com/utah/brighton-resort/ski-resort
+solitude-mountain-resort,Feb,205.74,ikon-pass,Solitude Mountain Resort,https://www.onthesnow.com/utah/solitude-mountain-resort/ski-resort
+squaw-valley-usa,Feb,200.66,mountain-collective,Palisades Tahoe,https://www.onthesnow.com/california/squaw-valley-usa/ski-resort
+squaw-valley-usa,Feb,200.66,ikon-pass,Palisades Tahoe,https://www.onthesnow.com/california/squaw-valley-usa/ski-resort
+mt-bachelor,Jan,200.66,ikon-pass,Mt. Bachelor,https://www.onthesnow.com/oregon/mt-bachelor/ski-resort
+brighton-resort,Feb,200.66,ikon-pass,Brighton Resort,https://www.onthesnow.com/utah/brighton-resort/ski-resort
+northstar-california,Dec,198.12,epic-pass,Northstar California,https://www.onthesnow.com/california/northstar-california/ski-resort
+steamboat,Dec,198.12,ikon-pass,Steamboat,https://www.onthesnow.com/colorado/steamboat/ski-resort
+squaw-valley-usa,Dec,198.12,mountain-collective,Palisades Tahoe,https://www.onthesnow.com/california/squaw-valley-usa/ski-resort
+squaw-valley-usa,Dec,198.12,ikon-pass,Palisades Tahoe,https://www.onthesnow.com/california/squaw-valley-usa/ski-resort
+squaw-valley-usa,Jan,195.58,mountain-collective,Palisades Tahoe,https://www.onthesnow.com/california/squaw-valley-usa/ski-resort
+squaw-valley-usa,Jan,195.58,ikon-pass,Palisades Tahoe,https://www.onthesnow.com/california/squaw-valley-usa/ski-resort
+whistler-blackcomb,Dec,195.58,epic-pass,Whistler Blackcomb,https://www.onthesnow.com/british-columbia/whistler-blackcomb/ski-resort
+alta-ski-area,Jan,193.04,mountain-collective,Alta Ski Area,https://www.onthesnow.com/utah/alta-ski-area/ski-resort
+alta-ski-area,Jan,193.04,ikon-pass,Alta Ski Area,https://www.onthesnow.com/utah/alta-ski-area/ski-resort
+kirkwood,Feb,193.04,epic-pass,Kirkwood,https://www.onthesnow.com/california/kirkwood/ski-resort
+kirkwood,Dec,193.04,epic-pass,Kirkwood,https://www.onthesnow.com/california/kirkwood/ski-resort
+solitude-mountain-resort,Jan,193.04,ikon-pass,Solitude Mountain Resort,https://www.onthesnow.com/utah/solitude-mountain-resort/ski-resort
+kirkwood,Jan,185.42000000000002,epic-pass,Kirkwood,https://www.onthesnow.com/california/kirkwood/ski-resort
+alta-ski-area,Feb,185.42000000000002,mountain-collective,Alta Ski Area,https://www.onthesnow.com/utah/alta-ski-area/ski-resort
+alta-ski-area,Feb,185.42000000000002,ikon-pass,Alta Ski Area,https://www.onthesnow.com/utah/alta-ski-area/ski-resort
+northstar-california,Jan,185.42000000000002,epic-pass,Northstar California,https://www.onthesnow.com/california/northstar-california/ski-resort
+northstar-california,Feb,185.42000000000002,epic-pass,Northstar California,https://www.onthesnow.com/california/northstar-california/ski-resort
+fernie-alpine,Dec,182.88,epic-pass,Fernie Alpine,https://www.onthesnow.com/british-columbia/fernie-alpine/ski-resort
+solitude-mountain-resort,Dec,182.88,ikon-pass,Solitude Mountain Resort,https://www.onthesnow.com/utah/solitude-mountain-resort/ski-resort
+squaw-valley-usa,Mar,182.88,mountain-collective,Palisades Tahoe,https://www.onthesnow.com/california/squaw-valley-usa/ski-resort
+squaw-valley-usa,Mar,182.88,ikon-pass,Palisades Tahoe,https://www.onthesnow.com/california/squaw-valley-usa/ski-resort
+the-summit-at-snoqualmie,Dec,180.34,ikon-pass,The Summit at Snoqualmie,https://www.onthesnow.com/washington/the-summit-at-snoqualmie/ski-resort
+mammoth-mountain-ski-area,Dec,177.8,mountain-collective,Mammoth Mountain,https://www.onthesnow.com/california/mammoth-mountain-ski-area/ski-resort
+mammoth-mountain-ski-area,Dec,177.8,ikon-pass,Mammoth Mountain,https://www.onthesnow.com/california/mammoth-mountain-ski-area/ski-resort
+cypress-mountain,Dec,177.8,ikon-pass,Cypress Mountain,https://www.onthesnow.com/british-columbia/cypress-mountain/ski-resort
+snowbird,Mar,177.8,mountain-collective,Snowbird,https://www.onthesnow.com/utah/snowbird/ski-resort
+snowbird,Mar,177.8,ikon-pass,Snowbird,https://www.onthesnow.com/utah/snowbird/ski-resort
+heavenly-mountain-resort,Dec,175.26,epic-pass,Heavenly,https://www.onthesnow.com/california/heavenly-mountain-resort/ski-resort
+kirkwood,Mar,172.72,epic-pass,Kirkwood,https://www.onthesnow.com/california/kirkwood/ski-resort
+heavenly-mountain-resort,Feb,170.18,epic-pass,Heavenly,https://www.onthesnow.com/california/heavenly-mountain-resort/ski-resort
+snowbasin,Dec,170.18,mountain-collective,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+snowbasin,Dec,170.18,epic-pass,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+snowbasin,Dec,170.18,ikon-pass,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+fernie-alpine,Jan,170.18,epic-pass,Fernie Alpine,https://www.onthesnow.com/british-columbia/fernie-alpine/ski-resort
+jackson-hole,Mar,167.64000000000001,mountain-collective,Jackson Hole,https://www.onthesnow.com/wyoming/jackson-hole/ski-resort
+jackson-hole,Mar,167.64000000000001,ikon-pass,Jackson Hole,https://www.onthesnow.com/wyoming/jackson-hole/ski-resort
+aspen-snowmass,Mar,167.64000000000001,mountain-collective,Aspen Snowmass,https://www.onthesnow.com/colorado/aspen-snowmass/ski-resort
+aspen-snowmass,Mar,167.64000000000001,ikon-pass,Aspen Snowmass,https://www.onthesnow.com/colorado/aspen-snowmass/ski-resort
+mammoth-mountain-ski-area,Jan,167.64000000000001,mountain-collective,Mammoth Mountain,https://www.onthesnow.com/california/mammoth-mountain-ski-area/ski-resort
+mammoth-mountain-ski-area,Jan,167.64000000000001,ikon-pass,Mammoth Mountain,https://www.onthesnow.com/california/mammoth-mountain-ski-area/ski-resort
+brighton-resort,Mar,167.64000000000001,ikon-pass,Brighton Resort,https://www.onthesnow.com/utah/brighton-resort/ski-resort
+snowbasin,Feb,165.1,mountain-collective,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+snowbasin,Feb,165.1,epic-pass,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+snowbasin,Feb,165.1,ikon-pass,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+the-summit-at-snoqualmie,Jan,165.1,ikon-pass,The Summit at Snoqualmie,https://www.onthesnow.com/washington/the-summit-at-snoqualmie/ski-resort
+aspen-snowmass,Dec,165.1,mountain-collective,Aspen Snowmass,https://www.onthesnow.com/colorado/aspen-snowmass/ski-resort
+aspen-snowmass,Dec,165.1,ikon-pass,Aspen Snowmass,https://www.onthesnow.com/colorado/aspen-snowmass/ski-resort
+winter-park-resort,Dec,162.56,ikon-pass,Winter Park,https://www.onthesnow.com/colorado/winter-park-resort/ski-resort
+revelstoke-mountain,Dec,162.56,mountain-collective,Revelstoke,https://www.onthesnow.com/british-columbia/revelstoke-mountain/ski-resort
+revelstoke-mountain,Dec,162.56,ikon-pass,Revelstoke,https://www.onthesnow.com/british-columbia/revelstoke-mountain/ski-resort
+the-summit-at-snoqualmie,Feb,162.56,ikon-pass,The Summit at Snoqualmie,https://www.onthesnow.com/washington/the-summit-at-snoqualmie/ski-resort
+solitude-mountain-resort,Mar,162.56,ikon-pass,Solitude Mountain Resort,https://www.onthesnow.com/utah/solitude-mountain-resort/ski-resort
+steamboat,Jan,160.02,ikon-pass,Steamboat,https://www.onthesnow.com/colorado/steamboat/ski-resort
+steamboat,Feb,160.02,ikon-pass,Steamboat,https://www.onthesnow.com/colorado/steamboat/ski-resort
+alta-ski-area,Mar,160.02,mountain-collective,Alta Ski Area,https://www.onthesnow.com/utah/alta-ski-area/ski-resort
+alta-ski-area,Mar,160.02,ikon-pass,Alta Ski Area,https://www.onthesnow.com/utah/alta-ski-area/ski-resort
+park-city-mountain-resort,Dec,157.48,epic-pass,Park City,https://www.onthesnow.com/utah/park-city-mountain-resort/ski-resort
+big-sky-resort,Dec,157.48,mountain-collective,Big Sky,https://www.onthesnow.com/montana/big-sky-resort/ski-resort
+big-sky-resort,Dec,157.48,ikon-pass,Big Sky,https://www.onthesnow.com/montana/big-sky-resort/ski-resort
+whistler-blackcomb,Mar,157.48,epic-pass,Whistler Blackcomb,https://www.onthesnow.com/british-columbia/whistler-blackcomb/ski-resort
+northstar-california,Mar,157.48,epic-pass,Northstar California,https://www.onthesnow.com/california/northstar-california/ski-resort
+mt-bachelor,Mar,157.48,ikon-pass,Mt. Bachelor,https://www.onthesnow.com/oregon/mt-bachelor/ski-resort
+fernie-alpine,Mar,157.48,epic-pass,Fernie Alpine,https://www.onthesnow.com/british-columbia/fernie-alpine/ski-resort
+crystal-mountain-wa,Mar,154.94,ikon-pass,Crystal Mountain,https://www.onthesnow.com/washington/crystal-mountain-wa/ski-resort
+snowbird,Apr,154.94,mountain-collective,Snowbird,https://www.onthesnow.com/utah/snowbird/ski-resort
+snowbird,Apr,154.94,ikon-pass,Snowbird,https://www.onthesnow.com/utah/snowbird/ski-resort
+deer-valley-resort,Jan,154.94,ikon-pass,Deer Valley Resort,https://www.onthesnow.com/utah/deer-valley-resort/ski-resort
+june-mountain,Jan,154.94,ikon-pass,June Mountain,https://www.onthesnow.com/california/june-mountain/ski-resort
+snowbasin,Jan,154.94,mountain-collective,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+snowbasin,Jan,154.94,epic-pass,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+snowbasin,Jan,154.94,ikon-pass,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+heavenly-mountain-resort,Jan,154.94,epic-pass,Heavenly,https://www.onthesnow.com/california/heavenly-mountain-resort/ski-resort
+breckenridge,Dec,152.4,epic-pass,Breckenridge,https://www.onthesnow.com/colorado/breckenridge/ski-resort
+aspen-snowmass,Feb,152.4,mountain-collective,Aspen Snowmass,https://www.onthesnow.com/colorado/aspen-snowmass/ski-resort
+aspen-snowmass,Feb,152.4,ikon-pass,Aspen Snowmass,https://www.onthesnow.com/colorado/aspen-snowmass/ski-resort
+breckenridge,Mar,152.4,epic-pass,Breckenridge,https://www.onthesnow.com/colorado/breckenridge/ski-resort
+big-sky-resort,Feb,147.32,mountain-collective,Big Sky,https://www.onthesnow.com/montana/big-sky-resort/ski-resort
+big-sky-resort,Feb,147.32,ikon-pass,Big Sky,https://www.onthesnow.com/montana/big-sky-resort/ski-resort
+val-thorens,Jan,145.0,epic-pass,Val Thorens,https://www.onthesnow.co.uk/northern-alps/val-thorens/ski-resort
+stowe-mountain-resort,Feb,144.78,epic-pass,Stowe Mountain,https://www.onthesnow.com/vermont/stowe-mountain-resort/ski-resort
+park-city-mountain-resort,Jan,144.78,epic-pass,Park City,https://www.onthesnow.com/utah/park-city-mountain-resort/ski-resort
+crested-butte-mountain-resort,Dec,144.78,epic-pass,Crested Butte Mountain Resort,https://www.onthesnow.com/colorado/crested-butte-mountain-resort/ski-resort
+breckenridge,Feb,144.78,epic-pass,Breckenridge,https://www.onthesnow.com/colorado/breckenridge/ski-resort
+breckenridge,Jan,144.78,epic-pass,Breckenridge,https://www.onthesnow.com/colorado/breckenridge/ski-resort
+june-mountain,Feb,142.24,ikon-pass,June Mountain,https://www.onthesnow.com/california/june-mountain/ski-resort
+revelstoke-mountain,Jan,142.24,mountain-collective,Revelstoke,https://www.onthesnow.com/british-columbia/revelstoke-mountain/ski-resort
+revelstoke-mountain,Jan,142.24,ikon-pass,Revelstoke,https://www.onthesnow.com/british-columbia/revelstoke-mountain/ski-resort
+winter-park-resort,Feb,142.24,ikon-pass,Winter Park,https://www.onthesnow.com/colorado/winter-park-resort/ski-resort
+vail,Dec,142.24,epic-pass,Vail,https://www.onthesnow.com/colorado/vail/ski-resort
+big-sky-resort,Mar,142.24,mountain-collective,Big Sky,https://www.onthesnow.com/montana/big-sky-resort/ski-resort
+big-sky-resort,Mar,142.24,ikon-pass,Big Sky,https://www.onthesnow.com/montana/big-sky-resort/ski-resort
+park-city-mountain-resort,Feb,139.7,epic-pass,Park City,https://www.onthesnow.com/utah/park-city-mountain-resort/ski-resort
+deer-valley-resort,Feb,139.7,ikon-pass,Deer Valley Resort,https://www.onthesnow.com/utah/deer-valley-resort/ski-resort
+mammoth-mountain-ski-area,Feb,139.7,mountain-collective,Mammoth Mountain,https://www.onthesnow.com/california/mammoth-mountain-ski-area/ski-resort
+mammoth-mountain-ski-area,Feb,139.7,ikon-pass,Mammoth Mountain,https://www.onthesnow.com/california/mammoth-mountain-ski-area/ski-resort
+sun-valley,Dec,139.7,mountain-collective,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+sun-valley,Dec,139.7,epic-pass,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+sun-valley,Dec,139.7,ikon-pass,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+winter-park-resort,Jan,139.7,ikon-pass,Winter Park,https://www.onthesnow.com/colorado/winter-park-resort/ski-resort
+deer-valley-resort,Dec,139.7,ikon-pass,Deer Valley Resort,https://www.onthesnow.com/utah/deer-valley-resort/ski-resort
+winter-park-resort,Mar,139.7,ikon-pass,Winter Park,https://www.onthesnow.com/colorado/winter-park-resort/ski-resort
+fernie-alpine,Feb,139.7,epic-pass,Fernie Alpine,https://www.onthesnow.com/british-columbia/fernie-alpine/ski-resort
+sugarbush,Dec,137.16,mountain-collective,Sugarbush,https://www.onthesnow.com/vermont/sugarbush/ski-resort
+sugarbush,Dec,137.16,ikon-pass,Sugarbush,https://www.onthesnow.com/vermont/sugarbush/ski-resort
+aspen-snowmass,Jan,134.62,mountain-collective,Aspen Snowmass,https://www.onthesnow.com/colorado/aspen-snowmass/ski-resort
+aspen-snowmass,Jan,134.62,ikon-pass,Aspen Snowmass,https://www.onthesnow.com/colorado/aspen-snowmass/ski-resort
+telluride,Feb,134.62,epic-pass,Telluride,https://www.onthesnow.com/colorado/telluride/ski-resort
+cypress-mountain,Jan,134.62,ikon-pass,Cypress Mountain,https://www.onthesnow.com/british-columbia/cypress-mountain/ski-resort
+telluride,Dec,132.08,epic-pass,Telluride,https://www.onthesnow.com/colorado/telluride/ski-resort
+cypress-mountain,Mar,132.08,ikon-pass,Cypress Mountain,https://www.onthesnow.com/british-columbia/cypress-mountain/ski-resort
+stowe-mountain-resort,Jan,129.54,epic-pass,Stowe Mountain,https://www.onthesnow.com/vermont/stowe-mountain-resort/ski-resort
+keystone,Mar,129.54,epic-pass,Keystone,https://www.onthesnow.com/colorado/keystone/ski-resort
+mammoth-mountain-ski-area,Mar,129.54,mountain-collective,Mammoth Mountain,https://www.onthesnow.com/california/mammoth-mountain-ski-area/ski-resort
+mammoth-mountain-ski-area,Mar,129.54,ikon-pass,Mammoth Mountain,https://www.onthesnow.com/california/mammoth-mountain-ski-area/ski-resort
+beaver-creek,Mar,129.54,epic-pass,Beaver Creek,https://www.onthesnow.com/colorado/beaver-creek/ski-resort
+beaver-creek,Dec,127.0,epic-pass,Beaver Creek,https://www.onthesnow.com/colorado/beaver-creek/ski-resort
+telluride,Mar,127.0,epic-pass,Telluride,https://www.onthesnow.com/colorado/telluride/ski-resort
+sunshine-village,Mar,127.0,mountain-collective,Sunshine Village,https://www.onthesnow.com/alberta/sunshine-village/ski-resort
+sunshine-village,Mar,127.0,ikon-pass,Sunshine Village,https://www.onthesnow.com/alberta/sunshine-village/ski-resort
+copper-mountain-resort,Mar,127.0,ikon-pass,Copper Mountain,https://www.onthesnow.com/colorado/copper-mountain-resort/ski-resort
+vail,Jan,127.0,epic-pass,Vail,https://www.onthesnow.com/colorado/vail/ski-resort
+val-thorens,Dec,126.0,epic-pass,Val Thorens,https://www.onthesnow.co.uk/northern-alps/val-thorens/ski-resort
+eldora-mountain-resort,Feb,124.46000000000001,ikon-pass,Eldora Mountain Resort,https://www.onthesnow.com/colorado/eldora-mountain-resort/ski-resort
+vail,Feb,124.46000000000001,epic-pass,Vail,https://www.onthesnow.com/colorado/vail/ski-resort
+tremblant,Feb,121.92,ikon-pass,Tremblant,https://www.onthesnow.com/quebec/tremblant/ski-resort
+big-sky-resort,Jan,121.92,mountain-collective,Big Sky,https://www.onthesnow.com/montana/big-sky-resort/ski-resort
+big-sky-resort,Jan,121.92,ikon-pass,Big Sky,https://www.onthesnow.com/montana/big-sky-resort/ski-resort
+stevens-pass-resort,Mar,121.92,epic-pass,Stevens Pass Resort,https://www.onthesnow.com/washington/stevens-pass-resort/ski-resort
+cypress-mountain,Feb,121.92,ikon-pass,Cypress Mountain,https://www.onthesnow.com/british-columbia/cypress-mountain/ski-resort
+beaver-creek,Feb,121.92,epic-pass,Beaver Creek,https://www.onthesnow.com/colorado/beaver-creek/ski-resort
+beaver-creek,Jan,119.38,epic-pass,Beaver Creek,https://www.onthesnow.com/colorado/beaver-creek/ski-resort
+sugarbush,Feb,119.38,mountain-collective,Sugarbush,https://www.onthesnow.com/vermont/sugarbush/ski-resort
+sugarbush,Feb,119.38,ikon-pass,Sugarbush,https://www.onthesnow.com/vermont/sugarbush/ski-resort
+tremblant,Jan,119.38,ikon-pass,Tremblant,https://www.onthesnow.com/quebec/tremblant/ski-resort
+copper-mountain-resort,Dec,119.38,ikon-pass,Copper Mountain,https://www.onthesnow.com/colorado/copper-mountain-resort/ski-resort
+boyne-highlands,Jan,119.38,ikon-pass,The Highlands,https://www.onthesnow.com/michigan/boyne-highlands/ski-resort
+sunshine-village,Dec,119.38,mountain-collective,Sunshine Village,https://www.onthesnow.com/alberta/sunshine-village/ski-resort
+sunshine-village,Dec,119.38,ikon-pass,Sunshine Village,https://www.onthesnow.com/alberta/sunshine-village/ski-resort
+panorama-mountain,Mar,119.38,ikon-pass,Panorama Mountain,https://www.onthesnow.com/british-columbia/panorama-mountain/ski-resort
+heavenly-mountain-resort,Mar,119.38,epic-pass,Heavenly,https://www.onthesnow.com/california/heavenly-mountain-resort/ski-resort
+revelstoke-mountain,Mar,119.38,mountain-collective,Revelstoke,https://www.onthesnow.com/british-columbia/revelstoke-mountain/ski-resort
+revelstoke-mountain,Mar,119.38,ikon-pass,Revelstoke,https://www.onthesnow.com/british-columbia/revelstoke-mountain/ski-resort
+kicking-horse,Dec,119.38,epic-pass,Kicking Horse,https://www.onthesnow.com/british-columbia/kicking-horse/ski-resort
+stowe-mountain-resort,Mar,119.38,epic-pass,Stowe Mountain,https://www.onthesnow.com/vermont/stowe-mountain-resort/ski-resort
+whistler-blackcomb,Feb,116.84,epic-pass,Whistler Blackcomb,https://www.onthesnow.com/british-columbia/whistler-blackcomb/ski-resort
+sugarbush,Jan,116.84,mountain-collective,Sugarbush,https://www.onthesnow.com/vermont/sugarbush/ski-resort
+sugarbush,Jan,116.84,ikon-pass,Sugarbush,https://www.onthesnow.com/vermont/sugarbush/ski-resort
+stoneham,Jan,116.84,epic-pass,Stoneham,https://www.onthesnow.com/quebec/stoneham/ski-resort
+copper-mountain-resort,Jan,116.84,ikon-pass,Copper Mountain,https://www.onthesnow.com/colorado/copper-mountain-resort/ski-resort
+verbier,Dec,115.0,epic-pass,Verbier,https://www.onthesnow.co.uk/valais/verbier/ski-resort
+val-thorens,Feb,115.0,epic-pass,Val Thorens,https://www.onthesnow.co.uk/northern-alps/val-thorens/ski-resort
+telluride,Jan,114.3,epic-pass,Telluride,https://www.onthesnow.com/colorado/telluride/ski-resort
+crested-butte-mountain-resort,Feb,114.3,epic-pass,Crested Butte Mountain Resort,https://www.onthesnow.com/colorado/crested-butte-mountain-resort/ski-resort
+copper-mountain-resort,Feb,114.3,ikon-pass,Copper Mountain,https://www.onthesnow.com/colorado/copper-mountain-resort/ski-resort
+killington-resort,Feb,114.3,ikon-pass,Killington Resort,https://www.onthesnow.com/vermont/killington-resort/ski-resort
+kicking-horse,Mar,114.3,epic-pass,Kicking Horse,https://www.onthesnow.com/british-columbia/kicking-horse/ski-resort
+arapahoe-basin-ski-area,Feb,114.3,ikon-pass,Arapahoe Basin Ski Area,https://www.onthesnow.com/colorado/arapahoe-basin-ski-area/ski-resort
+taos-ski-valley,Feb,114.3,mountain-collective,Taos Ski Valley,https://www.onthesnow.com/new-mexico/taos-ski-valley/ski-resort
+taos-ski-valley,Feb,114.3,ikon-pass,Taos Ski Valley,https://www.onthesnow.com/new-mexico/taos-ski-valley/ski-resort
+vail,Mar,114.3,epic-pass,Vail,https://www.onthesnow.com/colorado/vail/ski-resort
+crested-butte-mountain-resort,Jan,114.3,epic-pass,Crested Butte Mountain Resort,https://www.onthesnow.com/colorado/crested-butte-mountain-resort/ski-resort
+arapahoe-basin-ski-area,Mar,114.3,ikon-pass,Arapahoe Basin Ski Area,https://www.onthesnow.com/colorado/arapahoe-basin-ski-area/ski-resort
+stowe-mountain-resort,Dec,111.76,epic-pass,Stowe Mountain,https://www.onthesnow.com/vermont/stowe-mountain-resort/ski-resort
+steamboat,Mar,111.76,ikon-pass,Steamboat,https://www.onthesnow.com/colorado/steamboat/ski-resort
+sugarbush,Mar,111.76,mountain-collective,Sugarbush,https://www.onthesnow.com/vermont/sugarbush/ski-resort
+sugarbush,Mar,111.76,ikon-pass,Sugarbush,https://www.onthesnow.com/vermont/sugarbush/ski-resort
+park-city-mountain-resort,Mar,111.76,epic-pass,Park City,https://www.onthesnow.com/utah/park-city-mountain-resort/ski-resort
+revelstoke-mountain,Feb,111.76,mountain-collective,Revelstoke,https://www.onthesnow.com/british-columbia/revelstoke-mountain/ski-resort
+revelstoke-mountain,Feb,111.76,ikon-pass,Revelstoke,https://www.onthesnow.com/british-columbia/revelstoke-mountain/ski-resort
+verbier,Jan,111.0,epic-pass,Verbier,https://www.onthesnow.co.uk/valais/verbier/ski-resort
+panorama-mountain,Feb,109.22,ikon-pass,Panorama Mountain,https://www.onthesnow.com/british-columbia/panorama-mountain/ski-resort
+snowbasin,Mar,109.22,mountain-collective,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+snowbasin,Mar,109.22,epic-pass,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+snowbasin,Mar,109.22,ikon-pass,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+mont-sainte-anne,Jan,109.22,epic-pass,Mont Sainte Anne,https://www.onthesnow.com/quebec/mont-sainte-anne/ski-resort
+sunshine-village,Feb,109.22,mountain-collective,Sunshine Village,https://www.onthesnow.com/alberta/sunshine-village/ski-resort
+sunshine-village,Feb,109.22,ikon-pass,Sunshine Village,https://www.onthesnow.com/alberta/sunshine-village/ski-resort
+sun-valley,Feb,109.22,mountain-collective,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+sun-valley,Feb,109.22,epic-pass,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+sun-valley,Feb,109.22,ikon-pass,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+arapahoe-basin-ski-area,Jan,109.22,ikon-pass,Arapahoe Basin Ski Area,https://www.onthesnow.com/colorado/arapahoe-basin-ski-area/ski-resort
+kicking-horse,Jan,109.22,epic-pass,Kicking Horse,https://www.onthesnow.com/british-columbia/kicking-horse/ski-resort
+arapahoe-basin-ski-area,Dec,109.22,ikon-pass,Arapahoe Basin Ski Area,https://www.onthesnow.com/colorado/arapahoe-basin-ski-area/ski-resort
+val-thorens,Mar,107.0,epic-pass,Val Thorens,https://www.onthesnow.co.uk/northern-alps/val-thorens/ski-resort
+deer-valley-resort,Mar,106.68,ikon-pass,Deer Valley Resort,https://www.onthesnow.com/utah/deer-valley-resort/ski-resort
+crystal-mountain-wa,Apr,106.68,ikon-pass,Crystal Mountain,https://www.onthesnow.com/washington/crystal-mountain-wa/ski-resort
+keystone,Dec,106.68,epic-pass,Keystone,https://www.onthesnow.com/colorado/keystone/ski-resort
+sunshine-village,Jan,106.68,mountain-collective,Sunshine Village,https://www.onthesnow.com/alberta/sunshine-village/ski-resort
+sunshine-village,Jan,106.68,ikon-pass,Sunshine Village,https://www.onthesnow.com/alberta/sunshine-village/ski-resort
+eldora-mountain-resort,Dec,104.14,ikon-pass,Eldora Mountain Resort,https://www.onthesnow.com/colorado/eldora-mountain-resort/ski-resort
+panorama-mountain,Jan,104.14,ikon-pass,Panorama Mountain,https://www.onthesnow.com/british-columbia/panorama-mountain/ski-resort
+keystone,Jan,104.14,epic-pass,Keystone,https://www.onthesnow.com/colorado/keystone/ski-resort
+eldora-mountain-resort,Mar,104.14,ikon-pass,Eldora Mountain Resort,https://www.onthesnow.com/colorado/eldora-mountain-resort/ski-resort
+winter-park-resort,Apr,104.14,ikon-pass,Winter Park,https://www.onthesnow.com/colorado/winter-park-resort/ski-resort
+mont-sainte-anne,Feb,104.14,epic-pass,Mont Sainte Anne,https://www.onthesnow.com/quebec/mont-sainte-anne/ski-resort
+taos-ski-valley,Dec,101.6,mountain-collective,Taos Ski Valley,https://www.onthesnow.com/new-mexico/taos-ski-valley/ski-resort
+taos-ski-valley,Dec,101.6,ikon-pass,Taos Ski Valley,https://www.onthesnow.com/new-mexico/taos-ski-valley/ski-resort
+whistler-blackcomb,Nov,101.6,epic-pass,Whistler Blackcomb,https://www.onthesnow.com/british-columbia/whistler-blackcomb/ski-resort
+boyne-mountain-resort,Jan,101.6,ikon-pass,Boyne Mountain Resort,https://www.onthesnow.com/michigan/boyne-mountain-resort/ski-resort
+arapahoe-basin-ski-area,Apr,101.6,ikon-pass,Arapahoe Basin Ski Area,https://www.onthesnow.com/colorado/arapahoe-basin-ski-area/ski-resort
+stratton-mountain,Feb,101.6,ikon-pass,Stratton Mountain,https://www.onthesnow.com/vermont/stratton-mountain/ski-resort
+sunshine-village,Nov,101.6,mountain-collective,Sunshine Village,https://www.onthesnow.com/alberta/sunshine-village/ski-resort
+sunshine-village,Nov,101.6,ikon-pass,Sunshine Village,https://www.onthesnow.com/alberta/sunshine-village/ski-resort
+sugarloaf,Feb,99.06,ikon-pass,Sugarloaf,https://www.onthesnow.com/maine/sugarloaf/ski-resort
+mt-bachelor,Apr,99.06,ikon-pass,Mt. Bachelor,https://www.onthesnow.com/oregon/mt-bachelor/ski-resort
+taos-ski-valley,Mar,99.06,mountain-collective,Taos Ski Valley,https://www.onthesnow.com/new-mexico/taos-ski-valley/ski-resort
+taos-ski-valley,Mar,99.06,ikon-pass,Taos Ski Valley,https://www.onthesnow.com/new-mexico/taos-ski-valley/ski-resort
+keystone,Feb,99.06,epic-pass,Keystone,https://www.onthesnow.com/colorado/keystone/ski-resort
+mont-sainte-anne,Dec,99.06,epic-pass,Mont Sainte Anne,https://www.onthesnow.com/quebec/mont-sainte-anne/ski-resort
+eldora-mountain-resort,Jan,99.06,ikon-pass,Eldora Mountain Resort,https://www.onthesnow.com/colorado/eldora-mountain-resort/ski-resort
+lake-louise,Dec,99.06,mountain-collective,Lake Louise,https://www.onthesnow.com/alberta/lake-louise/ski-resort
+lake-louise,Dec,99.06,ikon-pass,Lake Louise,https://www.onthesnow.com/alberta/lake-louise/ski-resort
+june-mountain,Mar,96.52,ikon-pass,June Mountain,https://www.onthesnow.com/california/june-mountain/ski-resort
+stoneham,Feb,96.52,epic-pass,Stoneham,https://www.onthesnow.com/quebec/stoneham/ski-resort
+tremblant,Dec,96.52,ikon-pass,Tremblant,https://www.onthesnow.com/quebec/tremblant/ski-resort
+mont-sainte-anne,Mar,96.52,epic-pass,Mont Sainte Anne,https://www.onthesnow.com/quebec/mont-sainte-anne/ski-resort
+killington-resort,Dec,93.98,ikon-pass,Killington Resort,https://www.onthesnow.com/vermont/killington-resort/ski-resort
+killington-resort,Jan,93.98,ikon-pass,Killington Resort,https://www.onthesnow.com/vermont/killington-resort/ski-resort
+loon-mountain,Feb,93.98,ikon-pass,Loon Mountain,https://www.onthesnow.com/new-hampshire/loon-mountain/ski-resort
+sun-valley,Jan,93.98,mountain-collective,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+sun-valley,Jan,93.98,epic-pass,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+sun-valley,Jan,93.98,ikon-pass,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+lake-louise,Nov,93.98,mountain-collective,Lake Louise,https://www.onthesnow.com/alberta/lake-louise/ski-resort
+lake-louise,Nov,93.98,ikon-pass,Lake Louise,https://www.onthesnow.com/alberta/lake-louise/ski-resort
+alta-ski-area,Apr,93.98,mountain-collective,Alta Ski Area,https://www.onthesnow.com/utah/alta-ski-area/ski-resort
+alta-ski-area,Apr,93.98,ikon-pass,Alta Ski Area,https://www.onthesnow.com/utah/alta-ski-area/ski-resort
+sunday-river,Feb,93.98,ikon-pass,Sunday River,https://www.onthesnow.com/maine/sunday-river/ski-resort
+lake-louise,Mar,93.98,mountain-collective,Lake Louise,https://www.onthesnow.com/alberta/lake-louise/ski-resort
+lake-louise,Mar,93.98,ikon-pass,Lake Louise,https://www.onthesnow.com/alberta/lake-louise/ski-resort
+courchevel,Jan,93.0,epic-pass,Courchevel,https://www.onthesnow.co.uk/northern-alps/courchevel/ski-resort
+verbier,Feb,93.0,epic-pass,Verbier,https://www.onthesnow.co.uk/valais/verbier/ski-resort
+orelle,Jan,92.0,epic-pass,Orelle,https://www.onthesnow.co.uk/northern-alps/orelle/ski-resort
+crested-butte-mountain-resort,Mar,91.44,epic-pass,Crested Butte Mountain Resort,https://www.onthesnow.com/colorado/crested-butte-mountain-resort/ski-resort
+breckenridge,Apr,91.44,epic-pass,Breckenridge,https://www.onthesnow.com/colorado/breckenridge/ski-resort
+orelle,Dec,90.0,epic-pass,Orelle,https://www.onthesnow.co.uk/northern-alps/orelle/ski-resort
+lake-louise,Feb,88.9,mountain-collective,Lake Louise,https://www.onthesnow.com/alberta/lake-louise/ski-resort
+lake-louise,Feb,88.9,ikon-pass,Lake Louise,https://www.onthesnow.com/alberta/lake-louise/ski-resort
+lake-louise,Jan,88.9,mountain-collective,Lake Louise,https://www.onthesnow.com/alberta/lake-louise/ski-resort
+lake-louise,Jan,88.9,ikon-pass,Lake Louise,https://www.onthesnow.com/alberta/lake-louise/ski-resort
+the-summit-at-snoqualmie,Mar,88.9,ikon-pass,The Summit at Snoqualmie,https://www.onthesnow.com/washington/the-summit-at-snoqualmie/ski-resort
+brighton-resort,Apr,86.36,ikon-pass,Brighton Resort,https://www.onthesnow.com/utah/brighton-resort/ski-resort
+winter-park-resort,Nov,86.36,ikon-pass,Winter Park,https://www.onthesnow.com/colorado/winter-park-resort/ski-resort
+snowshoe-mountain-resort,Jan,86.36,ikon-pass,Snowshoe Mountain,https://www.onthesnow.com/west-virginia/snowshoe-mountain-resort/ski-resort
+arapahoe-basin-ski-area,Nov,86.36,ikon-pass,Arapahoe Basin Ski Area,https://www.onthesnow.com/colorado/arapahoe-basin-ski-area/ski-resort
+stoneham,Dec,86.36,epic-pass,Stoneham,https://www.onthesnow.com/quebec/stoneham/ski-resort
+thredbo-alpine-resort,Aug,86.36,mountain-collective,Thredbo Alpine Resort,https://www.onthesnow.com/australia/thredbo-alpine-resort/ski-resort
+thredbo-alpine-resort,Aug,86.36,ikon-pass,Thredbo Alpine Resort,https://www.onthesnow.com/australia/thredbo-alpine-resort/ski-resort
+arapahoe-basin-ski-area,May,86.36,ikon-pass,Arapahoe Basin Ski Area,https://www.onthesnow.com/colorado/arapahoe-basin-ski-area/ski-resort
+big-sky-resort,Apr,86.36,mountain-collective,Big Sky,https://www.onthesnow.com/montana/big-sky-resort/ski-resort
+big-sky-resort,Apr,86.36,ikon-pass,Big Sky,https://www.onthesnow.com/montana/big-sky-resort/ski-resort
+kicking-horse,Feb,86.36,epic-pass,Kicking Horse,https://www.onthesnow.com/british-columbia/kicking-horse/ski-resort
+okemo-mountain-resort,Feb,86.36,epic-pass,Okemo Mountain Resort,https://www.onthesnow.com/vermont/okemo-mountain-resort/ski-resort
+les-menuires,Dec,84.0,epic-pass,Les Menuires,https://www.onthesnow.co.uk/northern-alps/les-menuires/ski-resort
+taos-ski-valley,Jan,83.82000000000001,mountain-collective,Taos Ski Valley,https://www.onthesnow.com/new-mexico/taos-ski-valley/ski-resort
+taos-ski-valley,Jan,83.82000000000001,ikon-pass,Taos Ski Valley,https://www.onthesnow.com/new-mexico/taos-ski-valley/ski-resort
+les-menuires,Jan,82.0,epic-pass,Les Menuires,https://www.onthesnow.co.uk/northern-alps/les-menuires/ski-resort
+sugarloaf,Dec,81.28,ikon-pass,Sugarloaf,https://www.onthesnow.com/maine/sugarloaf/ski-resort
+squaw-valley-usa,Apr,81.28,mountain-collective,Palisades Tahoe,https://www.onthesnow.com/california/squaw-valley-usa/ski-resort
+squaw-valley-usa,Apr,81.28,ikon-pass,Palisades Tahoe,https://www.onthesnow.com/california/squaw-valley-usa/ski-resort
+aspen-snowmass,Apr,81.28,mountain-collective,Aspen Snowmass,https://www.onthesnow.com/colorado/aspen-snowmass/ski-resort
+aspen-snowmass,Apr,81.28,ikon-pass,Aspen Snowmass,https://www.onthesnow.com/colorado/aspen-snowmass/ski-resort
+stratton-mountain,Dec,81.28,ikon-pass,Stratton Mountain,https://www.onthesnow.com/vermont/stratton-mountain/ski-resort
+panorama-mountain,Dec,81.28,ikon-pass,Panorama Mountain,https://www.onthesnow.com/british-columbia/panorama-mountain/ski-resort
+mount-sunapee,Feb,81.28,epic-pass,Mount Sunapee,https://www.onthesnow.com/new-hampshire/mount-sunapee/ski-resort
+loon-mountain,Dec,81.28,ikon-pass,Loon Mountain,https://www.onthesnow.com/new-hampshire/loon-mountain/ski-resort
+andalo-fai-della-paganella,Feb,81.0,epic-pass,Andalo - Fai della Paganella,https://www.onthesnow.co.uk/trentino/andalo-fai-della-paganella/ski-resort
+folgaria,Feb,81.0,epic-pass,Alpe Cimbra - Folgaria - Lavarone,https://www.onthesnow.co.uk/trentino/folgaria/ski-resort
+meribel,Dec,80.0,epic-pass,Meribel,https://www.onthesnow.co.uk/northern-alps/meribel/ski-resort
+madonna-di-campiglio,Feb,79.0,epic-pass,Madonna di Campiglio,https://www.onthesnow.co.uk/trentino/madonna-di-campiglio/ski-resort
+verbier,Mar,79.0,epic-pass,Verbier,https://www.onthesnow.co.uk/valais/verbier/ski-resort
+squaw-valley-usa,Nov,78.74,mountain-collective,Palisades Tahoe,https://www.onthesnow.com/california/squaw-valley-usa/ski-resort
+squaw-valley-usa,Nov,78.74,ikon-pass,Palisades Tahoe,https://www.onthesnow.com/california/squaw-valley-usa/ski-resort
+blue-mountain,Jan,78.74,ikon-pass,Blue Mountain,https://www.onthesnow.com/ontario/blue-mountain/ski-resort
+kimberley,Jan,78.74,epic-pass,Kimberley,https://www.onthesnow.com/british-columbia/kimberley/ski-resort
+snowshoe-mountain-resort,Feb,78.74,ikon-pass,Snowshoe Mountain,https://www.onthesnow.com/west-virginia/snowshoe-mountain-resort/ski-resort
+folgarida-marilleva,Feb,78.0,epic-pass,Folgàrida - Marilléva,https://www.onthesnow.co.uk/trentino/folgarida-marilleva/ski-resort
+courchevel,Dec,77.0,epic-pass,Courchevel,https://www.onthesnow.co.uk/northern-alps/courchevel/ski-resort
+val-thorens,Nov,77.0,epic-pass,Val Thorens,https://www.onthesnow.co.uk/northern-alps/val-thorens/ski-resort
+mammoth-mountain-ski-area,Nov,76.2,mountain-collective,Mammoth Mountain,https://www.onthesnow.com/california/mammoth-mountain-ski-area/ski-resort
+mammoth-mountain-ski-area,Nov,76.2,ikon-pass,Mammoth Mountain,https://www.onthesnow.com/california/mammoth-mountain-ski-area/ski-resort
+loon-mountain,Jan,76.2,ikon-pass,Loon Mountain,https://www.onthesnow.com/new-hampshire/loon-mountain/ski-resort
+boyne-highlands,Dec,76.2,ikon-pass,The Highlands,https://www.onthesnow.com/michigan/boyne-highlands/ski-resort
+boyne-highlands,Feb,76.2,ikon-pass,The Highlands,https://www.onthesnow.com/michigan/boyne-highlands/ski-resort
+windham-mountain,Feb,76.2,ikon-pass,Windham Mountain,https://www.onthesnow.com/new-york/windham-mountain/ski-resort
+kimberley,Dec,76.2,epic-pass,Kimberley,https://www.onthesnow.com/british-columbia/kimberley/ski-resort
+kimberley,Feb,76.2,epic-pass,Kimberley,https://www.onthesnow.com/british-columbia/kimberley/ski-resort
+breckenridge,Nov,76.2,epic-pass,Breckenridge,https://www.onthesnow.com/colorado/breckenridge/ski-resort
+orelle,Feb,75.0,epic-pass,Orelle,https://www.onthesnow.co.uk/northern-alps/orelle/ski-resort
+meribel,Jan,75.0,epic-pass,Meribel,https://www.onthesnow.co.uk/northern-alps/meribel/ski-resort
+nendaz,Jan,74.0,epic-pass,Nendaz,https://www.onthesnow.co.uk/valais/nendaz/ski-resort
+snow-summit,Jan,73.66,ikon-pass,Snow Summit,https://www.onthesnow.com/california/snow-summit/ski-resort
+boyne-mountain-resort,Feb,73.66,ikon-pass,Boyne Mountain Resort,https://www.onthesnow.com/michigan/boyne-mountain-resort/ski-resort
+lake-louise,Apr,73.66,mountain-collective,Lake Louise,https://www.onthesnow.com/alberta/lake-louise/ski-resort
+lake-louise,Apr,73.66,ikon-pass,Lake Louise,https://www.onthesnow.com/alberta/lake-louise/ski-resort
+boyne-mountain-resort,Dec,73.66,ikon-pass,Boyne Mountain Resort,https://www.onthesnow.com/michigan/boyne-mountain-resort/ski-resort
+bear-mountain,Jan,73.66,ikon-pass,Bear Mountain,https://www.onthesnow.com/california/bear-mountain/ski-resort
+tremblant,Mar,73.66,ikon-pass,Tremblant,https://www.onthesnow.com/quebec/tremblant/ski-resort
+keystone,Nov,73.66,epic-pass,Keystone,https://www.onthesnow.com/colorado/keystone/ski-resort
+killington-resort,Mar,73.66,ikon-pass,Killington Resort,https://www.onthesnow.com/vermont/killington-resort/ski-resort
+veysonnaz,Jan,73.0,epic-pass,Veysonnaz,https://www.onthesnow.co.uk/valais/veysonnaz/ski-resort
+nendaz,Dec,73.0,epic-pass,Nendaz,https://www.onthesnow.co.uk/valais/nendaz/ski-resort
+saint-martin-de-belleville,Jan,72.0,epic-pass,Saint Martin de Belleville,https://www.onthesnow.co.uk/northern-alps/saint-martin-de-belleville/ski-resort
+pontedilegno-tonale-adamello-ski,Feb,72.0,epic-pass,Pontedilegno - Tonale,https://www.onthesnow.co.uk/trentino/pontedilegno-tonale-adamello-ski/ski-resort
+whistler-blackcomb,Apr,71.12,epic-pass,Whistler Blackcomb,https://www.onthesnow.com/british-columbia/whistler-blackcomb/ski-resort
+blue-mountain,Feb,71.12,ikon-pass,Blue Mountain,https://www.onthesnow.com/ontario/blue-mountain/ski-resort
+sunday-river,Dec,71.12,ikon-pass,Sunday River,https://www.onthesnow.com/maine/sunday-river/ski-resort
+copper-mountain-resort,Apr,71.12,ikon-pass,Copper Mountain,https://www.onthesnow.com/colorado/copper-mountain-resort/ski-resort
+thyon-2000,Jan,71.0,epic-pass,Thyon 2000,https://www.onthesnow.co.uk/valais/thyon-2000/ski-resort
+madonna-di-campiglio,Nov,70.0,epic-pass,Madonna di Campiglio,https://www.onthesnow.co.uk/trentino/madonna-di-campiglio/ski-resort
+thredbo-alpine-resort,Jul,68.58,mountain-collective,Thredbo Alpine Resort,https://www.onthesnow.com/australia/thredbo-alpine-resort/ski-resort
+thredbo-alpine-resort,Jul,68.58,ikon-pass,Thredbo Alpine Resort,https://www.onthesnow.com/australia/thredbo-alpine-resort/ski-resort
+sugarloaf,Jan,68.58,ikon-pass,Sugarloaf,https://www.onthesnow.com/maine/sugarloaf/ski-resort
+okemo-mountain-resort,Dec,68.58,epic-pass,Okemo Mountain Resort,https://www.onthesnow.com/vermont/okemo-mountain-resort/ski-resort
+saint-martin-de-belleville,Dec,67.0,epic-pass,Saint Martin de Belleville,https://www.onthesnow.co.uk/northern-alps/saint-martin-de-belleville/ski-resort
+courchevel,Feb,67.0,epic-pass,Courchevel,https://www.onthesnow.co.uk/northern-alps/courchevel/ski-resort
+mammoth-mountain-ski-area,Apr,66.04,mountain-collective,Mammoth Mountain,https://www.onthesnow.com/california/mammoth-mountain-ski-area/ski-resort
+mammoth-mountain-ski-area,Apr,66.04,ikon-pass,Mammoth Mountain,https://www.onthesnow.com/california/mammoth-mountain-ski-area/ski-resort
+snowshoe-mountain-resort,Mar,66.04,ikon-pass,Snowshoe Mountain,https://www.onthesnow.com/west-virginia/snowshoe-mountain-resort/ski-resort
+copper-mountain-resort,Nov,66.04,ikon-pass,Copper Mountain,https://www.onthesnow.com/colorado/copper-mountain-resort/ski-resort
+kimberley,Mar,66.04,epic-pass,Kimberley,https://www.onthesnow.com/british-columbia/kimberley/ski-resort
+stratton-mountain,Jan,66.04,ikon-pass,Stratton Mountain,https://www.onthesnow.com/vermont/stratton-mountain/ski-resort
+perisher,Jul,66.04,epic-pass,Perisher,https://www.onthesnow.com/australia/perisher/ski-resort
+kirkwood,Apr,66.04,epic-pass,Kirkwood,https://www.onthesnow.com/california/kirkwood/ski-resort
+orelle,Mar,66.0,epic-pass,Orelle,https://www.onthesnow.co.uk/northern-alps/orelle/ski-resort
+les-menuires,Feb,66.0,epic-pass,Les Menuires,https://www.onthesnow.co.uk/northern-alps/les-menuires/ski-resort
+saint-martin-de-belleville,Feb,64.0,epic-pass,Saint Martin de Belleville,https://www.onthesnow.co.uk/northern-alps/saint-martin-de-belleville/ski-resort
+okemo-mountain-resort,Jan,63.5,epic-pass,Okemo Mountain Resort,https://www.onthesnow.com/vermont/okemo-mountain-resort/ski-resort
+sunday-river,Jan,63.5,ikon-pass,Sunday River,https://www.onthesnow.com/maine/sunday-river/ski-resort
+sunshine-village,Apr,63.5,mountain-collective,Sunshine Village,https://www.onthesnow.com/alberta/sunshine-village/ski-resort
+sunshine-village,Apr,63.5,ikon-pass,Sunshine Village,https://www.onthesnow.com/alberta/sunshine-village/ski-resort
+vail,Nov,60.96,epic-pass,Vail,https://www.onthesnow.com/colorado/vail/ski-resort
+sun-valley,Mar,60.96,mountain-collective,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+sun-valley,Mar,60.96,epic-pass,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+sun-valley,Mar,60.96,ikon-pass,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+vail,Apr,60.96,epic-pass,Vail,https://www.onthesnow.com/colorado/vail/ski-resort
+monte-bondone,Feb,60.0,epic-pass,Monte Bondone,https://www.onthesnow.co.uk/trentino/monte-bondone/ski-resort
+nakiska-ski-area,Mar,58.42,epic-pass,Nakiska Ski Area,https://www.onthesnow.com/alberta/nakiska-ski-area/ski-resort
+bear-mountain,Feb,58.42,ikon-pass,Bear Mountain,https://www.onthesnow.com/california/bear-mountain/ski-resort
+solitude-mountain-resort,Apr,58.42,ikon-pass,Solitude Mountain Resort,https://www.onthesnow.com/utah/solitude-mountain-resort/ski-resort
+sugarloaf,Mar,58.42,ikon-pass,Sugarloaf,https://www.onthesnow.com/maine/sugarloaf/ski-resort
+mount-sunapee,Dec,58.42,epic-pass,Mount Sunapee,https://www.onthesnow.com/new-hampshire/mount-sunapee/ski-resort
+crystal-mountain-wa,Nov,58.42,ikon-pass,Crystal Mountain,https://www.onthesnow.com/washington/crystal-mountain-wa/ski-resort
+loon-mountain,Mar,58.42,ikon-pass,Loon Mountain,https://www.onthesnow.com/new-hampshire/loon-mountain/ski-resort
+courchevel,Mar,57.0,epic-pass,Courchevel,https://www.onthesnow.co.uk/northern-alps/courchevel/ski-resort
+snow-summit,Dec,55.88,ikon-pass,Snow Summit,https://www.onthesnow.com/california/snow-summit/ski-resort
+aspen-snowmass,Nov,55.88,mountain-collective,Aspen Snowmass,https://www.onthesnow.com/colorado/aspen-snowmass/ski-resort
+aspen-snowmass,Nov,55.88,ikon-pass,Aspen Snowmass,https://www.onthesnow.com/colorado/aspen-snowmass/ski-resort
+okemo-mountain-resort,Mar,55.88,epic-pass,Okemo Mountain Resort,https://www.onthesnow.com/vermont/okemo-mountain-resort/ski-resort
+stevens-pass-resort,Apr,55.88,epic-pass,Stevens Pass Resort,https://www.onthesnow.com/washington/stevens-pass-resort/ski-resort
+northstar-california,Nov,55.88,epic-pass,Northstar California,https://www.onthesnow.com/california/northstar-california/ski-resort
+thyon-2000,Feb,55.0,epic-pass,Thyon 2000,https://www.onthesnow.co.uk/valais/thyon-2000/ski-resort
+veysonnaz,Feb,55.0,epic-pass,Veysonnaz,https://www.onthesnow.co.uk/valais/veysonnaz/ski-resort
+veysonnaz,Dec,55.0,epic-pass,Veysonnaz,https://www.onthesnow.co.uk/valais/veysonnaz/ski-resort
+nendaz,Feb,55.0,epic-pass,Nendaz,https://www.onthesnow.co.uk/valais/nendaz/ski-resort
+mt-hotham,Aug,53.34,epic-pass,Mt. Hotham,https://www.onthesnow.com/australia/mt-hotham/ski-resort
+kirkwood,Nov,53.34,epic-pass,Kirkwood,https://www.onthesnow.com/california/kirkwood/ski-resort
+ski-banff-norquay,Mar,53.34,ikon-pass,Mt. Norquay,https://www.onthesnow.com/alberta/ski-banff-norquay/ski-resort
+snow-summit,Feb,53.34,ikon-pass,Snow Summit,https://www.onthesnow.com/california/snow-summit/ski-resort
+falls-creek-alpine-resort,Jul,53.34,epic-pass,Falls Creek Alpine Resort,https://www.onthesnow.com/australia/falls-creek-alpine-resort/ski-resort
+jackson-hole,Nov,53.34,mountain-collective,Jackson Hole,https://www.onthesnow.com/wyoming/jackson-hole/ski-resort
+jackson-hole,Nov,53.34,ikon-pass,Jackson Hole,https://www.onthesnow.com/wyoming/jackson-hole/ski-resort
+andalo-fai-della-paganella,Jan,53.0,epic-pass,Andalo - Fai della Paganella,https://www.onthesnow.co.uk/trentino/andalo-fai-della-paganella/ski-resort
+la-tania,Jan,53.0,epic-pass,La Tania,https://www.onthesnow.co.uk/northern-alps/la-tania/ski-resort
+madonna-di-campiglio,Jan,53.0,epic-pass,Madonna di Campiglio,https://www.onthesnow.co.uk/trentino/madonna-di-campiglio/ski-resort
+les-menuires,Mar,53.0,epic-pass,Les Menuires,https://www.onthesnow.co.uk/northern-alps/les-menuires/ski-resort
+andalo-fai-della-paganella,Mar,52.0,epic-pass,Andalo - Fai della Paganella,https://www.onthesnow.co.uk/trentino/andalo-fai-della-paganella/ski-resort
+meribel,Mar,51.0,epic-pass,Meribel,https://www.onthesnow.co.uk/northern-alps/meribel/ski-resort
+folgaria,Jan,51.0,epic-pass,Alpe Cimbra - Folgaria - Lavarone,https://www.onthesnow.co.uk/trentino/folgaria/ski-resort
+stoneham,Mar,50.8,epic-pass,Stoneham,https://www.onthesnow.com/quebec/stoneham/ski-resort
+ski-banff-norquay,Feb,50.8,ikon-pass,Mt. Norquay,https://www.onthesnow.com/alberta/ski-banff-norquay/ski-resort
+brighton-resort,Nov,50.8,ikon-pass,Brighton Resort,https://www.onthesnow.com/utah/brighton-resort/ski-resort
+mt-bachelor,Nov,50.8,ikon-pass,Mt. Bachelor,https://www.onthesnow.com/oregon/mt-bachelor/ski-resort
+perisher,Aug,50.8,epic-pass,Perisher,https://www.onthesnow.com/australia/perisher/ski-resort
+june-mountain,Dec,50.8,ikon-pass,June Mountain,https://www.onthesnow.com/california/june-mountain/ski-resort
+beaver-creek,Nov,50.8,epic-pass,Beaver Creek,https://www.onthesnow.com/colorado/beaver-creek/ski-resort
+ski-banff-norquay,Dec,50.8,ikon-pass,Mt. Norquay,https://www.onthesnow.com/alberta/ski-banff-norquay/ski-resort
+mount-sunapee,Jan,50.8,epic-pass,Mount Sunapee,https://www.onthesnow.com/new-hampshire/mount-sunapee/ski-resort
+mt-hotham,Jul,50.8,epic-pass,Mt. Hotham,https://www.onthesnow.com/australia/mt-hotham/ski-resort
+windham-mountain,Jan,50.8,ikon-pass,Windham Mountain,https://www.onthesnow.com/new-york/windham-mountain/ski-resort
+ski-banff-norquay,Jan,50.8,ikon-pass,Mt. Norquay,https://www.onthesnow.com/alberta/ski-banff-norquay/ski-resort
+windham-mountain,Dec,50.8,ikon-pass,Windham Mountain,https://www.onthesnow.com/new-york/windham-mountain/ski-resort
+la-tania,Feb,50.0,epic-pass,La Tania,https://www.onthesnow.co.uk/northern-alps/la-tania/ski-resort
+la-tania,Dec,50.0,epic-pass,La Tania,https://www.onthesnow.co.uk/northern-alps/la-tania/ski-resort
+pejo,Jan,49.0,epic-pass,Pejo,https://www.onthesnow.co.uk/trentino/pejo/ski-resort
+madonna-di-campiglio,Dec,49.0,epic-pass,Madonna di Campiglio,https://www.onthesnow.co.uk/trentino/madonna-di-campiglio/ski-resort
+the-remarkables,Jul,48.26,mountain-collective,The Remarkables,https://www.onthesnow.com/new-zealand/the-remarkables/ski-resort
+snowbird,Nov,48.26,mountain-collective,Snowbird,https://www.onthesnow.com/utah/snowbird/ski-resort
+snowbird,Nov,48.26,ikon-pass,Snowbird,https://www.onthesnow.com/utah/snowbird/ski-resort
+mt-buller,Aug,48.26,ikon-pass,Mt. Buller,https://www.onthesnow.com/australia/mt-buller/ski-resort
+falls-creek-alpine-resort,Aug,48.26,epic-pass,Falls Creek Alpine Resort,https://www.onthesnow.com/australia/falls-creek-alpine-resort/ski-resort
+nakiska-ski-area,Feb,48.26,epic-pass,Nakiska Ski Area,https://www.onthesnow.com/alberta/nakiska-ski-area/ski-resort
+stratton-mountain,Mar,48.26,ikon-pass,Stratton Mountain,https://www.onthesnow.com/vermont/stratton-mountain/ski-resort
+snowshoe-mountain-resort,Dec,48.26,ikon-pass,Snowshoe Mountain,https://www.onthesnow.com/west-virginia/snowshoe-mountain-resort/ski-resort
+nakiska-ski-area,Nov,48.26,epic-pass,Nakiska Ski Area,https://www.onthesnow.com/alberta/nakiska-ski-area/ski-resort
+perisher,Jun,48.26,epic-pass,Perisher,https://www.onthesnow.com/australia/perisher/ski-resort
+blue-mountain,Dec,48.26,ikon-pass,Blue Mountain,https://www.onthesnow.com/ontario/blue-mountain/ski-resort
+nakiska-ski-area,Dec,48.26,epic-pass,Nakiska Ski Area,https://www.onthesnow.com/alberta/nakiska-ski-area/ski-resort
+madonna-di-campiglio,Mar,48.0,epic-pass,Madonna di Campiglio,https://www.onthesnow.co.uk/trentino/madonna-di-campiglio/ski-resort
+folgarida-marilleva,Jan,48.0,epic-pass,Folgàrida - Marilléva,https://www.onthesnow.co.uk/trentino/folgarida-marilleva/ski-resort
+meribel,Feb,48.0,epic-pass,Meribel,https://www.onthesnow.co.uk/northern-alps/meribel/ski-resort
+pejo,Feb,46.0,epic-pass,Pejo,https://www.onthesnow.co.uk/trentino/pejo/ski-resort
+sunday-river,Mar,45.72,ikon-pass,Sunday River,https://www.onthesnow.com/maine/sunday-river/ski-resort
+bear-mountain,Dec,45.72,ikon-pass,Bear Mountain,https://www.onthesnow.com/california/bear-mountain/ski-resort
+windham-mountain,Mar,45.72,ikon-pass,Windham Mountain,https://www.onthesnow.com/new-york/windham-mountain/ski-resort
+revelstoke-mountain,Apr,45.72,mountain-collective,Revelstoke,https://www.onthesnow.com/british-columbia/revelstoke-mountain/ski-resort
+revelstoke-mountain,Apr,45.72,ikon-pass,Revelstoke,https://www.onthesnow.com/british-columbia/revelstoke-mountain/ski-resort
+brides-les-bains,Jan,45.0,epic-pass,Brides les Bains,https://www.onthesnow.co.uk/northern-alps/brides-les-bains/ski-resort
+thyon-2000,Mar,44.0,epic-pass,Thyon 2000,https://www.onthesnow.co.uk/valais/thyon-2000/ski-resort
+veysonnaz,Mar,44.0,epic-pass,Veysonnaz,https://www.onthesnow.co.uk/valais/veysonnaz/ski-resort
+beaver-creek,Apr,43.18,epic-pass,Beaver Creek,https://www.onthesnow.com/colorado/beaver-creek/ski-resort
+eldora-mountain-resort,Apr,43.18,ikon-pass,Eldora Mountain Resort,https://www.onthesnow.com/colorado/eldora-mountain-resort/ski-resort
+mount-sunapee,Mar,43.18,epic-pass,Mount Sunapee,https://www.onthesnow.com/new-hampshire/mount-sunapee/ski-resort
+kicking-horse,Nov,43.18,epic-pass,Kicking Horse,https://www.onthesnow.com/british-columbia/kicking-horse/ski-resort
+killington-resort,Nov,43.18,ikon-pass,Killington Resort,https://www.onthesnow.com/vermont/killington-resort/ski-resort
+fernie-alpine,Apr,43.18,epic-pass,Fernie Alpine,https://www.onthesnow.com/british-columbia/fernie-alpine/ski-resort
+telluride,Nov,43.18,epic-pass,Telluride,https://www.onthesnow.com/colorado/telluride/ski-resort
+solitude-mountain-resort,Nov,43.18,ikon-pass,Solitude Mountain Resort,https://www.onthesnow.com/utah/solitude-mountain-resort/ski-resort
+nendaz,Mar,43.0,epic-pass,Nendaz,https://www.onthesnow.co.uk/valais/nendaz/ski-resort
+pontedilegno-tonale-adamello-ski,Mar,42.0,epic-pass,Pontedilegno - Tonale,https://www.onthesnow.co.uk/trentino/pontedilegno-tonale-adamello-ski/ski-resort
+saint-martin-de-belleville,Mar,42.0,epic-pass,Saint Martin de Belleville,https://www.onthesnow.co.uk/northern-alps/saint-martin-de-belleville/ski-resort
+pinzolo,Feb,42.0,epic-pass,Pinzolo,https://www.onthesnow.co.uk/trentino/pinzolo/ski-resort
+mount-brighton,Feb,40.64,epic-pass,Mt. Brighton,https://www.onthesnow.com/michigan/mount-brighton/ski-resort
+bear-mountain,Mar,40.64,ikon-pass,Bear Mountain,https://www.onthesnow.com/california/bear-mountain/ski-resort
+snow-summit,Mar,40.64,ikon-pass,Snow Summit,https://www.onthesnow.com/california/snow-summit/ski-resort
+heavenly-mountain-resort,Nov,40.64,epic-pass,Heavenly,https://www.onthesnow.com/california/heavenly-mountain-resort/ski-resort
+park-city-mountain-resort,Nov,40.64,epic-pass,Park City,https://www.onthesnow.com/utah/park-city-mountain-resort/ski-resort
+taos-ski-valley,Nov,38.1,mountain-collective,Taos Ski Valley,https://www.onthesnow.com/new-mexico/taos-ski-valley/ski-resort
+taos-ski-valley,Nov,38.1,ikon-pass,Taos Ski Valley,https://www.onthesnow.com/new-mexico/taos-ski-valley/ski-resort
+heavenly-mountain-resort,Apr,38.1,epic-pass,Heavenly,https://www.onthesnow.com/california/heavenly-mountain-resort/ski-resort
+keystone,Apr,38.1,epic-pass,Keystone,https://www.onthesnow.com/colorado/keystone/ski-resort
+nakiska-ski-area,Apr,38.1,epic-pass,Nakiska Ski Area,https://www.onthesnow.com/alberta/nakiska-ski-area/ski-resort
+northstar-california,Apr,38.1,epic-pass,Northstar California,https://www.onthesnow.com/california/northstar-california/ski-resort
+nakiska-ski-area,Jan,38.1,epic-pass,Nakiska Ski Area,https://www.onthesnow.com/alberta/nakiska-ski-area/ski-resort
+sugarbush,Nov,38.1,mountain-collective,Sugarbush,https://www.onthesnow.com/vermont/sugarbush/ski-resort
+sugarbush,Nov,38.1,ikon-pass,Sugarbush,https://www.onthesnow.com/vermont/sugarbush/ski-resort
+mt-buller,Jul,38.1,ikon-pass,Mt. Buller,https://www.onthesnow.com/australia/mt-buller/ski-resort
+the-remarkables,Sep,38.1,mountain-collective,The Remarkables,https://www.onthesnow.com/new-zealand/the-remarkables/ski-resort
+big-sky-resort,Nov,38.1,mountain-collective,Big Sky,https://www.onthesnow.com/montana/big-sky-resort/ski-resort
+big-sky-resort,Nov,38.1,ikon-pass,Big Sky,https://www.onthesnow.com/montana/big-sky-resort/ski-resort
+the-remarkables,Aug,38.1,mountain-collective,The Remarkables,https://www.onthesnow.com/new-zealand/the-remarkables/ski-resort
+la-tania,Mar,38.0,epic-pass,La Tania,https://www.onthesnow.co.uk/northern-alps/la-tania/ski-resort
+thyon-2000,Dec,38.0,epic-pass,Thyon 2000,https://www.onthesnow.co.uk/valais/thyon-2000/ski-resort
+les-menuires,Nov,37.0,epic-pass,Les Menuires,https://www.onthesnow.co.uk/northern-alps/les-menuires/ski-resort
+folgarida-marilleva,Mar,36.0,epic-pass,Folgàrida - Marilléva,https://www.onthesnow.co.uk/trentino/folgarida-marilleva/ski-resort
+stowe-mountain-resort,Apr,35.56,epic-pass,Stowe Mountain,https://www.onthesnow.com/vermont/stowe-mountain-resort/ski-resort
+sugarbush,Apr,35.56,mountain-collective,Sugarbush,https://www.onthesnow.com/vermont/sugarbush/ski-resort
+sugarbush,Apr,35.56,ikon-pass,Sugarbush,https://www.onthesnow.com/vermont/sugarbush/ski-resort
+snowbird,May,35.56,mountain-collective,Snowbird,https://www.onthesnow.com/utah/snowbird/ski-resort
+snowbird,May,35.56,ikon-pass,Snowbird,https://www.onthesnow.com/utah/snowbird/ski-resort
+perisher,Sep,35.56,epic-pass,Perisher,https://www.onthesnow.com/australia/perisher/ski-resort
+kicking-horse,Apr,35.56,epic-pass,Kicking Horse,https://www.onthesnow.com/british-columbia/kicking-horse/ski-resort
+steamboat,Apr,35.56,ikon-pass,Steamboat,https://www.onthesnow.com/colorado/steamboat/ski-resort
+ski-banff-norquay,Nov,35.56,ikon-pass,Mt. Norquay,https://www.onthesnow.com/alberta/ski-banff-norquay/ski-resort
+stevens-pass-resort,Nov,35.56,epic-pass,Stevens Pass Resort,https://www.onthesnow.com/washington/stevens-pass-resort/ski-resort
+boyne-mountain-resort,Mar,35.56,ikon-pass,Boyne Mountain Resort,https://www.onthesnow.com/michigan/boyne-mountain-resort/ski-resort
+the-summit-at-snoqualmie,Apr,35.56,ikon-pass,The Summit at Snoqualmie,https://www.onthesnow.com/washington/the-summit-at-snoqualmie/ski-resort
+folgaria,Dec,35.0,epic-pass,Alpe Cimbra - Folgaria - Lavarone,https://www.onthesnow.co.uk/trentino/folgaria/ski-resort
+pontedilegno-tonale-adamello-ski,Jan,34.0,epic-pass,Pontedilegno - Tonale,https://www.onthesnow.co.uk/trentino/pontedilegno-tonale-adamello-ski/ski-resort
+cypress-mountain,Apr,33.02,ikon-pass,Cypress Mountain,https://www.onthesnow.com/british-columbia/cypress-mountain/ski-resort
+stowe-mountain-resort,Nov,33.02,epic-pass,Stowe Mountain,https://www.onthesnow.com/vermont/stowe-mountain-resort/ski-resort
+coronet-peak,Jul,33.02,mountain-collective,Coronet Peak,https://www.onthesnow.com/new-zealand/coronet-peak/ski-resort
+mont-sainte-anne,Apr,33.02,epic-pass,Mont Sainte Anne,https://www.onthesnow.com/quebec/mont-sainte-anne/ski-resort
+crested-butte-mountain-resort,Nov,33.02,epic-pass,Crested Butte Mountain Resort,https://www.onthesnow.com/colorado/crested-butte-mountain-resort/ski-resort
+snowbasin,Apr,33.02,mountain-collective,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+snowbasin,Apr,33.02,epic-pass,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+snowbasin,Apr,33.02,ikon-pass,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+afton-alps,Feb,33.02,epic-pass,Afton Alps,https://www.onthesnow.com/minnesota/afton-alps/ski-resort
+afton-alps,Dec,33.02,epic-pass,Afton Alps,https://www.onthesnow.com/minnesota/afton-alps/ski-resort
+valle-nevado,Aug,33.02,mountain-collective,Valle Nevado,https://www.onthesnow.com/chile/valle-nevado/ski-resort
+eldora-mountain-resort,Nov,33.02,ikon-pass,Eldora Mountain Resort,https://www.onthesnow.com/colorado/eldora-mountain-resort/ski-resort
+valle-nevado,Jul,33.02,mountain-collective,Valle Nevado,https://www.onthesnow.com/chile/valle-nevado/ski-resort
+jackson-hole,Apr,33.02,mountain-collective,Jackson Hole,https://www.onthesnow.com/wyoming/jackson-hole/ski-resort
+jackson-hole,Apr,33.02,ikon-pass,Jackson Hole,https://www.onthesnow.com/wyoming/jackson-hole/ski-resort
+verbier,Nov,33.0,epic-pass,Verbier,https://www.onthesnow.co.uk/valais/verbier/ski-resort
+andalo-fai-della-paganella,Dec,33.0,epic-pass,Andalo - Fai della Paganella,https://www.onthesnow.co.uk/trentino/andalo-fai-della-paganella/ski-resort
+courchevel,Nov,33.0,epic-pass,Courchevel,https://www.onthesnow.co.uk/northern-alps/courchevel/ski-resort
+pontedilegno-tonale-adamello-ski,Nov,32.0,epic-pass,Pontedilegno - Tonale,https://www.onthesnow.co.uk/trentino/pontedilegno-tonale-adamello-ski/ski-resort
+alta-ski-area,Nov,30.48,mountain-collective,Alta Ski Area,https://www.onthesnow.com/utah/alta-ski-area/ski-resort
+alta-ski-area,Nov,30.48,ikon-pass,Alta Ski Area,https://www.onthesnow.com/utah/alta-ski-area/ski-resort
+blue-mountain,Mar,30.48,ikon-pass,Blue Mountain,https://www.onthesnow.com/ontario/blue-mountain/ski-resort
+snowbasin,Nov,30.48,mountain-collective,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+snowbasin,Nov,30.48,epic-pass,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+snowbasin,Nov,30.48,ikon-pass,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+steamboat,Nov,30.48,ikon-pass,Steamboat,https://www.onthesnow.com/colorado/steamboat/ski-resort
+mount-brighton,Jan,30.48,epic-pass,Mt. Brighton,https://www.onthesnow.com/michigan/mount-brighton/ski-resort
+deer-valley-resort,Apr,30.48,ikon-pass,Deer Valley Resort,https://www.onthesnow.com/utah/deer-valley-resort/ski-resort
+sugarloaf,Apr,30.48,ikon-pass,Sugarloaf,https://www.onthesnow.com/maine/sugarloaf/ski-resort
+pontedilegno-tonale-adamello-ski,Dec,30.0,epic-pass,Pontedilegno - Tonale,https://www.onthesnow.co.uk/trentino/pontedilegno-tonale-adamello-ski/ski-resort
+pejo,Mar,30.0,epic-pass,Pejo,https://www.onthesnow.co.uk/trentino/pejo/ski-resort
+pinzolo,Jan,29.0,epic-pass,Pinzolo,https://www.onthesnow.co.uk/trentino/pinzolo/ski-resort
+meribel,Nov,29.0,epic-pass,Meribel,https://www.onthesnow.co.uk/northern-alps/meribel/ski-resort
+brides-les-bains,Mar,28.0,epic-pass,Brides les Bains,https://www.onthesnow.co.uk/northern-alps/brides-les-bains/ski-resort
+park-city-mountain-resort,Apr,27.94,epic-pass,Park City,https://www.onthesnow.com/utah/park-city-mountain-resort/ski-resort
+thredbo-alpine-resort,Sep,27.94,mountain-collective,Thredbo Alpine Resort,https://www.onthesnow.com/australia/thredbo-alpine-resort/ski-resort
+thredbo-alpine-resort,Sep,27.94,ikon-pass,Thredbo Alpine Resort,https://www.onthesnow.com/australia/thredbo-alpine-resort/ski-resort
+boyne-highlands,Mar,27.94,ikon-pass,The Highlands,https://www.onthesnow.com/michigan/boyne-highlands/ski-resort
+sugarloaf,Nov,27.94,ikon-pass,Sugarloaf,https://www.onthesnow.com/maine/sugarloaf/ski-resort
+thredbo-alpine-resort,Jun,27.94,mountain-collective,Thredbo Alpine Resort,https://www.onthesnow.com/australia/thredbo-alpine-resort/ski-resort
+thredbo-alpine-resort,Jun,27.94,ikon-pass,Thredbo Alpine Resort,https://www.onthesnow.com/australia/thredbo-alpine-resort/ski-resort
+wilmot-mountain,Jan,27.94,epic-pass,Wilmot Mountain,https://www.onthesnow.com/wisconsin/wilmot-mountain/ski-resort
+mt-hotham,Jun,27.94,epic-pass,Mt. Hotham,https://www.onthesnow.com/australia/mt-hotham/ski-resort
+afton-alps,Jan,27.94,epic-pass,Afton Alps,https://www.onthesnow.com/minnesota/afton-alps/ski-resort
+pinzolo,Dec,27.0,epic-pass,Pinzolo,https://www.onthesnow.co.uk/trentino/pinzolo/ski-resort
+folgaria,Mar,26.0,epic-pass,Alpe Cimbra - Folgaria - Lavarone,https://www.onthesnow.co.uk/trentino/folgaria/ski-resort
+folgaria,Nov,26.0,epic-pass,Alpe Cimbra - Folgaria - Lavarone,https://www.onthesnow.co.uk/trentino/folgaria/ski-resort
+panorama-mountain,Apr,25.4,ikon-pass,Panorama Mountain,https://www.onthesnow.com/british-columbia/panorama-mountain/ski-resort
+mt-bachelor,May,25.4,ikon-pass,Mt. Bachelor,https://www.onthesnow.com/oregon/mt-bachelor/ski-resort
+killington-resort,Apr,25.4,ikon-pass,Killington Resort,https://www.onthesnow.com/vermont/killington-resort/ski-resort
+ski-banff-norquay,Apr,25.4,ikon-pass,Mt. Norquay,https://www.onthesnow.com/alberta/ski-banff-norquay/ski-resort
+falls-creek-alpine-resort,Jun,25.4,epic-pass,Falls Creek Alpine Resort,https://www.onthesnow.com/australia/falls-creek-alpine-resort/ski-resort
+brides-les-bains,Feb,25.0,epic-pass,Brides les Bains,https://www.onthesnow.co.uk/northern-alps/brides-les-bains/ski-resort
+folgarida-marilleva,Dec,24.0,epic-pass,Folgàrida - Marilléva,https://www.onthesnow.co.uk/trentino/folgarida-marilleva/ski-resort
+brides-les-bains,Dec,24.0,epic-pass,Brides les Bains,https://www.onthesnow.co.uk/northern-alps/brides-les-bains/ski-resort
+pinzolo,Mar,24.0,epic-pass,Pinzolo,https://www.onthesnow.co.uk/trentino/pinzolo/ski-resort
+coronet-peak,Sep,22.86,mountain-collective,Coronet Peak,https://www.onthesnow.com/new-zealand/coronet-peak/ski-resort
+mt-buller,Jun,22.86,ikon-pass,Mt. Buller,https://www.onthesnow.com/australia/mt-buller/ski-resort
+loon-mountain,Apr,22.86,ikon-pass,Loon Mountain,https://www.onthesnow.com/new-hampshire/loon-mountain/ski-resort
+sunday-river,Nov,22.86,ikon-pass,Sunday River,https://www.onthesnow.com/maine/sunday-river/ski-resort
+coronet-peak,Jun,22.86,mountain-collective,Coronet Peak,https://www.onthesnow.com/new-zealand/coronet-peak/ski-resort
+wilmot-mountain,Feb,22.86,epic-pass,Wilmot Mountain,https://www.onthesnow.com/wisconsin/wilmot-mountain/ski-resort
+cypress-mountain,Nov,22.86,ikon-pass,Cypress Mountain,https://www.onthesnow.com/british-columbia/cypress-mountain/ski-resort
+the-remarkables,Jun,22.86,mountain-collective,The Remarkables,https://www.onthesnow.com/new-zealand/the-remarkables/ski-resort
+revelstoke-mountain,Nov,22.86,mountain-collective,Revelstoke,https://www.onthesnow.com/british-columbia/revelstoke-mountain/ski-resort
+revelstoke-mountain,Nov,22.86,ikon-pass,Revelstoke,https://www.onthesnow.com/british-columbia/revelstoke-mountain/ski-resort
+monte-bondone,Dec,21.0,epic-pass,Monte Bondone,https://www.onthesnow.co.uk/trentino/monte-bondone/ski-resort
+pejo,Dec,21.0,epic-pass,Pejo,https://www.onthesnow.co.uk/trentino/pejo/ski-resort
+boyne-mountain-resort,Apr,20.32,ikon-pass,Boyne Mountain Resort,https://www.onthesnow.com/michigan/boyne-mountain-resort/ski-resort
+mt-hotham,Sep,20.32,epic-pass,Mt. Hotham,https://www.onthesnow.com/australia/mt-hotham/ski-resort
+loon-mountain,Nov,20.32,ikon-pass,Loon Mountain,https://www.onthesnow.com/new-hampshire/loon-mountain/ski-resort
+mammoth-mountain-ski-area,May,20.32,mountain-collective,Mammoth Mountain,https://www.onthesnow.com/california/mammoth-mountain-ski-area/ski-resort
+mammoth-mountain-ski-area,May,20.32,ikon-pass,Mammoth Mountain,https://www.onthesnow.com/california/mammoth-mountain-ski-area/ski-resort
+okemo-mountain-resort,Nov,20.32,epic-pass,Okemo Mountain Resort,https://www.onthesnow.com/vermont/okemo-mountain-resort/ski-resort
+sun-valley,Apr,20.32,mountain-collective,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+sun-valley,Apr,20.32,epic-pass,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+sun-valley,Apr,20.32,ikon-pass,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+sunshine-village,May,20.32,mountain-collective,Sunshine Village,https://www.onthesnow.com/alberta/sunshine-village/ski-resort
+sunshine-village,May,20.32,ikon-pass,Sunshine Village,https://www.onthesnow.com/alberta/sunshine-village/ski-resort
+mt-buller,Sep,17.78,ikon-pass,Mt. Buller,https://www.onthesnow.com/australia/mt-buller/ski-resort
+winter-park-resort,May,17.78,ikon-pass,Winter Park,https://www.onthesnow.com/colorado/winter-park-resort/ski-resort
+mount-brighton,Dec,17.78,epic-pass,Mt. Brighton,https://www.onthesnow.com/michigan/mount-brighton/ski-resort
+taos-ski-valley,Apr,17.78,mountain-collective,Taos Ski Valley,https://www.onthesnow.com/new-mexico/taos-ski-valley/ski-resort
+taos-ski-valley,Apr,17.78,ikon-pass,Taos Ski Valley,https://www.onthesnow.com/new-mexico/taos-ski-valley/ski-resort
+tremblant,Apr,17.78,ikon-pass,Tremblant,https://www.onthesnow.com/quebec/tremblant/ski-resort
+andalo-fai-della-paganella,Nov,16.0,epic-pass,Andalo - Fai della Paganella,https://www.onthesnow.co.uk/trentino/andalo-fai-della-paganella/ski-resort
+breckenridge,May,15.24,epic-pass,Breckenridge,https://www.onthesnow.com/colorado/breckenridge/ski-resort
+whistler-blackcomb,May,15.24,epic-pass,Whistler Blackcomb,https://www.onthesnow.com/british-columbia/whistler-blackcomb/ski-resort
+sunday-river,Apr,15.24,ikon-pass,Sunday River,https://www.onthesnow.com/maine/sunday-river/ski-resort
+valle-nevado,Sep,15.24,mountain-collective,Valle Nevado,https://www.onthesnow.com/chile/valle-nevado/ski-resort
+falls-creek-alpine-resort,Sep,15.24,epic-pass,Falls Creek Alpine Resort,https://www.onthesnow.com/australia/falls-creek-alpine-resort/ski-resort
+sun-valley,Nov,15.24,mountain-collective,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+sun-valley,Nov,15.24,epic-pass,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+sun-valley,Nov,15.24,ikon-pass,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+afton-alps,Mar,15.24,epic-pass,Afton Alps,https://www.onthesnow.com/minnesota/afton-alps/ski-resort
+snow-summit,Nov,15.24,ikon-pass,Snow Summit,https://www.onthesnow.com/california/snow-summit/ski-resort
+coronet-peak,Aug,15.24,mountain-collective,Coronet Peak,https://www.onthesnow.com/new-zealand/coronet-peak/ski-resort
+monte-bondone,Mar,15.0,epic-pass,Monte Bondone,https://www.onthesnow.co.uk/trentino/monte-bondone/ski-resort
+la-tania,Nov,14.0,epic-pass,La Tania,https://www.onthesnow.co.uk/northern-alps/la-tania/ski-resort
+monte-bondone,Jan,14.0,epic-pass,Monte Bondone,https://www.onthesnow.co.uk/trentino/monte-bondone/ski-resort
+saint-martin-de-belleville,Nov,13.0,epic-pass,Saint Martin de Belleville,https://www.onthesnow.co.uk/northern-alps/saint-martin-de-belleville/ski-resort
+squaw-valley-usa,May,12.7,mountain-collective,Palisades Tahoe,https://www.onthesnow.com/california/squaw-valley-usa/ski-resort
+squaw-valley-usa,May,12.7,ikon-pass,Palisades Tahoe,https://www.onthesnow.com/california/squaw-valley-usa/ski-resort
+bear-mountain,Nov,12.7,ikon-pass,Bear Mountain,https://www.onthesnow.com/california/bear-mountain/ski-resort
+the-summit-at-snoqualmie,Nov,12.7,ikon-pass,The Summit at Snoqualmie,https://www.onthesnow.com/washington/the-summit-at-snoqualmie/ski-resort
+telluride,Apr,12.7,epic-pass,Telluride,https://www.onthesnow.com/colorado/telluride/ski-resort
+june-mountain,Apr,12.7,ikon-pass,June Mountain,https://www.onthesnow.com/california/june-mountain/ski-resort
+tremblant,Nov,12.7,ikon-pass,Tremblant,https://www.onthesnow.com/quebec/tremblant/ski-resort
+snowshoe-mountain-resort,Nov,12.7,ikon-pass,Snowshoe Mountain,https://www.onthesnow.com/west-virginia/snowshoe-mountain-resort/ski-resort
+crested-butte-mountain-resort,Apr,12.7,epic-pass,Crested Butte Mountain Resort,https://www.onthesnow.com/colorado/crested-butte-mountain-resort/ski-resort
+lake-louise,May,12.7,mountain-collective,Lake Louise,https://www.onthesnow.com/alberta/lake-louise/ski-resort
+lake-louise,May,12.7,ikon-pass,Lake Louise,https://www.onthesnow.com/alberta/lake-louise/ski-resort
+mount-brighton,Mar,12.7,epic-pass,Mt. Brighton,https://www.onthesnow.com/michigan/mount-brighton/ski-resort
+crystal-mountain-wa,May,12.7,ikon-pass,Crystal Mountain,https://www.onthesnow.com/washington/crystal-mountain-wa/ski-resort
+windham-mountain,Nov,10.16,ikon-pass,Windham Mountain,https://www.onthesnow.com/new-york/windham-mountain/ski-resort
+boyne-highlands,Nov,10.16,ikon-pass,The Highlands,https://www.onthesnow.com/michigan/boyne-highlands/ski-resort
+panorama-mountain,Nov,10.16,ikon-pass,Panorama Mountain,https://www.onthesnow.com/british-columbia/panorama-mountain/ski-resort
+blue-mountain,Apr,10.16,ikon-pass,Blue Mountain,https://www.onthesnow.com/ontario/blue-mountain/ski-resort
+wilmot-mountain,Mar,10.16,epic-pass,Wilmot Mountain,https://www.onthesnow.com/wisconsin/wilmot-mountain/ski-resort
+valle-nevado,Jun,10.16,mountain-collective,Valle Nevado,https://www.onthesnow.com/chile/valle-nevado/ski-resort
+kimberley,Nov,10.16,epic-pass,Kimberley,https://www.onthesnow.com/british-columbia/kimberley/ski-resort
+wilmot-mountain,Dec,10.16,epic-pass,Wilmot Mountain,https://www.onthesnow.com/wisconsin/wilmot-mountain/ski-resort
+fernie-alpine,Nov,10.16,epic-pass,Fernie Alpine,https://www.onthesnow.com/british-columbia/fernie-alpine/ski-resort
+stratton-mountain,Nov,10.16,ikon-pass,Stratton Mountain,https://www.onthesnow.com/vermont/stratton-mountain/ski-resort
+the-remarkables,Oct,10.16,mountain-collective,The Remarkables,https://www.onthesnow.com/new-zealand/the-remarkables/ski-resort
+okemo-mountain-resort,Apr,10.16,epic-pass,Okemo Mountain Resort,https://www.onthesnow.com/vermont/okemo-mountain-resort/ski-resort
+deer-valley-resort,Nov,10.16,ikon-pass,Deer Valley Resort,https://www.onthesnow.com/utah/deer-valley-resort/ski-resort
+boyne-mountain-resort,Nov,10.16,ikon-pass,Boyne Mountain Resort,https://www.onthesnow.com/michigan/boyne-mountain-resort/ski-resort
+kimberley,Apr,10.16,epic-pass,Kimberley,https://www.onthesnow.com/british-columbia/kimberley/ski-resort
+veysonnaz,Nov,9.0,epic-pass,Veysonnaz,https://www.onthesnow.co.uk/valais/veysonnaz/ski-resort
+mount-sunapee,Apr,7.62,epic-pass,Mount Sunapee,https://www.onthesnow.com/new-hampshire/mount-sunapee/ski-resort
+stoneham,Apr,7.62,epic-pass,Stoneham,https://www.onthesnow.com/quebec/stoneham/ski-resort
+pinzolo,Nov,7.0,epic-pass,Pinzolo,https://www.onthesnow.co.uk/trentino/pinzolo/ski-resort
+nendaz,Nov,7.0,epic-pass,Nendaz,https://www.onthesnow.co.uk/valais/nendaz/ski-resort
+folgarida-marilleva,Nov,7.0,epic-pass,Folgàrida - Marilléva,https://www.onthesnow.co.uk/trentino/folgarida-marilleva/ski-resort
+orelle,Nov,7.0,epic-pass,Orelle,https://www.onthesnow.co.uk/northern-alps/orelle/ski-resort
+pejo,Nov,6.0,epic-pass,Pejo,https://www.onthesnow.co.uk/trentino/pejo/ski-resort
+heavenly-mountain-resort,May,5.08,epic-pass,Heavenly,https://www.onthesnow.com/california/heavenly-mountain-resort/ski-resort
+mont-sainte-anne,Nov,5.08,epic-pass,Mont Sainte Anne,https://www.onthesnow.com/quebec/mont-sainte-anne/ski-resort
+stratton-mountain,Apr,5.08,ikon-pass,Stratton Mountain,https://www.onthesnow.com/vermont/stratton-mountain/ski-resort
+afton-alps,Nov,5.08,epic-pass,Afton Alps,https://www.onthesnow.com/minnesota/afton-alps/ski-resort
+mount-sunapee,Nov,5.08,epic-pass,Mount Sunapee,https://www.onthesnow.com/new-hampshire/mount-sunapee/ski-resort
+thyon-2000,Nov,5.0,epic-pass,Thyon 2000,https://www.onthesnow.co.uk/valais/thyon-2000/ski-resort
+brides-les-bains,Nov,5.0,epic-pass,Brides les Bains,https://www.onthesnow.co.uk/northern-alps/brides-les-bains/ski-resort
+arapahoe-basin-ski-area,Jun,2.54,ikon-pass,Arapahoe Basin Ski Area,https://www.onthesnow.com/colorado/arapahoe-basin-ski-area/ski-resort
+mount-brighton,Nov,1.7779999999999998,epic-pass,Mt. Brighton,https://www.onthesnow.com/michigan/mount-brighton/ski-resort
+stoneham,Nov,1.7779999999999998,epic-pass,Stoneham,https://www.onthesnow.com/quebec/stoneham/ski-resort
+valle-nevado,Oct,1.7779999999999998,mountain-collective,Valle Nevado,https://www.onthesnow.com/chile/valle-nevado/ski-resort
+monte-bondone,Nov,1.7,epic-pass,Monte Bondone,https://www.onthesnow.co.uk/trentino/monte-bondone/ski-resort
+falls-creek-alpine-resort,Oct,1.27,epic-pass,Falls Creek Alpine Resort,https://www.onthesnow.com/australia/falls-creek-alpine-resort/ski-resort
+boyne-highlands,Apr,1.27,ikon-pass,The Highlands,https://www.onthesnow.com/michigan/boyne-highlands/ski-resort
+mt-buller,Oct,1.27,ikon-pass,Mt. Buller,https://www.onthesnow.com/australia/mt-buller/ski-resort
+afton-alps,Apr,1.27,epic-pass,Afton Alps,https://www.onthesnow.com/minnesota/afton-alps/ski-resort
+mt-hotham,Oct,1.016,epic-pass,Mt. Hotham,https://www.onthesnow.com/australia/mt-hotham/ski-resort
+squaw-valley-usa,Jun,1.016,mountain-collective,Palisades Tahoe,https://www.onthesnow.com/california/squaw-valley-usa/ski-resort
+squaw-valley-usa,Jun,1.016,ikon-pass,Palisades Tahoe,https://www.onthesnow.com/california/squaw-valley-usa/ski-resort
+perisher,Oct,1.016,epic-pass,Perisher,https://www.onthesnow.com/australia/perisher/ski-resort
+vail,May,0.762,epic-pass,Vail,https://www.onthesnow.com/colorado/vail/ski-resort
+aspen-snowmass,May,0.762,mountain-collective,Aspen Snowmass,https://www.onthesnow.com/colorado/aspen-snowmass/ski-resort
+aspen-snowmass,May,0.762,ikon-pass,Aspen Snowmass,https://www.onthesnow.com/colorado/aspen-snowmass/ski-resort
+coronet-peak,Oct,0.762,mountain-collective,Coronet Peak,https://www.onthesnow.com/new-zealand/coronet-peak/ski-resort
+windham-mountain,Apr,0.762,ikon-pass,Windham Mountain,https://www.onthesnow.com/new-york/windham-mountain/ski-resort
+blue-mountain,Nov,0.508,ikon-pass,Blue Mountain,https://www.onthesnow.com/ontario/blue-mountain/ski-resort
+snowshoe-mountain-resort,Apr,0.508,ikon-pass,Snowshoe Mountain,https://www.onthesnow.com/west-virginia/snowshoe-mountain-resort/ski-resort
+killington-resort,May,0.508,ikon-pass,Killington Resort,https://www.onthesnow.com/vermont/killington-resort/ski-resort
+mammoth-mountain-ski-area,Jun,0.508,mountain-collective,Mammoth Mountain,https://www.onthesnow.com/california/mammoth-mountain-ski-area/ski-resort
+mammoth-mountain-ski-area,Jun,0.508,ikon-pass,Mammoth Mountain,https://www.onthesnow.com/california/mammoth-mountain-ski-area/ski-resort
+ski-banff-norquay,May,0.508,ikon-pass,Mt. Norquay,https://www.onthesnow.com/alberta/ski-banff-norquay/ski-resort
+wilmot-mountain,Nov,0.254,epic-pass,Wilmot Mountain,https://www.onthesnow.com/wisconsin/wilmot-mountain/ski-resort
+windham-mountain,Aug,0.0,ikon-pass,Windham Mountain,https://www.onthesnow.com/new-york/windham-mountain/ski-resort
+winter-park-resort,Aug,0.0,ikon-pass,Winter Park,https://www.onthesnow.com/colorado/winter-park-resort/ski-resort
+mt-buller,Dec,0.0,ikon-pass,Mt. Buller,https://www.onthesnow.com/australia/mt-buller/ski-resort
+perisher,Dec,0.0,epic-pass,Perisher,https://www.onthesnow.com/australia/perisher/ski-resort
+valle-nevado,Dec,0.0,mountain-collective,Valle Nevado,https://www.onthesnow.com/chile/valle-nevado/ski-resort
+mt-hotham,Dec,0.0,epic-pass,Mt. Hotham,https://www.onthesnow.com/australia/mt-hotham/ski-resort
+falls-creek-alpine-resort,Dec,0.0,epic-pass,Falls Creek Alpine Resort,https://www.onthesnow.com/australia/falls-creek-alpine-resort/ski-resort
+the-summit-at-snoqualmie,Aug,0.0,ikon-pass,The Summit at Snoqualmie,https://www.onthesnow.com/washington/the-summit-at-snoqualmie/ski-resort
+thredbo-alpine-resort,Dec,0.0,mountain-collective,Thredbo Alpine Resort,https://www.onthesnow.com/australia/thredbo-alpine-resort/ski-resort
+thredbo-alpine-resort,Dec,0.0,ikon-pass,Thredbo Alpine Resort,https://www.onthesnow.com/australia/thredbo-alpine-resort/ski-resort
+the-remarkables,Dec,0.0,mountain-collective,The Remarkables,https://www.onthesnow.com/new-zealand/the-remarkables/ski-resort
+coronet-peak,Dec,0.0,mountain-collective,Coronet Peak,https://www.onthesnow.com/new-zealand/coronet-peak/ski-resort
+alta-ski-area,Sep,0.0,mountain-collective,Alta Ski Area,https://www.onthesnow.com/utah/alta-ski-area/ski-resort
+alta-ski-area,Sep,0.0,ikon-pass,Alta Ski Area,https://www.onthesnow.com/utah/alta-ski-area/ski-resort
+aspen-snowmass,Sep,0.0,mountain-collective,Aspen Snowmass,https://www.onthesnow.com/colorado/aspen-snowmass/ski-resort
+aspen-snowmass,Sep,0.0,ikon-pass,Aspen Snowmass,https://www.onthesnow.com/colorado/aspen-snowmass/ski-resort
+tremblant,Aug,0.0,ikon-pass,Tremblant,https://www.onthesnow.com/quebec/tremblant/ski-resort
+stratton-mountain,Aug,0.0,ikon-pass,Stratton Mountain,https://www.onthesnow.com/vermont/stratton-mountain/ski-resort
+boyne-highlands,Aug,0.0,ikon-pass,The Highlands,https://www.onthesnow.com/michigan/boyne-highlands/ski-resort
+ski-banff-norquay,Aug,0.0,ikon-pass,Mt. Norquay,https://www.onthesnow.com/alberta/ski-banff-norquay/ski-resort
+deer-valley-resort,Aug,0.0,ikon-pass,Deer Valley Resort,https://www.onthesnow.com/utah/deer-valley-resort/ski-resort
+eldora-mountain-resort,Aug,0.0,ikon-pass,Eldora Mountain Resort,https://www.onthesnow.com/colorado/eldora-mountain-resort/ski-resort
+june-mountain,Aug,0.0,ikon-pass,June Mountain,https://www.onthesnow.com/california/june-mountain/ski-resort
+killington-resort,Aug,0.0,ikon-pass,Killington Resort,https://www.onthesnow.com/vermont/killington-resort/ski-resort
+loon-mountain,Aug,0.0,ikon-pass,Loon Mountain,https://www.onthesnow.com/new-hampshire/loon-mountain/ski-resort
+mt-bachelor,Aug,0.0,ikon-pass,Mt. Bachelor,https://www.onthesnow.com/oregon/mt-bachelor/ski-resort
+panorama-mountain,Aug,0.0,ikon-pass,Panorama Mountain,https://www.onthesnow.com/british-columbia/panorama-mountain/ski-resort
+sunday-river,Aug,0.0,ikon-pass,Sunday River,https://www.onthesnow.com/maine/sunday-river/ski-resort
+snow-summit,Aug,0.0,ikon-pass,Snow Summit,https://www.onthesnow.com/california/snow-summit/ski-resort
+snowshoe-mountain-resort,Aug,0.0,ikon-pass,Snowshoe Mountain,https://www.onthesnow.com/west-virginia/snowshoe-mountain-resort/ski-resort
+solitude-mountain-resort,Aug,0.0,ikon-pass,Solitude Mountain Resort,https://www.onthesnow.com/utah/solitude-mountain-resort/ski-resort
+steamboat,Aug,0.0,ikon-pass,Steamboat,https://www.onthesnow.com/colorado/steamboat/ski-resort
+jackson-hole,Sep,0.0,mountain-collective,Jackson Hole,https://www.onthesnow.com/wyoming/jackson-hole/ski-resort
+jackson-hole,Sep,0.0,ikon-pass,Jackson Hole,https://www.onthesnow.com/wyoming/jackson-hole/ski-resort
+sugarloaf,Aug,0.0,ikon-pass,Sugarloaf,https://www.onthesnow.com/maine/sugarloaf/ski-resort
+big-sky-resort,Sep,0.0,mountain-collective,Big Sky,https://www.onthesnow.com/montana/big-sky-resort/ski-resort
+big-sky-resort,Sep,0.0,ikon-pass,Big Sky,https://www.onthesnow.com/montana/big-sky-resort/ski-resort
+bear-mountain,Apr,0.0,ikon-pass,Bear Mountain,https://www.onthesnow.com/california/bear-mountain/ski-resort
+lake-louise,Sep,0.0,mountain-collective,Lake Louise,https://www.onthesnow.com/alberta/lake-louise/ski-resort
+lake-louise,Sep,0.0,ikon-pass,Lake Louise,https://www.onthesnow.com/alberta/lake-louise/ski-resort
+mammoth-mountain-ski-area,Sep,0.0,mountain-collective,Mammoth Mountain,https://www.onthesnow.com/california/mammoth-mountain-ski-area/ski-resort
+mammoth-mountain-ski-area,Sep,0.0,ikon-pass,Mammoth Mountain,https://www.onthesnow.com/california/mammoth-mountain-ski-area/ski-resort
+folgarida-marilleva,Sep,0.0,epic-pass,Folgàrida - Marilléva,https://www.onthesnow.co.uk/trentino/folgarida-marilleva/ski-resort
+heavenly-mountain-resort,Sep,0.0,epic-pass,Heavenly,https://www.onthesnow.com/california/heavenly-mountain-resort/ski-resort
+keystone,Sep,0.0,epic-pass,Keystone,https://www.onthesnow.com/colorado/keystone/ski-resort
+kicking-horse,Sep,0.0,epic-pass,Kicking Horse,https://www.onthesnow.com/british-columbia/kicking-horse/ski-resort
+kimberley,Sep,0.0,epic-pass,Kimberley,https://www.onthesnow.com/british-columbia/kimberley/ski-resort
+kirkwood,Sep,0.0,epic-pass,Kirkwood,https://www.onthesnow.com/california/kirkwood/ski-resort
+la-tania,Sep,0.0,epic-pass,La Tania,https://www.onthesnow.co.uk/northern-alps/la-tania/ski-resort
+les-menuires,Sep,0.0,epic-pass,Les Menuires,https://www.onthesnow.co.uk/northern-alps/les-menuires/ski-resort
+madonna-di-campiglio,Sep,0.0,epic-pass,Madonna di Campiglio,https://www.onthesnow.co.uk/trentino/madonna-di-campiglio/ski-resort
+meribel,Sep,0.0,epic-pass,Meribel,https://www.onthesnow.co.uk/northern-alps/meribel/ski-resort
+mont-sainte-anne,Sep,0.0,epic-pass,Mont Sainte Anne,https://www.onthesnow.com/quebec/mont-sainte-anne/ski-resort
+monte-bondone,Sep,0.0,epic-pass,Monte Bondone,https://www.onthesnow.co.uk/trentino/monte-bondone/ski-resort
+mount-sunapee,Sep,0.0,epic-pass,Mount Sunapee,https://www.onthesnow.com/new-hampshire/mount-sunapee/ski-resort
+mount-brighton,Sep,0.0,epic-pass,Mt. Brighton,https://www.onthesnow.com/michigan/mount-brighton/ski-resort
+nakiska-ski-area,Sep,0.0,epic-pass,Nakiska Ski Area,https://www.onthesnow.com/alberta/nakiska-ski-area/ski-resort
+fernie-alpine,Sep,0.0,epic-pass,Fernie Alpine,https://www.onthesnow.com/british-columbia/fernie-alpine/ski-resort
+crested-butte-mountain-resort,Sep,0.0,epic-pass,Crested Butte Mountain Resort,https://www.onthesnow.com/colorado/crested-butte-mountain-resort/ski-resort
+courchevel,Sep,0.0,epic-pass,Courchevel,https://www.onthesnow.co.uk/northern-alps/courchevel/ski-resort
+sun-valley,Sep,0.0,mountain-collective,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+sun-valley,Sep,0.0,epic-pass,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+sun-valley,Sep,0.0,ikon-pass,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+squaw-valley-usa,Sep,0.0,mountain-collective,Palisades Tahoe,https://www.onthesnow.com/california/squaw-valley-usa/ski-resort
+squaw-valley-usa,Sep,0.0,ikon-pass,Palisades Tahoe,https://www.onthesnow.com/california/squaw-valley-usa/ski-resort
+revelstoke-mountain,Sep,0.0,mountain-collective,Revelstoke,https://www.onthesnow.com/british-columbia/revelstoke-mountain/ski-resort
+revelstoke-mountain,Sep,0.0,ikon-pass,Revelstoke,https://www.onthesnow.com/british-columbia/revelstoke-mountain/ski-resort
+snowbasin,Sep,0.0,mountain-collective,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+snowbasin,Sep,0.0,epic-pass,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+snowbasin,Sep,0.0,ikon-pass,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+crystal-mountain-wa,Aug,0.0,ikon-pass,Crystal Mountain,https://www.onthesnow.com/washington/crystal-mountain-wa/ski-resort
+snowbird,Sep,0.0,mountain-collective,Snowbird,https://www.onthesnow.com/utah/snowbird/ski-resort
+snowbird,Sep,0.0,ikon-pass,Snowbird,https://www.onthesnow.com/utah/snowbird/ski-resort
+sugarbush,Sep,0.0,mountain-collective,Sugarbush,https://www.onthesnow.com/vermont/sugarbush/ski-resort
+sugarbush,Sep,0.0,ikon-pass,Sugarbush,https://www.onthesnow.com/vermont/sugarbush/ski-resort
+sunshine-village,Sep,0.0,mountain-collective,Sunshine Village,https://www.onthesnow.com/alberta/sunshine-village/ski-resort
+sunshine-village,Sep,0.0,ikon-pass,Sunshine Village,https://www.onthesnow.com/alberta/sunshine-village/ski-resort
+brides-les-bains,Sep,0.0,epic-pass,Brides les Bains,https://www.onthesnow.co.uk/northern-alps/brides-les-bains/ski-resort
+taos-ski-valley,Sep,0.0,mountain-collective,Taos Ski Valley,https://www.onthesnow.com/new-mexico/taos-ski-valley/ski-resort
+taos-ski-valley,Sep,0.0,ikon-pass,Taos Ski Valley,https://www.onthesnow.com/new-mexico/taos-ski-valley/ski-resort
+afton-alps,Sep,0.0,epic-pass,Afton Alps,https://www.onthesnow.com/minnesota/afton-alps/ski-resort
+folgaria,Sep,0.0,epic-pass,Alpe Cimbra - Folgaria - Lavarone,https://www.onthesnow.co.uk/trentino/folgaria/ski-resort
+andalo-fai-della-paganella,Sep,0.0,epic-pass,Andalo - Fai della Paganella,https://www.onthesnow.co.uk/trentino/andalo-fai-della-paganella/ski-resort
+beaver-creek,Sep,0.0,epic-pass,Beaver Creek,https://www.onthesnow.com/colorado/beaver-creek/ski-resort
+breckenridge,Sep,0.0,epic-pass,Breckenridge,https://www.onthesnow.com/colorado/breckenridge/ski-resort
+cypress-mountain,Aug,0.0,ikon-pass,Cypress Mountain,https://www.onthesnow.com/british-columbia/cypress-mountain/ski-resort
+bear-mountain,Aug,0.0,ikon-pass,Bear Mountain,https://www.onthesnow.com/california/bear-mountain/ski-resort
+copper-mountain-resort,Aug,0.0,ikon-pass,Copper Mountain,https://www.onthesnow.com/colorado/copper-mountain-resort/ski-resort
+kicking-horse,Aug,0.0,epic-pass,Kicking Horse,https://www.onthesnow.com/british-columbia/kicking-horse/ski-resort
+sugarbush,Aug,0.0,mountain-collective,Sugarbush,https://www.onthesnow.com/vermont/sugarbush/ski-resort
+sugarbush,Aug,0.0,ikon-pass,Sugarbush,https://www.onthesnow.com/vermont/sugarbush/ski-resort
+sun-valley,Aug,0.0,mountain-collective,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+sun-valley,Aug,0.0,epic-pass,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+sun-valley,Aug,0.0,ikon-pass,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+sunshine-village,Aug,0.0,mountain-collective,Sunshine Village,https://www.onthesnow.com/alberta/sunshine-village/ski-resort
+sunshine-village,Aug,0.0,ikon-pass,Sunshine Village,https://www.onthesnow.com/alberta/sunshine-village/ski-resort
+taos-ski-valley,Aug,0.0,mountain-collective,Taos Ski Valley,https://www.onthesnow.com/new-mexico/taos-ski-valley/ski-resort
+taos-ski-valley,Aug,0.0,ikon-pass,Taos Ski Valley,https://www.onthesnow.com/new-mexico/taos-ski-valley/ski-resort
+afton-alps,Aug,0.0,epic-pass,Afton Alps,https://www.onthesnow.com/minnesota/afton-alps/ski-resort
+folgaria,Aug,0.0,epic-pass,Alpe Cimbra - Folgaria - Lavarone,https://www.onthesnow.co.uk/trentino/folgaria/ski-resort
+andalo-fai-della-paganella,Aug,0.0,epic-pass,Andalo - Fai della Paganella,https://www.onthesnow.co.uk/trentino/andalo-fai-della-paganella/ski-resort
+beaver-creek,Aug,0.0,epic-pass,Beaver Creek,https://www.onthesnow.com/colorado/beaver-creek/ski-resort
+breckenridge,Aug,0.0,epic-pass,Breckenridge,https://www.onthesnow.com/colorado/breckenridge/ski-resort
+brides-les-bains,Aug,0.0,epic-pass,Brides les Bains,https://www.onthesnow.co.uk/northern-alps/brides-les-bains/ski-resort
+courchevel,Aug,0.0,epic-pass,Courchevel,https://www.onthesnow.co.uk/northern-alps/courchevel/ski-resort
+crested-butte-mountain-resort,Aug,0.0,epic-pass,Crested Butte Mountain Resort,https://www.onthesnow.com/colorado/crested-butte-mountain-resort/ski-resort
+fernie-alpine,Aug,0.0,epic-pass,Fernie Alpine,https://www.onthesnow.com/british-columbia/fernie-alpine/ski-resort
+folgarida-marilleva,Aug,0.0,epic-pass,Folgàrida - Marilléva,https://www.onthesnow.co.uk/trentino/folgarida-marilleva/ski-resort
+heavenly-mountain-resort,Aug,0.0,epic-pass,Heavenly,https://www.onthesnow.com/california/heavenly-mountain-resort/ski-resort
+snowbird,Aug,0.0,mountain-collective,Snowbird,https://www.onthesnow.com/utah/snowbird/ski-resort
+snowbird,Aug,0.0,ikon-pass,Snowbird,https://www.onthesnow.com/utah/snowbird/ski-resort
+snowbasin,Aug,0.0,mountain-collective,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+snowbasin,Aug,0.0,epic-pass,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+snowbasin,Aug,0.0,ikon-pass,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+revelstoke-mountain,Aug,0.0,mountain-collective,Revelstoke,https://www.onthesnow.com/british-columbia/revelstoke-mountain/ski-resort
+revelstoke-mountain,Aug,0.0,ikon-pass,Revelstoke,https://www.onthesnow.com/british-columbia/revelstoke-mountain/ski-resort
+the-remarkables,Jan,0.0,mountain-collective,The Remarkables,https://www.onthesnow.com/new-zealand/the-remarkables/ski-resort
+mt-buller,Jan,0.0,ikon-pass,Mt. Buller,https://www.onthesnow.com/australia/mt-buller/ski-resort
+perisher,Jan,0.0,epic-pass,Perisher,https://www.onthesnow.com/australia/perisher/ski-resort
+mt-hotham,Jan,0.0,epic-pass,Mt. Hotham,https://www.onthesnow.com/australia/mt-hotham/ski-resort
+falls-creek-alpine-resort,Jan,0.0,epic-pass,Falls Creek Alpine Resort,https://www.onthesnow.com/australia/falls-creek-alpine-resort/ski-resort
+valle-nevado,Jan,0.0,mountain-collective,Valle Nevado,https://www.onthesnow.com/chile/valle-nevado/ski-resort
+thredbo-alpine-resort,Jan,0.0,mountain-collective,Thredbo Alpine Resort,https://www.onthesnow.com/australia/thredbo-alpine-resort/ski-resort
+thredbo-alpine-resort,Jan,0.0,ikon-pass,Thredbo Alpine Resort,https://www.onthesnow.com/australia/thredbo-alpine-resort/ski-resort
+coronet-peak,Jan,0.0,mountain-collective,Coronet Peak,https://www.onthesnow.com/new-zealand/coronet-peak/ski-resort
+squaw-valley-usa,Aug,0.0,mountain-collective,Palisades Tahoe,https://www.onthesnow.com/california/squaw-valley-usa/ski-resort
+squaw-valley-usa,Aug,0.0,ikon-pass,Palisades Tahoe,https://www.onthesnow.com/california/squaw-valley-usa/ski-resort
+alta-ski-area,Aug,0.0,mountain-collective,Alta Ski Area,https://www.onthesnow.com/utah/alta-ski-area/ski-resort
+alta-ski-area,Aug,0.0,ikon-pass,Alta Ski Area,https://www.onthesnow.com/utah/alta-ski-area/ski-resort
+aspen-snowmass,Aug,0.0,mountain-collective,Aspen Snowmass,https://www.onthesnow.com/colorado/aspen-snowmass/ski-resort
+aspen-snowmass,Aug,0.0,ikon-pass,Aspen Snowmass,https://www.onthesnow.com/colorado/aspen-snowmass/ski-resort
+big-sky-resort,Aug,0.0,mountain-collective,Big Sky,https://www.onthesnow.com/montana/big-sky-resort/ski-resort
+big-sky-resort,Aug,0.0,ikon-pass,Big Sky,https://www.onthesnow.com/montana/big-sky-resort/ski-resort
+jackson-hole,Aug,0.0,mountain-collective,Jackson Hole,https://www.onthesnow.com/wyoming/jackson-hole/ski-resort
+jackson-hole,Aug,0.0,ikon-pass,Jackson Hole,https://www.onthesnow.com/wyoming/jackson-hole/ski-resort
+lake-louise,Aug,0.0,mountain-collective,Lake Louise,https://www.onthesnow.com/alberta/lake-louise/ski-resort
+lake-louise,Aug,0.0,ikon-pass,Lake Louise,https://www.onthesnow.com/alberta/lake-louise/ski-resort
+mammoth-mountain-ski-area,Aug,0.0,mountain-collective,Mammoth Mountain,https://www.onthesnow.com/california/mammoth-mountain-ski-area/ski-resort
+mammoth-mountain-ski-area,Aug,0.0,ikon-pass,Mammoth Mountain,https://www.onthesnow.com/california/mammoth-mountain-ski-area/ski-resort
+keystone,Aug,0.0,epic-pass,Keystone,https://www.onthesnow.com/colorado/keystone/ski-resort
+kimberley,Aug,0.0,epic-pass,Kimberley,https://www.onthesnow.com/british-columbia/kimberley/ski-resort
+brighton-resort,Aug,0.0,ikon-pass,Brighton Resort,https://www.onthesnow.com/utah/brighton-resort/ski-resort
+kirkwood,Aug,0.0,epic-pass,Kirkwood,https://www.onthesnow.com/california/kirkwood/ski-resort
+stevens-pass-resort,Aug,0.0,epic-pass,Stevens Pass Resort,https://www.onthesnow.com/washington/stevens-pass-resort/ski-resort
+stoneham,Aug,0.0,epic-pass,Stoneham,https://www.onthesnow.com/quebec/stoneham/ski-resort
+stowe-mountain-resort,Aug,0.0,epic-pass,Stowe Mountain,https://www.onthesnow.com/vermont/stowe-mountain-resort/ski-resort
+telluride,Aug,0.0,epic-pass,Telluride,https://www.onthesnow.com/colorado/telluride/ski-resort
+thyon-2000,Aug,0.0,epic-pass,Thyon 2000,https://www.onthesnow.co.uk/valais/thyon-2000/ski-resort
+vail,Aug,0.0,epic-pass,Vail,https://www.onthesnow.com/colorado/vail/ski-resort
+val-thorens,Aug,0.0,epic-pass,Val Thorens,https://www.onthesnow.co.uk/northern-alps/val-thorens/ski-resort
+verbier,Aug,0.0,epic-pass,Verbier,https://www.onthesnow.co.uk/valais/verbier/ski-resort
+veysonnaz,Aug,0.0,epic-pass,Veysonnaz,https://www.onthesnow.co.uk/valais/veysonnaz/ski-resort
+whistler-blackcomb,Aug,0.0,epic-pass,Whistler Blackcomb,https://www.onthesnow.com/british-columbia/whistler-blackcomb/ski-resort
+wilmot-mountain,Aug,0.0,epic-pass,Wilmot Mountain,https://www.onthesnow.com/wisconsin/wilmot-mountain/ski-resort
+arapahoe-basin-ski-area,Aug,0.0,ikon-pass,Arapahoe Basin Ski Area,https://www.onthesnow.com/colorado/arapahoe-basin-ski-area/ski-resort
+northstar-california,Sep,0.0,epic-pass,Northstar California,https://www.onthesnow.com/california/northstar-california/ski-resort
+blue-mountain,Aug,0.0,ikon-pass,Blue Mountain,https://www.onthesnow.com/ontario/blue-mountain/ski-resort
+boyne-mountain-resort,Aug,0.0,ikon-pass,Boyne Mountain Resort,https://www.onthesnow.com/michigan/boyne-mountain-resort/ski-resort
+saint-martin-de-belleville,Aug,0.0,epic-pass,Saint Martin de Belleville,https://www.onthesnow.co.uk/northern-alps/saint-martin-de-belleville/ski-resort
+pontedilegno-tonale-adamello-ski,Aug,0.0,epic-pass,Pontedilegno - Tonale,https://www.onthesnow.co.uk/trentino/pontedilegno-tonale-adamello-ski/ski-resort
+pinzolo,Aug,0.0,epic-pass,Pinzolo,https://www.onthesnow.co.uk/trentino/pinzolo/ski-resort
+mount-sunapee,Aug,0.0,epic-pass,Mount Sunapee,https://www.onthesnow.com/new-hampshire/mount-sunapee/ski-resort
+la-tania,Aug,0.0,epic-pass,La Tania,https://www.onthesnow.co.uk/northern-alps/la-tania/ski-resort
+les-menuires,Aug,0.0,epic-pass,Les Menuires,https://www.onthesnow.co.uk/northern-alps/les-menuires/ski-resort
+madonna-di-campiglio,Aug,0.0,epic-pass,Madonna di Campiglio,https://www.onthesnow.co.uk/trentino/madonna-di-campiglio/ski-resort
+meribel,Aug,0.0,epic-pass,Meribel,https://www.onthesnow.co.uk/northern-alps/meribel/ski-resort
+mont-sainte-anne,Aug,0.0,epic-pass,Mont Sainte Anne,https://www.onthesnow.com/quebec/mont-sainte-anne/ski-resort
+monte-bondone,Aug,0.0,epic-pass,Monte Bondone,https://www.onthesnow.co.uk/trentino/monte-bondone/ski-resort
+mount-brighton,Aug,0.0,epic-pass,Mt. Brighton,https://www.onthesnow.com/michigan/mount-brighton/ski-resort
+pejo,Aug,0.0,epic-pass,Pejo,https://www.onthesnow.co.uk/trentino/pejo/ski-resort
+nakiska-ski-area,Aug,0.0,epic-pass,Nakiska Ski Area,https://www.onthesnow.com/alberta/nakiska-ski-area/ski-resort
+nendaz,Aug,0.0,epic-pass,Nendaz,https://www.onthesnow.co.uk/valais/nendaz/ski-resort
+northstar-california,Aug,0.0,epic-pass,Northstar California,https://www.onthesnow.com/california/northstar-california/ski-resort
+okemo-mountain-resort,Aug,0.0,epic-pass,Okemo Mountain Resort,https://www.onthesnow.com/vermont/okemo-mountain-resort/ski-resort
+orelle,Aug,0.0,epic-pass,Orelle,https://www.onthesnow.co.uk/northern-alps/orelle/ski-resort
+park-city-mountain-resort,Aug,0.0,epic-pass,Park City,https://www.onthesnow.com/utah/park-city-mountain-resort/ski-resort
+nendaz,Sep,0.0,epic-pass,Nendaz,https://www.onthesnow.co.uk/valais/nendaz/ski-resort
+stevens-pass-resort,Sep,0.0,epic-pass,Stevens Pass Resort,https://www.onthesnow.com/washington/stevens-pass-resort/ski-resort
+okemo-mountain-resort,Sep,0.0,epic-pass,Okemo Mountain Resort,https://www.onthesnow.com/vermont/okemo-mountain-resort/ski-resort
+pinzolo,Oct,0.0,epic-pass,Pinzolo,https://www.onthesnow.co.uk/trentino/pinzolo/ski-resort
+nendaz,Oct,0.0,epic-pass,Nendaz,https://www.onthesnow.co.uk/valais/nendaz/ski-resort
+northstar-california,Oct,0.0,epic-pass,Northstar California,https://www.onthesnow.com/california/northstar-california/ski-resort
+okemo-mountain-resort,Oct,0.0,epic-pass,Okemo Mountain Resort,https://www.onthesnow.com/vermont/okemo-mountain-resort/ski-resort
+orelle,Oct,0.0,epic-pass,Orelle,https://www.onthesnow.co.uk/northern-alps/orelle/ski-resort
+park-city-mountain-resort,Oct,0.0,epic-pass,Park City,https://www.onthesnow.com/utah/park-city-mountain-resort/ski-resort
+pejo,Oct,0.0,epic-pass,Pejo,https://www.onthesnow.co.uk/trentino/pejo/ski-resort
+pontedilegno-tonale-adamello-ski,Oct,0.0,epic-pass,Pontedilegno - Tonale,https://www.onthesnow.co.uk/trentino/pontedilegno-tonale-adamello-ski/ski-resort
+mount-brighton,Oct,0.0,epic-pass,Mt. Brighton,https://www.onthesnow.com/michigan/mount-brighton/ski-resort
+saint-martin-de-belleville,Oct,0.0,epic-pass,Saint Martin de Belleville,https://www.onthesnow.co.uk/northern-alps/saint-martin-de-belleville/ski-resort
+stevens-pass-resort,Oct,0.0,epic-pass,Stevens Pass Resort,https://www.onthesnow.com/washington/stevens-pass-resort/ski-resort
+stoneham,Oct,0.0,epic-pass,Stoneham,https://www.onthesnow.com/quebec/stoneham/ski-resort
+stowe-mountain-resort,Oct,0.0,epic-pass,Stowe Mountain,https://www.onthesnow.com/vermont/stowe-mountain-resort/ski-resort
+telluride,Oct,0.0,epic-pass,Telluride,https://www.onthesnow.com/colorado/telluride/ski-resort
+thyon-2000,Oct,0.0,epic-pass,Thyon 2000,https://www.onthesnow.co.uk/valais/thyon-2000/ski-resort
+nakiska-ski-area,Oct,0.0,epic-pass,Nakiska Ski Area,https://www.onthesnow.com/alberta/nakiska-ski-area/ski-resort
+mount-sunapee,Oct,0.0,epic-pass,Mount Sunapee,https://www.onthesnow.com/new-hampshire/mount-sunapee/ski-resort
+val-thorens,Oct,0.0,epic-pass,Val Thorens,https://www.onthesnow.co.uk/northern-alps/val-thorens/ski-resort
+kicking-horse,Oct,0.0,epic-pass,Kicking Horse,https://www.onthesnow.com/british-columbia/kicking-horse/ski-resort
+courchevel,Oct,0.0,epic-pass,Courchevel,https://www.onthesnow.co.uk/northern-alps/courchevel/ski-resort
+crested-butte-mountain-resort,Oct,0.0,epic-pass,Crested Butte Mountain Resort,https://www.onthesnow.com/colorado/crested-butte-mountain-resort/ski-resort
+fernie-alpine,Oct,0.0,epic-pass,Fernie Alpine,https://www.onthesnow.com/british-columbia/fernie-alpine/ski-resort
+folgarida-marilleva,Oct,0.0,epic-pass,Folgàrida - Marilléva,https://www.onthesnow.co.uk/trentino/folgarida-marilleva/ski-resort
+heavenly-mountain-resort,Oct,0.0,epic-pass,Heavenly,https://www.onthesnow.com/california/heavenly-mountain-resort/ski-resort
+keystone,Oct,0.0,epic-pass,Keystone,https://www.onthesnow.com/colorado/keystone/ski-resort
+kimberley,Oct,0.0,epic-pass,Kimberley,https://www.onthesnow.com/british-columbia/kimberley/ski-resort
+monte-bondone,Oct,0.0,epic-pass,Monte Bondone,https://www.onthesnow.co.uk/trentino/monte-bondone/ski-resort
+kirkwood,Oct,0.0,epic-pass,Kirkwood,https://www.onthesnow.com/california/kirkwood/ski-resort
+la-tania,Oct,0.0,epic-pass,La Tania,https://www.onthesnow.co.uk/northern-alps/la-tania/ski-resort
+les-menuires,Oct,0.0,epic-pass,Les Menuires,https://www.onthesnow.co.uk/northern-alps/les-menuires/ski-resort
+madonna-di-campiglio,Oct,0.0,epic-pass,Madonna di Campiglio,https://www.onthesnow.co.uk/trentino/madonna-di-campiglio/ski-resort
+meribel,Oct,0.0,epic-pass,Meribel,https://www.onthesnow.co.uk/northern-alps/meribel/ski-resort
+mont-sainte-anne,Oct,0.0,epic-pass,Mont Sainte Anne,https://www.onthesnow.com/quebec/mont-sainte-anne/ski-resort
+vail,Oct,0.0,epic-pass,Vail,https://www.onthesnow.com/colorado/vail/ski-resort
+verbier,Oct,0.0,epic-pass,Verbier,https://www.onthesnow.co.uk/valais/verbier/ski-resort
+breckenridge,Oct,0.0,epic-pass,Breckenridge,https://www.onthesnow.com/colorado/breckenridge/ski-resort
+sunday-river,Oct,0.0,ikon-pass,Sunday River,https://www.onthesnow.com/maine/sunday-river/ski-resort
+snow-summit,Oct,0.0,ikon-pass,Snow Summit,https://www.onthesnow.com/california/snow-summit/ski-resort
+snowshoe-mountain-resort,Oct,0.0,ikon-pass,Snowshoe Mountain,https://www.onthesnow.com/west-virginia/snowshoe-mountain-resort/ski-resort
+solitude-mountain-resort,Oct,0.0,ikon-pass,Solitude Mountain Resort,https://www.onthesnow.com/utah/solitude-mountain-resort/ski-resort
+steamboat,Oct,0.0,ikon-pass,Steamboat,https://www.onthesnow.com/colorado/steamboat/ski-resort
+stratton-mountain,Oct,0.0,ikon-pass,Stratton Mountain,https://www.onthesnow.com/vermont/stratton-mountain/ski-resort
+sugarloaf,Oct,0.0,ikon-pass,Sugarloaf,https://www.onthesnow.com/maine/sugarloaf/ski-resort
+boyne-highlands,Oct,0.0,ikon-pass,The Highlands,https://www.onthesnow.com/michigan/boyne-highlands/ski-resort
+ski-banff-norquay,Oct,0.0,ikon-pass,Mt. Norquay,https://www.onthesnow.com/alberta/ski-banff-norquay/ski-resort
+the-summit-at-snoqualmie,Oct,0.0,ikon-pass,The Summit at Snoqualmie,https://www.onthesnow.com/washington/the-summit-at-snoqualmie/ski-resort
+tremblant,Oct,0.0,ikon-pass,Tremblant,https://www.onthesnow.com/quebec/tremblant/ski-resort
+windham-mountain,Oct,0.0,ikon-pass,Windham Mountain,https://www.onthesnow.com/new-york/windham-mountain/ski-resort
+winter-park-resort,Oct,0.0,ikon-pass,Winter Park,https://www.onthesnow.com/colorado/winter-park-resort/ski-resort
+june-mountain,Nov,0.0,ikon-pass,June Mountain,https://www.onthesnow.com/california/june-mountain/ski-resort
+thredbo-alpine-resort,Oct,0.0,mountain-collective,Thredbo Alpine Resort,https://www.onthesnow.com/australia/thredbo-alpine-resort/ski-resort
+thredbo-alpine-resort,Oct,0.0,ikon-pass,Thredbo Alpine Resort,https://www.onthesnow.com/australia/thredbo-alpine-resort/ski-resort
+panorama-mountain,Oct,0.0,ikon-pass,Panorama Mountain,https://www.onthesnow.com/british-columbia/panorama-mountain/ski-resort
+mt-bachelor,Oct,0.0,ikon-pass,Mt. Bachelor,https://www.onthesnow.com/oregon/mt-bachelor/ski-resort
+veysonnaz,Oct,0.0,epic-pass,Veysonnaz,https://www.onthesnow.co.uk/valais/veysonnaz/ski-resort
+brighton-resort,Oct,0.0,ikon-pass,Brighton Resort,https://www.onthesnow.com/utah/brighton-resort/ski-resort
+whistler-blackcomb,Oct,0.0,epic-pass,Whistler Blackcomb,https://www.onthesnow.com/british-columbia/whistler-blackcomb/ski-resort
+wilmot-mountain,Oct,0.0,epic-pass,Wilmot Mountain,https://www.onthesnow.com/wisconsin/wilmot-mountain/ski-resort
+arapahoe-basin-ski-area,Oct,0.0,ikon-pass,Arapahoe Basin Ski Area,https://www.onthesnow.com/colorado/arapahoe-basin-ski-area/ski-resort
+bear-mountain,Oct,0.0,ikon-pass,Bear Mountain,https://www.onthesnow.com/california/bear-mountain/ski-resort
+blue-mountain,Oct,0.0,ikon-pass,Blue Mountain,https://www.onthesnow.com/ontario/blue-mountain/ski-resort
+boyne-mountain-resort,Oct,0.0,ikon-pass,Boyne Mountain Resort,https://www.onthesnow.com/michigan/boyne-mountain-resort/ski-resort
+copper-mountain-resort,Oct,0.0,ikon-pass,Copper Mountain,https://www.onthesnow.com/colorado/copper-mountain-resort/ski-resort
+loon-mountain,Oct,0.0,ikon-pass,Loon Mountain,https://www.onthesnow.com/new-hampshire/loon-mountain/ski-resort
+crystal-mountain-wa,Oct,0.0,ikon-pass,Crystal Mountain,https://www.onthesnow.com/washington/crystal-mountain-wa/ski-resort
+cypress-mountain,Oct,0.0,ikon-pass,Cypress Mountain,https://www.onthesnow.com/british-columbia/cypress-mountain/ski-resort
+deer-valley-resort,Oct,0.0,ikon-pass,Deer Valley Resort,https://www.onthesnow.com/utah/deer-valley-resort/ski-resort
+eldora-mountain-resort,Oct,0.0,ikon-pass,Eldora Mountain Resort,https://www.onthesnow.com/colorado/eldora-mountain-resort/ski-resort
+june-mountain,Oct,0.0,ikon-pass,June Mountain,https://www.onthesnow.com/california/june-mountain/ski-resort
+killington-resort,Oct,0.0,ikon-pass,Killington Resort,https://www.onthesnow.com/vermont/killington-resort/ski-resort
+brides-les-bains,Oct,0.0,epic-pass,Brides les Bains,https://www.onthesnow.co.uk/northern-alps/brides-les-bains/ski-resort
+beaver-creek,Oct,0.0,epic-pass,Beaver Creek,https://www.onthesnow.com/colorado/beaver-creek/ski-resort
+orelle,Sep,0.0,epic-pass,Orelle,https://www.onthesnow.co.uk/northern-alps/orelle/ski-resort
+deer-valley-resort,Sep,0.0,ikon-pass,Deer Valley Resort,https://www.onthesnow.com/utah/deer-valley-resort/ski-resort
+blue-mountain,Sep,0.0,ikon-pass,Blue Mountain,https://www.onthesnow.com/ontario/blue-mountain/ski-resort
+boyne-mountain-resort,Sep,0.0,ikon-pass,Boyne Mountain Resort,https://www.onthesnow.com/michigan/boyne-mountain-resort/ski-resort
+brighton-resort,Sep,0.0,ikon-pass,Brighton Resort,https://www.onthesnow.com/utah/brighton-resort/ski-resort
+copper-mountain-resort,Sep,0.0,ikon-pass,Copper Mountain,https://www.onthesnow.com/colorado/copper-mountain-resort/ski-resort
+crystal-mountain-wa,Sep,0.0,ikon-pass,Crystal Mountain,https://www.onthesnow.com/washington/crystal-mountain-wa/ski-resort
+cypress-mountain,Sep,0.0,ikon-pass,Cypress Mountain,https://www.onthesnow.com/british-columbia/cypress-mountain/ski-resort
+eldora-mountain-resort,Sep,0.0,ikon-pass,Eldora Mountain Resort,https://www.onthesnow.com/colorado/eldora-mountain-resort/ski-resort
+arapahoe-basin-ski-area,Sep,0.0,ikon-pass,Arapahoe Basin Ski Area,https://www.onthesnow.com/colorado/arapahoe-basin-ski-area/ski-resort
+june-mountain,Sep,0.0,ikon-pass,June Mountain,https://www.onthesnow.com/california/june-mountain/ski-resort
+killington-resort,Sep,0.0,ikon-pass,Killington Resort,https://www.onthesnow.com/vermont/killington-resort/ski-resort
+loon-mountain,Sep,0.0,ikon-pass,Loon Mountain,https://www.onthesnow.com/new-hampshire/loon-mountain/ski-resort
+mt-bachelor,Sep,0.0,ikon-pass,Mt. Bachelor,https://www.onthesnow.com/oregon/mt-bachelor/ski-resort
+ski-banff-norquay,Sep,0.0,ikon-pass,Mt. Norquay,https://www.onthesnow.com/alberta/ski-banff-norquay/ski-resort
+panorama-mountain,Sep,0.0,ikon-pass,Panorama Mountain,https://www.onthesnow.com/british-columbia/panorama-mountain/ski-resort
+bear-mountain,Sep,0.0,ikon-pass,Bear Mountain,https://www.onthesnow.com/california/bear-mountain/ski-resort
+wilmot-mountain,Sep,0.0,epic-pass,Wilmot Mountain,https://www.onthesnow.com/wisconsin/wilmot-mountain/ski-resort
+snowshoe-mountain-resort,Sep,0.0,ikon-pass,Snowshoe Mountain,https://www.onthesnow.com/west-virginia/snowshoe-mountain-resort/ski-resort
+stoneham,Sep,0.0,epic-pass,Stoneham,https://www.onthesnow.com/quebec/stoneham/ski-resort
+park-city-mountain-resort,Sep,0.0,epic-pass,Park City,https://www.onthesnow.com/utah/park-city-mountain-resort/ski-resort
+pejo,Sep,0.0,epic-pass,Pejo,https://www.onthesnow.co.uk/trentino/pejo/ski-resort
+pinzolo,Sep,0.0,epic-pass,Pinzolo,https://www.onthesnow.co.uk/trentino/pinzolo/ski-resort
+pontedilegno-tonale-adamello-ski,Sep,0.0,epic-pass,Pontedilegno - Tonale,https://www.onthesnow.co.uk/trentino/pontedilegno-tonale-adamello-ski/ski-resort
+saint-martin-de-belleville,Sep,0.0,epic-pass,Saint Martin de Belleville,https://www.onthesnow.co.uk/northern-alps/saint-martin-de-belleville/ski-resort
+windham-mountain,Jul,0.0,ikon-pass,Windham Mountain,https://www.onthesnow.com/new-york/windham-mountain/ski-resort
+stowe-mountain-resort,Sep,0.0,epic-pass,Stowe Mountain,https://www.onthesnow.com/vermont/stowe-mountain-resort/ski-resort
+whistler-blackcomb,Sep,0.0,epic-pass,Whistler Blackcomb,https://www.onthesnow.com/british-columbia/whistler-blackcomb/ski-resort
+telluride,Sep,0.0,epic-pass,Telluride,https://www.onthesnow.com/colorado/telluride/ski-resort
+thyon-2000,Sep,0.0,epic-pass,Thyon 2000,https://www.onthesnow.co.uk/valais/thyon-2000/ski-resort
+vail,Sep,0.0,epic-pass,Vail,https://www.onthesnow.com/colorado/vail/ski-resort
+val-thorens,Sep,0.0,epic-pass,Val Thorens,https://www.onthesnow.co.uk/northern-alps/val-thorens/ski-resort
+verbier,Sep,0.0,epic-pass,Verbier,https://www.onthesnow.co.uk/valais/verbier/ski-resort
+veysonnaz,Sep,0.0,epic-pass,Veysonnaz,https://www.onthesnow.co.uk/valais/veysonnaz/ski-resort
+snow-summit,Sep,0.0,ikon-pass,Snow Summit,https://www.onthesnow.com/california/snow-summit/ski-resort
+solitude-mountain-resort,Sep,0.0,ikon-pass,Solitude Mountain Resort,https://www.onthesnow.com/utah/solitude-mountain-resort/ski-resort
+andalo-fai-della-paganella,Oct,0.0,epic-pass,Andalo - Fai della Paganella,https://www.onthesnow.co.uk/trentino/andalo-fai-della-paganella/ski-resort
+snowbasin,Oct,0.0,mountain-collective,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+snowbasin,Oct,0.0,epic-pass,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+snowbasin,Oct,0.0,ikon-pass,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+big-sky-resort,Oct,0.0,mountain-collective,Big Sky,https://www.onthesnow.com/montana/big-sky-resort/ski-resort
+big-sky-resort,Oct,0.0,ikon-pass,Big Sky,https://www.onthesnow.com/montana/big-sky-resort/ski-resort
+jackson-hole,Oct,0.0,mountain-collective,Jackson Hole,https://www.onthesnow.com/wyoming/jackson-hole/ski-resort
+jackson-hole,Oct,0.0,ikon-pass,Jackson Hole,https://www.onthesnow.com/wyoming/jackson-hole/ski-resort
+lake-louise,Oct,0.0,mountain-collective,Lake Louise,https://www.onthesnow.com/alberta/lake-louise/ski-resort
+lake-louise,Oct,0.0,ikon-pass,Lake Louise,https://www.onthesnow.com/alberta/lake-louise/ski-resort
+mammoth-mountain-ski-area,Oct,0.0,mountain-collective,Mammoth Mountain,https://www.onthesnow.com/california/mammoth-mountain-ski-area/ski-resort
+mammoth-mountain-ski-area,Oct,0.0,ikon-pass,Mammoth Mountain,https://www.onthesnow.com/california/mammoth-mountain-ski-area/ski-resort
+squaw-valley-usa,Oct,0.0,mountain-collective,Palisades Tahoe,https://www.onthesnow.com/california/squaw-valley-usa/ski-resort
+squaw-valley-usa,Oct,0.0,ikon-pass,Palisades Tahoe,https://www.onthesnow.com/california/squaw-valley-usa/ski-resort
+revelstoke-mountain,Oct,0.0,mountain-collective,Revelstoke,https://www.onthesnow.com/british-columbia/revelstoke-mountain/ski-resort
+revelstoke-mountain,Oct,0.0,ikon-pass,Revelstoke,https://www.onthesnow.com/british-columbia/revelstoke-mountain/ski-resort
+snowbird,Oct,0.0,mountain-collective,Snowbird,https://www.onthesnow.com/utah/snowbird/ski-resort
+snowbird,Oct,0.0,ikon-pass,Snowbird,https://www.onthesnow.com/utah/snowbird/ski-resort
+alta-ski-area,Oct,0.0,mountain-collective,Alta Ski Area,https://www.onthesnow.com/utah/alta-ski-area/ski-resort
+alta-ski-area,Oct,0.0,ikon-pass,Alta Ski Area,https://www.onthesnow.com/utah/alta-ski-area/ski-resort
+sugarbush,Oct,0.0,mountain-collective,Sugarbush,https://www.onthesnow.com/vermont/sugarbush/ski-resort
+sugarbush,Oct,0.0,ikon-pass,Sugarbush,https://www.onthesnow.com/vermont/sugarbush/ski-resort
+sun-valley,Oct,0.0,mountain-collective,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+sun-valley,Oct,0.0,epic-pass,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+sun-valley,Oct,0.0,ikon-pass,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+sunshine-village,Oct,0.0,mountain-collective,Sunshine Village,https://www.onthesnow.com/alberta/sunshine-village/ski-resort
+sunshine-village,Oct,0.0,ikon-pass,Sunshine Village,https://www.onthesnow.com/alberta/sunshine-village/ski-resort
+taos-ski-valley,Oct,0.0,mountain-collective,Taos Ski Valley,https://www.onthesnow.com/new-mexico/taos-ski-valley/ski-resort
+taos-ski-valley,Oct,0.0,ikon-pass,Taos Ski Valley,https://www.onthesnow.com/new-mexico/taos-ski-valley/ski-resort
+afton-alps,Oct,0.0,epic-pass,Afton Alps,https://www.onthesnow.com/minnesota/afton-alps/ski-resort
+folgaria,Oct,0.0,epic-pass,Alpe Cimbra - Folgaria - Lavarone,https://www.onthesnow.co.uk/trentino/folgaria/ski-resort
+aspen-snowmass,Oct,0.0,mountain-collective,Aspen Snowmass,https://www.onthesnow.com/colorado/aspen-snowmass/ski-resort
+aspen-snowmass,Oct,0.0,ikon-pass,Aspen Snowmass,https://www.onthesnow.com/colorado/aspen-snowmass/ski-resort
+coronet-peak,Nov,0.0,mountain-collective,Coronet Peak,https://www.onthesnow.com/new-zealand/coronet-peak/ski-resort
+steamboat,Sep,0.0,ikon-pass,Steamboat,https://www.onthesnow.com/colorado/steamboat/ski-resort
+windham-mountain,Sep,0.0,ikon-pass,Windham Mountain,https://www.onthesnow.com/new-york/windham-mountain/ski-resort
+stratton-mountain,Sep,0.0,ikon-pass,Stratton Mountain,https://www.onthesnow.com/vermont/stratton-mountain/ski-resort
+sugarloaf,Sep,0.0,ikon-pass,Sugarloaf,https://www.onthesnow.com/maine/sugarloaf/ski-resort
+sunday-river,Sep,0.0,ikon-pass,Sunday River,https://www.onthesnow.com/maine/sunday-river/ski-resort
+boyne-highlands,Sep,0.0,ikon-pass,The Highlands,https://www.onthesnow.com/michigan/boyne-highlands/ski-resort
+the-summit-at-snoqualmie,Sep,0.0,ikon-pass,The Summit at Snoqualmie,https://www.onthesnow.com/washington/the-summit-at-snoqualmie/ski-resort
+tremblant,Sep,0.0,ikon-pass,Tremblant,https://www.onthesnow.com/quebec/tremblant/ski-resort
+winter-park-resort,Sep,0.0,ikon-pass,Winter Park,https://www.onthesnow.com/colorado/winter-park-resort/ski-resort
+the-remarkables,Nov,0.0,mountain-collective,The Remarkables,https://www.onthesnow.com/new-zealand/the-remarkables/ski-resort
+mt-buller,Nov,0.0,ikon-pass,Mt. Buller,https://www.onthesnow.com/australia/mt-buller/ski-resort
+perisher,Nov,0.0,epic-pass,Perisher,https://www.onthesnow.com/australia/perisher/ski-resort
+mt-hotham,Nov,0.0,epic-pass,Mt. Hotham,https://www.onthesnow.com/australia/mt-hotham/ski-resort
+falls-creek-alpine-resort,Nov,0.0,epic-pass,Falls Creek Alpine Resort,https://www.onthesnow.com/australia/falls-creek-alpine-resort/ski-resort
+valle-nevado,Nov,0.0,mountain-collective,Valle Nevado,https://www.onthesnow.com/chile/valle-nevado/ski-resort
+thredbo-alpine-resort,Nov,0.0,mountain-collective,Thredbo Alpine Resort,https://www.onthesnow.com/australia/thredbo-alpine-resort/ski-resort
+thredbo-alpine-resort,Nov,0.0,ikon-pass,Thredbo Alpine Resort,https://www.onthesnow.com/australia/thredbo-alpine-resort/ski-resort
+winter-park-resort,Jul,0.0,ikon-pass,Winter Park,https://www.onthesnow.com/colorado/winter-park-resort/ski-resort
+sugarloaf,Jul,0.0,ikon-pass,Sugarloaf,https://www.onthesnow.com/maine/sugarloaf/ski-resort
+tremblant,Jul,0.0,ikon-pass,Tremblant,https://www.onthesnow.com/quebec/tremblant/ski-resort
+stoneham,May,0.0,epic-pass,Stoneham,https://www.onthesnow.com/quebec/stoneham/ski-resort
+loon-mountain,May,0.0,ikon-pass,Loon Mountain,https://www.onthesnow.com/new-hampshire/loon-mountain/ski-resort
+thredbo-alpine-resort,Mar,0.0,mountain-collective,Thredbo Alpine Resort,https://www.onthesnow.com/australia/thredbo-alpine-resort/ski-resort
+thredbo-alpine-resort,Mar,0.0,ikon-pass,Thredbo Alpine Resort,https://www.onthesnow.com/australia/thredbo-alpine-resort/ski-resort
+panorama-mountain,May,0.0,ikon-pass,Panorama Mountain,https://www.onthesnow.com/british-columbia/panorama-mountain/ski-resort
+snow-summit,May,0.0,ikon-pass,Snow Summit,https://www.onthesnow.com/california/snow-summit/ski-resort
+snowshoe-mountain-resort,May,0.0,ikon-pass,Snowshoe Mountain,https://www.onthesnow.com/west-virginia/snowshoe-mountain-resort/ski-resort
+solitude-mountain-resort,May,0.0,ikon-pass,Solitude Mountain Resort,https://www.onthesnow.com/utah/solitude-mountain-resort/ski-resort
+steamboat,May,0.0,ikon-pass,Steamboat,https://www.onthesnow.com/colorado/steamboat/ski-resort
+stratton-mountain,May,0.0,ikon-pass,Stratton Mountain,https://www.onthesnow.com/vermont/stratton-mountain/ski-resort
+sugarloaf,May,0.0,ikon-pass,Sugarloaf,https://www.onthesnow.com/maine/sugarloaf/ski-resort
+sunday-river,May,0.0,ikon-pass,Sunday River,https://www.onthesnow.com/maine/sunday-river/ski-resort
+boyne-highlands,May,0.0,ikon-pass,The Highlands,https://www.onthesnow.com/michigan/boyne-highlands/ski-resort
+the-summit-at-snoqualmie,May,0.0,ikon-pass,The Summit at Snoqualmie,https://www.onthesnow.com/washington/the-summit-at-snoqualmie/ski-resort
+tremblant,May,0.0,ikon-pass,Tremblant,https://www.onthesnow.com/quebec/tremblant/ski-resort
+windham-mountain,May,0.0,ikon-pass,Windham Mountain,https://www.onthesnow.com/new-york/windham-mountain/ski-resort
+the-remarkables,Mar,0.0,mountain-collective,The Remarkables,https://www.onthesnow.com/new-zealand/the-remarkables/ski-resort
+june-mountain,May,0.0,ikon-pass,June Mountain,https://www.onthesnow.com/california/june-mountain/ski-resort
+eldora-mountain-resort,May,0.0,ikon-pass,Eldora Mountain Resort,https://www.onthesnow.com/colorado/eldora-mountain-resort/ski-resort
+deer-valley-resort,May,0.0,ikon-pass,Deer Valley Resort,https://www.onthesnow.com/utah/deer-valley-resort/ski-resort
+wilmot-mountain,May,0.0,epic-pass,Wilmot Mountain,https://www.onthesnow.com/wisconsin/wilmot-mountain/ski-resort
+telluride,May,0.0,epic-pass,Telluride,https://www.onthesnow.com/colorado/telluride/ski-resort
+thyon-2000,May,0.0,epic-pass,Thyon 2000,https://www.onthesnow.co.uk/valais/thyon-2000/ski-resort
+val-thorens,May,0.0,epic-pass,Val Thorens,https://www.onthesnow.co.uk/northern-alps/val-thorens/ski-resort
+verbier,May,0.0,epic-pass,Verbier,https://www.onthesnow.co.uk/valais/verbier/ski-resort
+veysonnaz,May,0.0,epic-pass,Veysonnaz,https://www.onthesnow.co.uk/valais/veysonnaz/ski-resort
+mt-hotham,Mar,0.0,epic-pass,Mt. Hotham,https://www.onthesnow.com/australia/mt-hotham/ski-resort
+falls-creek-alpine-resort,Mar,0.0,epic-pass,Falls Creek Alpine Resort,https://www.onthesnow.com/australia/falls-creek-alpine-resort/ski-resort
+cypress-mountain,May,0.0,ikon-pass,Cypress Mountain,https://www.onthesnow.com/british-columbia/cypress-mountain/ski-resort
+bear-mountain,May,0.0,ikon-pass,Bear Mountain,https://www.onthesnow.com/california/bear-mountain/ski-resort
+blue-mountain,May,0.0,ikon-pass,Blue Mountain,https://www.onthesnow.com/ontario/blue-mountain/ski-resort
+boyne-mountain-resort,May,0.0,ikon-pass,Boyne Mountain Resort,https://www.onthesnow.com/michigan/boyne-mountain-resort/ski-resort
+brighton-resort,May,0.0,ikon-pass,Brighton Resort,https://www.onthesnow.com/utah/brighton-resort/ski-resort
+copper-mountain-resort,May,0.0,ikon-pass,Copper Mountain,https://www.onthesnow.com/colorado/copper-mountain-resort/ski-resort
+valle-nevado,Mar,0.0,mountain-collective,Valle Nevado,https://www.onthesnow.com/chile/valle-nevado/ski-resort
+coronet-peak,May,0.0,mountain-collective,Coronet Peak,https://www.onthesnow.com/new-zealand/coronet-peak/ski-resort
+the-remarkables,May,0.0,mountain-collective,The Remarkables,https://www.onthesnow.com/new-zealand/the-remarkables/ski-resort
+thredbo-alpine-resort,May,0.0,mountain-collective,Thredbo Alpine Resort,https://www.onthesnow.com/australia/thredbo-alpine-resort/ski-resort
+thredbo-alpine-resort,May,0.0,ikon-pass,Thredbo Alpine Resort,https://www.onthesnow.com/australia/thredbo-alpine-resort/ski-resort
+fernie-alpine,Jun,0.0,epic-pass,Fernie Alpine,https://www.onthesnow.com/british-columbia/fernie-alpine/ski-resort
+andalo-fai-della-paganella,Jun,0.0,epic-pass,Andalo - Fai della Paganella,https://www.onthesnow.co.uk/trentino/andalo-fai-della-paganella/ski-resort
+beaver-creek,Jun,0.0,epic-pass,Beaver Creek,https://www.onthesnow.com/colorado/beaver-creek/ski-resort
+breckenridge,Jun,0.0,epic-pass,Breckenridge,https://www.onthesnow.com/colorado/breckenridge/ski-resort
+brides-les-bains,Jun,0.0,epic-pass,Brides les Bains,https://www.onthesnow.co.uk/northern-alps/brides-les-bains/ski-resort
+courchevel,Jun,0.0,epic-pass,Courchevel,https://www.onthesnow.co.uk/northern-alps/courchevel/ski-resort
+crested-butte-mountain-resort,Jun,0.0,epic-pass,Crested Butte Mountain Resort,https://www.onthesnow.com/colorado/crested-butte-mountain-resort/ski-resort
+folgarida-marilleva,Jun,0.0,epic-pass,Folgàrida - Marilléva,https://www.onthesnow.co.uk/trentino/folgarida-marilleva/ski-resort
+afton-alps,Jun,0.0,epic-pass,Afton Alps,https://www.onthesnow.com/minnesota/afton-alps/ski-resort
+heavenly-mountain-resort,Jun,0.0,epic-pass,Heavenly,https://www.onthesnow.com/california/heavenly-mountain-resort/ski-resort
+keystone,Jun,0.0,epic-pass,Keystone,https://www.onthesnow.com/colorado/keystone/ski-resort
+kicking-horse,Jun,0.0,epic-pass,Kicking Horse,https://www.onthesnow.com/british-columbia/kicking-horse/ski-resort
+kimberley,Jun,0.0,epic-pass,Kimberley,https://www.onthesnow.com/british-columbia/kimberley/ski-resort
+kirkwood,Jun,0.0,epic-pass,Kirkwood,https://www.onthesnow.com/california/kirkwood/ski-resort
+la-tania,Jun,0.0,epic-pass,La Tania,https://www.onthesnow.co.uk/northern-alps/la-tania/ski-resort
+folgaria,Jun,0.0,epic-pass,Alpe Cimbra - Folgaria - Lavarone,https://www.onthesnow.co.uk/trentino/folgaria/ski-resort
+taos-ski-valley,Jun,0.0,mountain-collective,Taos Ski Valley,https://www.onthesnow.com/new-mexico/taos-ski-valley/ski-resort
+taos-ski-valley,Jun,0.0,ikon-pass,Taos Ski Valley,https://www.onthesnow.com/new-mexico/taos-ski-valley/ski-resort
+valle-nevado,May,0.0,mountain-collective,Valle Nevado,https://www.onthesnow.com/chile/valle-nevado/ski-resort
+big-sky-resort,Jun,0.0,mountain-collective,Big Sky,https://www.onthesnow.com/montana/big-sky-resort/ski-resort
+big-sky-resort,Jun,0.0,ikon-pass,Big Sky,https://www.onthesnow.com/montana/big-sky-resort/ski-resort
+falls-creek-alpine-resort,May,0.0,epic-pass,Falls Creek Alpine Resort,https://www.onthesnow.com/australia/falls-creek-alpine-resort/ski-resort
+mt-hotham,May,0.0,epic-pass,Mt. Hotham,https://www.onthesnow.com/australia/mt-hotham/ski-resort
+perisher,May,0.0,epic-pass,Perisher,https://www.onthesnow.com/australia/perisher/ski-resort
+mt-buller,May,0.0,ikon-pass,Mt. Buller,https://www.onthesnow.com/australia/mt-buller/ski-resort
+alta-ski-area,Jun,0.0,mountain-collective,Alta Ski Area,https://www.onthesnow.com/utah/alta-ski-area/ski-resort
+alta-ski-area,Jun,0.0,ikon-pass,Alta Ski Area,https://www.onthesnow.com/utah/alta-ski-area/ski-resort
+aspen-snowmass,Jun,0.0,mountain-collective,Aspen Snowmass,https://www.onthesnow.com/colorado/aspen-snowmass/ski-resort
+aspen-snowmass,Jun,0.0,ikon-pass,Aspen Snowmass,https://www.onthesnow.com/colorado/aspen-snowmass/ski-resort
+jackson-hole,Jun,0.0,mountain-collective,Jackson Hole,https://www.onthesnow.com/wyoming/jackson-hole/ski-resort
+jackson-hole,Jun,0.0,ikon-pass,Jackson Hole,https://www.onthesnow.com/wyoming/jackson-hole/ski-resort
+sunshine-village,Jun,0.0,mountain-collective,Sunshine Village,https://www.onthesnow.com/alberta/sunshine-village/ski-resort
+sunshine-village,Jun,0.0,ikon-pass,Sunshine Village,https://www.onthesnow.com/alberta/sunshine-village/ski-resort
+lake-louise,Jun,0.0,mountain-collective,Lake Louise,https://www.onthesnow.com/alberta/lake-louise/ski-resort
+lake-louise,Jun,0.0,ikon-pass,Lake Louise,https://www.onthesnow.com/alberta/lake-louise/ski-resort
+revelstoke-mountain,Jun,0.0,mountain-collective,Revelstoke,https://www.onthesnow.com/british-columbia/revelstoke-mountain/ski-resort
+revelstoke-mountain,Jun,0.0,ikon-pass,Revelstoke,https://www.onthesnow.com/british-columbia/revelstoke-mountain/ski-resort
+snowbasin,Jun,0.0,mountain-collective,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+snowbasin,Jun,0.0,epic-pass,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+snowbasin,Jun,0.0,ikon-pass,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+snowbird,Jun,0.0,mountain-collective,Snowbird,https://www.onthesnow.com/utah/snowbird/ski-resort
+snowbird,Jun,0.0,ikon-pass,Snowbird,https://www.onthesnow.com/utah/snowbird/ski-resort
+sugarbush,Jun,0.0,mountain-collective,Sugarbush,https://www.onthesnow.com/vermont/sugarbush/ski-resort
+sugarbush,Jun,0.0,ikon-pass,Sugarbush,https://www.onthesnow.com/vermont/sugarbush/ski-resort
+sun-valley,Jun,0.0,mountain-collective,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+sun-valley,Jun,0.0,epic-pass,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+sun-valley,Jun,0.0,ikon-pass,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+stowe-mountain-resort,May,0.0,epic-pass,Stowe Mountain,https://www.onthesnow.com/vermont/stowe-mountain-resort/ski-resort
+stevens-pass-resort,May,0.0,epic-pass,Stevens Pass Resort,https://www.onthesnow.com/washington/stevens-pass-resort/ski-resort
+madonna-di-campiglio,Jun,0.0,epic-pass,Madonna di Campiglio,https://www.onthesnow.co.uk/trentino/madonna-di-campiglio/ski-resort
+saint-martin-de-belleville,May,0.0,epic-pass,Saint Martin de Belleville,https://www.onthesnow.co.uk/northern-alps/saint-martin-de-belleville/ski-resort
+the-remarkables,Apr,0.0,mountain-collective,The Remarkables,https://www.onthesnow.com/new-zealand/the-remarkables/ski-resort
+thredbo-alpine-resort,Apr,0.0,mountain-collective,Thredbo Alpine Resort,https://www.onthesnow.com/australia/thredbo-alpine-resort/ski-resort
+thredbo-alpine-resort,Apr,0.0,ikon-pass,Thredbo Alpine Resort,https://www.onthesnow.com/australia/thredbo-alpine-resort/ski-resort
+valle-nevado,Apr,0.0,mountain-collective,Valle Nevado,https://www.onthesnow.com/chile/valle-nevado/ski-resort
+falls-creek-alpine-resort,Apr,0.0,epic-pass,Falls Creek Alpine Resort,https://www.onthesnow.com/australia/falls-creek-alpine-resort/ski-resort
+mt-hotham,Apr,0.0,epic-pass,Mt. Hotham,https://www.onthesnow.com/australia/mt-hotham/ski-resort
+perisher,Apr,0.0,epic-pass,Perisher,https://www.onthesnow.com/australia/perisher/ski-resort
+mt-buller,Apr,0.0,ikon-pass,Mt. Buller,https://www.onthesnow.com/australia/mt-buller/ski-resort
+folgarida-marilleva,Apr,0.0,epic-pass,Folgàrida - Marilléva,https://www.onthesnow.co.uk/trentino/folgarida-marilleva/ski-resort
+big-sky-resort,May,0.0,mountain-collective,Big Sky,https://www.onthesnow.com/montana/big-sky-resort/ski-resort
+big-sky-resort,May,0.0,ikon-pass,Big Sky,https://www.onthesnow.com/montana/big-sky-resort/ski-resort
+jackson-hole,May,0.0,mountain-collective,Jackson Hole,https://www.onthesnow.com/wyoming/jackson-hole/ski-resort
+jackson-hole,May,0.0,ikon-pass,Jackson Hole,https://www.onthesnow.com/wyoming/jackson-hole/ski-resort
+courchevel,Apr,0.0,epic-pass,Courchevel,https://www.onthesnow.co.uk/northern-alps/courchevel/ski-resort
+brides-les-bains,Apr,0.0,epic-pass,Brides les Bains,https://www.onthesnow.co.uk/northern-alps/brides-les-bains/ski-resort
+andalo-fai-della-paganella,Apr,0.0,epic-pass,Andalo - Fai della Paganella,https://www.onthesnow.co.uk/trentino/andalo-fai-della-paganella/ski-resort
+revelstoke-mountain,May,0.0,mountain-collective,Revelstoke,https://www.onthesnow.com/british-columbia/revelstoke-mountain/ski-resort
+revelstoke-mountain,May,0.0,ikon-pass,Revelstoke,https://www.onthesnow.com/british-columbia/revelstoke-mountain/ski-resort
+snowbasin,May,0.0,mountain-collective,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+snowbasin,May,0.0,epic-pass,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+snowbasin,May,0.0,ikon-pass,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+coronet-peak,Apr,0.0,mountain-collective,Coronet Peak,https://www.onthesnow.com/new-zealand/coronet-peak/ski-resort
+la-tania,Apr,0.0,epic-pass,La Tania,https://www.onthesnow.co.uk/northern-alps/la-tania/ski-resort
+les-menuires,Apr,0.0,epic-pass,Les Menuires,https://www.onthesnow.co.uk/northern-alps/les-menuires/ski-resort
+pinzolo,Apr,0.0,epic-pass,Pinzolo,https://www.onthesnow.co.uk/trentino/pinzolo/ski-resort
+veysonnaz,Apr,0.0,epic-pass,Veysonnaz,https://www.onthesnow.co.uk/valais/veysonnaz/ski-resort
+verbier,Apr,0.0,epic-pass,Verbier,https://www.onthesnow.co.uk/valais/verbier/ski-resort
+val-thorens,Apr,0.0,epic-pass,Val Thorens,https://www.onthesnow.co.uk/northern-alps/val-thorens/ski-resort
+thyon-2000,Apr,0.0,epic-pass,Thyon 2000,https://www.onthesnow.co.uk/valais/thyon-2000/ski-resort
+saint-martin-de-belleville,Apr,0.0,epic-pass,Saint Martin de Belleville,https://www.onthesnow.co.uk/northern-alps/saint-martin-de-belleville/ski-resort
+pontedilegno-tonale-adamello-ski,Apr,0.0,epic-pass,Pontedilegno - Tonale,https://www.onthesnow.co.uk/trentino/pontedilegno-tonale-adamello-ski/ski-resort
+snow-summit,Apr,0.0,ikon-pass,Snow Summit,https://www.onthesnow.com/california/snow-summit/ski-resort
+madonna-di-campiglio,Apr,0.0,epic-pass,Madonna di Campiglio,https://www.onthesnow.co.uk/trentino/madonna-di-campiglio/ski-resort
+pejo,Apr,0.0,epic-pass,Pejo,https://www.onthesnow.co.uk/trentino/pejo/ski-resort
+orelle,Apr,0.0,epic-pass,Orelle,https://www.onthesnow.co.uk/northern-alps/orelle/ski-resort
+nendaz,Apr,0.0,epic-pass,Nendaz,https://www.onthesnow.co.uk/valais/nendaz/ski-resort
+mount-brighton,Apr,0.0,epic-pass,Mt. Brighton,https://www.onthesnow.com/michigan/mount-brighton/ski-resort
+monte-bondone,Apr,0.0,epic-pass,Monte Bondone,https://www.onthesnow.co.uk/trentino/monte-bondone/ski-resort
+meribel,Apr,0.0,epic-pass,Meribel,https://www.onthesnow.co.uk/northern-alps/meribel/ski-resort
+folgaria,Apr,0.0,epic-pass,Alpe Cimbra - Folgaria - Lavarone,https://www.onthesnow.co.uk/trentino/folgaria/ski-resort
+sugarbush,May,0.0,mountain-collective,Sugarbush,https://www.onthesnow.com/vermont/sugarbush/ski-resort
+sugarbush,May,0.0,ikon-pass,Sugarbush,https://www.onthesnow.com/vermont/sugarbush/ski-resort
+sun-valley,May,0.0,mountain-collective,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+sun-valley,May,0.0,epic-pass,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+sun-valley,May,0.0,ikon-pass,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+nendaz,May,0.0,epic-pass,Nendaz,https://www.onthesnow.co.uk/valais/nendaz/ski-resort
+meribel,May,0.0,epic-pass,Meribel,https://www.onthesnow.co.uk/northern-alps/meribel/ski-resort
+mont-sainte-anne,May,0.0,epic-pass,Mont Sainte Anne,https://www.onthesnow.com/quebec/mont-sainte-anne/ski-resort
+monte-bondone,May,0.0,epic-pass,Monte Bondone,https://www.onthesnow.co.uk/trentino/monte-bondone/ski-resort
+mount-sunapee,May,0.0,epic-pass,Mount Sunapee,https://www.onthesnow.com/new-hampshire/mount-sunapee/ski-resort
+mount-brighton,May,0.0,epic-pass,Mt. Brighton,https://www.onthesnow.com/michigan/mount-brighton/ski-resort
+nakiska-ski-area,May,0.0,epic-pass,Nakiska Ski Area,https://www.onthesnow.com/alberta/nakiska-ski-area/ski-resort
+northstar-california,May,0.0,epic-pass,Northstar California,https://www.onthesnow.com/california/northstar-california/ski-resort
+les-menuires,May,0.0,epic-pass,Les Menuires,https://www.onthesnow.co.uk/northern-alps/les-menuires/ski-resort
+okemo-mountain-resort,May,0.0,epic-pass,Okemo Mountain Resort,https://www.onthesnow.com/vermont/okemo-mountain-resort/ski-resort
+orelle,May,0.0,epic-pass,Orelle,https://www.onthesnow.co.uk/northern-alps/orelle/ski-resort
+park-city-mountain-resort,May,0.0,epic-pass,Park City,https://www.onthesnow.com/utah/park-city-mountain-resort/ski-resort
+pejo,May,0.0,epic-pass,Pejo,https://www.onthesnow.co.uk/trentino/pejo/ski-resort
+pinzolo,May,0.0,epic-pass,Pinzolo,https://www.onthesnow.co.uk/trentino/pinzolo/ski-resort
+pontedilegno-tonale-adamello-ski,May,0.0,epic-pass,Pontedilegno - Tonale,https://www.onthesnow.co.uk/trentino/pontedilegno-tonale-adamello-ski/ski-resort
+madonna-di-campiglio,May,0.0,epic-pass,Madonna di Campiglio,https://www.onthesnow.co.uk/trentino/madonna-di-campiglio/ski-resort
+la-tania,May,0.0,epic-pass,La Tania,https://www.onthesnow.co.uk/northern-alps/la-tania/ski-resort
+taos-ski-valley,May,0.0,mountain-collective,Taos Ski Valley,https://www.onthesnow.com/new-mexico/taos-ski-valley/ski-resort
+taos-ski-valley,May,0.0,ikon-pass,Taos Ski Valley,https://www.onthesnow.com/new-mexico/taos-ski-valley/ski-resort
+courchevel,May,0.0,epic-pass,Courchevel,https://www.onthesnow.co.uk/northern-alps/courchevel/ski-resort
+afton-alps,May,0.0,epic-pass,Afton Alps,https://www.onthesnow.com/minnesota/afton-alps/ski-resort
+folgaria,May,0.0,epic-pass,Alpe Cimbra - Folgaria - Lavarone,https://www.onthesnow.co.uk/trentino/folgaria/ski-resort
+andalo-fai-della-paganella,May,0.0,epic-pass,Andalo - Fai della Paganella,https://www.onthesnow.co.uk/trentino/andalo-fai-della-paganella/ski-resort
+beaver-creek,May,0.0,epic-pass,Beaver Creek,https://www.onthesnow.com/colorado/beaver-creek/ski-resort
+mt-buller,Mar,0.0,ikon-pass,Mt. Buller,https://www.onthesnow.com/australia/mt-buller/ski-resort
+brides-les-bains,May,0.0,epic-pass,Brides les Bains,https://www.onthesnow.co.uk/northern-alps/brides-les-bains/ski-resort
+crested-butte-mountain-resort,May,0.0,epic-pass,Crested Butte Mountain Resort,https://www.onthesnow.com/colorado/crested-butte-mountain-resort/ski-resort
+kirkwood,May,0.0,epic-pass,Kirkwood,https://www.onthesnow.com/california/kirkwood/ski-resort
+fernie-alpine,May,0.0,epic-pass,Fernie Alpine,https://www.onthesnow.com/british-columbia/fernie-alpine/ski-resort
+folgarida-marilleva,May,0.0,epic-pass,Folgàrida - Marilléva,https://www.onthesnow.co.uk/trentino/folgarida-marilleva/ski-resort
+perisher,Mar,0.0,epic-pass,Perisher,https://www.onthesnow.com/australia/perisher/ski-resort
+keystone,May,0.0,epic-pass,Keystone,https://www.onthesnow.com/colorado/keystone/ski-resort
+kicking-horse,May,0.0,epic-pass,Kicking Horse,https://www.onthesnow.com/british-columbia/kicking-horse/ski-resort
+kimberley,May,0.0,epic-pass,Kimberley,https://www.onthesnow.com/british-columbia/kimberley/ski-resort
+les-menuires,Jun,0.0,epic-pass,Les Menuires,https://www.onthesnow.co.uk/northern-alps/les-menuires/ski-resort
+meribel,Jun,0.0,epic-pass,Meribel,https://www.onthesnow.co.uk/northern-alps/meribel/ski-resort
+the-summit-at-snoqualmie,Jul,0.0,ikon-pass,The Summit at Snoqualmie,https://www.onthesnow.com/washington/the-summit-at-snoqualmie/ski-resort
+sun-valley,Jul,0.0,mountain-collective,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+sun-valley,Jul,0.0,epic-pass,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+sun-valley,Jul,0.0,ikon-pass,Sun Valley,https://www.onthesnow.com/idaho/sun-valley/ski-resort
+madonna-di-campiglio,Jul,0.0,epic-pass,Madonna di Campiglio,https://www.onthesnow.co.uk/trentino/madonna-di-campiglio/ski-resort
+meribel,Jul,0.0,epic-pass,Meribel,https://www.onthesnow.co.uk/northern-alps/meribel/ski-resort
+mont-sainte-anne,Jul,0.0,epic-pass,Mont Sainte Anne,https://www.onthesnow.com/quebec/mont-sainte-anne/ski-resort
+monte-bondone,Jul,0.0,epic-pass,Monte Bondone,https://www.onthesnow.co.uk/trentino/monte-bondone/ski-resort
+mount-sunapee,Jul,0.0,epic-pass,Mount Sunapee,https://www.onthesnow.com/new-hampshire/mount-sunapee/ski-resort
+mount-brighton,Jul,0.0,epic-pass,Mt. Brighton,https://www.onthesnow.com/michigan/mount-brighton/ski-resort
+nakiska-ski-area,Jul,0.0,epic-pass,Nakiska Ski Area,https://www.onthesnow.com/alberta/nakiska-ski-area/ski-resort
+nendaz,Jul,0.0,epic-pass,Nendaz,https://www.onthesnow.co.uk/valais/nendaz/ski-resort
+northstar-california,Jul,0.0,epic-pass,Northstar California,https://www.onthesnow.com/california/northstar-california/ski-resort
+okemo-mountain-resort,Jul,0.0,epic-pass,Okemo Mountain Resort,https://www.onthesnow.com/vermont/okemo-mountain-resort/ski-resort
+orelle,Jul,0.0,epic-pass,Orelle,https://www.onthesnow.co.uk/northern-alps/orelle/ski-resort
+park-city-mountain-resort,Jul,0.0,epic-pass,Park City,https://www.onthesnow.com/utah/park-city-mountain-resort/ski-resort
+pejo,Jul,0.0,epic-pass,Pejo,https://www.onthesnow.co.uk/trentino/pejo/ski-resort
+pinzolo,Jul,0.0,epic-pass,Pinzolo,https://www.onthesnow.co.uk/trentino/pinzolo/ski-resort
+pontedilegno-tonale-adamello-ski,Jul,0.0,epic-pass,Pontedilegno - Tonale,https://www.onthesnow.co.uk/trentino/pontedilegno-tonale-adamello-ski/ski-resort
+les-menuires,Jul,0.0,epic-pass,Les Menuires,https://www.onthesnow.co.uk/northern-alps/les-menuires/ski-resort
+la-tania,Jul,0.0,epic-pass,La Tania,https://www.onthesnow.co.uk/northern-alps/la-tania/ski-resort
+kirkwood,Jul,0.0,epic-pass,Kirkwood,https://www.onthesnow.com/california/kirkwood/ski-resort
+brides-les-bains,Jul,0.0,epic-pass,Brides les Bains,https://www.onthesnow.co.uk/northern-alps/brides-les-bains/ski-resort
+taos-ski-valley,Jul,0.0,mountain-collective,Taos Ski Valley,https://www.onthesnow.com/new-mexico/taos-ski-valley/ski-resort
+taos-ski-valley,Jul,0.0,ikon-pass,Taos Ski Valley,https://www.onthesnow.com/new-mexico/taos-ski-valley/ski-resort
+afton-alps,Jul,0.0,epic-pass,Afton Alps,https://www.onthesnow.com/minnesota/afton-alps/ski-resort
+folgaria,Jul,0.0,epic-pass,Alpe Cimbra - Folgaria - Lavarone,https://www.onthesnow.co.uk/trentino/folgaria/ski-resort
+andalo-fai-della-paganella,Jul,0.0,epic-pass,Andalo - Fai della Paganella,https://www.onthesnow.co.uk/trentino/andalo-fai-della-paganella/ski-resort
+beaver-creek,Jul,0.0,epic-pass,Beaver Creek,https://www.onthesnow.com/colorado/beaver-creek/ski-resort
+breckenridge,Jul,0.0,epic-pass,Breckenridge,https://www.onthesnow.com/colorado/breckenridge/ski-resort
+courchevel,Jul,0.0,epic-pass,Courchevel,https://www.onthesnow.co.uk/northern-alps/courchevel/ski-resort
+kimberley,Jul,0.0,epic-pass,Kimberley,https://www.onthesnow.com/british-columbia/kimberley/ski-resort
+crested-butte-mountain-resort,Jul,0.0,epic-pass,Crested Butte Mountain Resort,https://www.onthesnow.com/colorado/crested-butte-mountain-resort/ski-resort
+fernie-alpine,Jul,0.0,epic-pass,Fernie Alpine,https://www.onthesnow.com/british-columbia/fernie-alpine/ski-resort
+folgarida-marilleva,Jul,0.0,epic-pass,Folgàrida - Marilléva,https://www.onthesnow.co.uk/trentino/folgarida-marilleva/ski-resort
+heavenly-mountain-resort,Jul,0.0,epic-pass,Heavenly,https://www.onthesnow.com/california/heavenly-mountain-resort/ski-resort
+keystone,Jul,0.0,epic-pass,Keystone,https://www.onthesnow.com/colorado/keystone/ski-resort
+kicking-horse,Jul,0.0,epic-pass,Kicking Horse,https://www.onthesnow.com/british-columbia/kicking-horse/ski-resort
+saint-martin-de-belleville,Jul,0.0,epic-pass,Saint Martin de Belleville,https://www.onthesnow.co.uk/northern-alps/saint-martin-de-belleville/ski-resort
+stevens-pass-resort,Jul,0.0,epic-pass,Stevens Pass Resort,https://www.onthesnow.com/washington/stevens-pass-resort/ski-resort
+stoneham,Jul,0.0,epic-pass,Stoneham,https://www.onthesnow.com/quebec/stoneham/ski-resort
+snow-summit,Jul,0.0,ikon-pass,Snow Summit,https://www.onthesnow.com/california/snow-summit/ski-resort
+june-mountain,Jul,0.0,ikon-pass,June Mountain,https://www.onthesnow.com/california/june-mountain/ski-resort
+killington-resort,Jul,0.0,ikon-pass,Killington Resort,https://www.onthesnow.com/vermont/killington-resort/ski-resort
+loon-mountain,Jul,0.0,ikon-pass,Loon Mountain,https://www.onthesnow.com/new-hampshire/loon-mountain/ski-resort
+mt-bachelor,Jul,0.0,ikon-pass,Mt. Bachelor,https://www.onthesnow.com/oregon/mt-bachelor/ski-resort
+ski-banff-norquay,Jul,0.0,ikon-pass,Mt. Norquay,https://www.onthesnow.com/alberta/ski-banff-norquay/ski-resort
+panorama-mountain,Jul,0.0,ikon-pass,Panorama Mountain,https://www.onthesnow.com/british-columbia/panorama-mountain/ski-resort
+snowshoe-mountain-resort,Jul,0.0,ikon-pass,Snowshoe Mountain,https://www.onthesnow.com/west-virginia/snowshoe-mountain-resort/ski-resort
+deer-valley-resort,Jul,0.0,ikon-pass,Deer Valley Resort,https://www.onthesnow.com/utah/deer-valley-resort/ski-resort
+solitude-mountain-resort,Jul,0.0,ikon-pass,Solitude Mountain Resort,https://www.onthesnow.com/utah/solitude-mountain-resort/ski-resort
+steamboat,Jul,0.0,ikon-pass,Steamboat,https://www.onthesnow.com/colorado/steamboat/ski-resort
+stratton-mountain,Jul,0.0,ikon-pass,Stratton Mountain,https://www.onthesnow.com/vermont/stratton-mountain/ski-resort
+wilmot-mountain,Apr,0.0,epic-pass,Wilmot Mountain,https://www.onthesnow.com/wisconsin/wilmot-mountain/ski-resort
+sunday-river,Jul,0.0,ikon-pass,Sunday River,https://www.onthesnow.com/maine/sunday-river/ski-resort
+boyne-highlands,Jul,0.0,ikon-pass,The Highlands,https://www.onthesnow.com/michigan/boyne-highlands/ski-resort
+eldora-mountain-resort,Jul,0.0,ikon-pass,Eldora Mountain Resort,https://www.onthesnow.com/colorado/eldora-mountain-resort/ski-resort
+cypress-mountain,Jul,0.0,ikon-pass,Cypress Mountain,https://www.onthesnow.com/british-columbia/cypress-mountain/ski-resort
+stowe-mountain-resort,Jul,0.0,epic-pass,Stowe Mountain,https://www.onthesnow.com/vermont/stowe-mountain-resort/ski-resort
+whistler-blackcomb,Jul,0.0,epic-pass,Whistler Blackcomb,https://www.onthesnow.com/british-columbia/whistler-blackcomb/ski-resort
+telluride,Jul,0.0,epic-pass,Telluride,https://www.onthesnow.com/colorado/telluride/ski-resort
+thyon-2000,Jul,0.0,epic-pass,Thyon 2000,https://www.onthesnow.co.uk/valais/thyon-2000/ski-resort
+vail,Jul,0.0,epic-pass,Vail,https://www.onthesnow.com/colorado/vail/ski-resort
+val-thorens,Jul,0.0,epic-pass,Val Thorens,https://www.onthesnow.co.uk/northern-alps/val-thorens/ski-resort
+verbier,Jul,0.0,epic-pass,Verbier,https://www.onthesnow.co.uk/valais/verbier/ski-resort
+veysonnaz,Jul,0.0,epic-pass,Veysonnaz,https://www.onthesnow.co.uk/valais/veysonnaz/ski-resort
+wilmot-mountain,Jul,0.0,epic-pass,Wilmot Mountain,https://www.onthesnow.com/wisconsin/wilmot-mountain/ski-resort
+crystal-mountain-wa,Jul,0.0,ikon-pass,Crystal Mountain,https://www.onthesnow.com/washington/crystal-mountain-wa/ski-resort
+arapahoe-basin-ski-area,Jul,0.0,ikon-pass,Arapahoe Basin Ski Area,https://www.onthesnow.com/colorado/arapahoe-basin-ski-area/ski-resort
+bear-mountain,Jul,0.0,ikon-pass,Bear Mountain,https://www.onthesnow.com/california/bear-mountain/ski-resort
+blue-mountain,Jul,0.0,ikon-pass,Blue Mountain,https://www.onthesnow.com/ontario/blue-mountain/ski-resort
+boyne-mountain-resort,Jul,0.0,ikon-pass,Boyne Mountain Resort,https://www.onthesnow.com/michigan/boyne-mountain-resort/ski-resort
+brighton-resort,Jul,0.0,ikon-pass,Brighton Resort,https://www.onthesnow.com/utah/brighton-resort/ski-resort
+copper-mountain-resort,Jul,0.0,ikon-pass,Copper Mountain,https://www.onthesnow.com/colorado/copper-mountain-resort/ski-resort
+sunshine-village,Jul,0.0,mountain-collective,Sunshine Village,https://www.onthesnow.com/alberta/sunshine-village/ski-resort
+sunshine-village,Jul,0.0,ikon-pass,Sunshine Village,https://www.onthesnow.com/alberta/sunshine-village/ski-resort
+sugarbush,Jul,0.0,mountain-collective,Sugarbush,https://www.onthesnow.com/vermont/sugarbush/ski-resort
+sugarbush,Jul,0.0,ikon-pass,Sugarbush,https://www.onthesnow.com/vermont/sugarbush/ski-resort
+mont-sainte-anne,Jun,0.0,epic-pass,Mont Sainte Anne,https://www.onthesnow.com/quebec/mont-sainte-anne/ski-resort
+snowbird,Jul,0.0,mountain-collective,Snowbird,https://www.onthesnow.com/utah/snowbird/ski-resort
+snowbird,Jul,0.0,ikon-pass,Snowbird,https://www.onthesnow.com/utah/snowbird/ski-resort
+vail,Jun,0.0,epic-pass,Vail,https://www.onthesnow.com/colorado/vail/ski-resort
+val-thorens,Jun,0.0,epic-pass,Val Thorens,https://www.onthesnow.co.uk/northern-alps/val-thorens/ski-resort
+verbier,Jun,0.0,epic-pass,Verbier,https://www.onthesnow.co.uk/valais/verbier/ski-resort
+veysonnaz,Jun,0.0,epic-pass,Veysonnaz,https://www.onthesnow.co.uk/valais/veysonnaz/ski-resort
+whistler-blackcomb,Jun,0.0,epic-pass,Whistler Blackcomb,https://www.onthesnow.com/british-columbia/whistler-blackcomb/ski-resort
+wilmot-mountain,Jun,0.0,epic-pass,Wilmot Mountain,https://www.onthesnow.com/wisconsin/wilmot-mountain/ski-resort
+coronet-peak,Mar,0.0,mountain-collective,Coronet Peak,https://www.onthesnow.com/new-zealand/coronet-peak/ski-resort
+bear-mountain,Jun,0.0,ikon-pass,Bear Mountain,https://www.onthesnow.com/california/bear-mountain/ski-resort
+blue-mountain,Jun,0.0,ikon-pass,Blue Mountain,https://www.onthesnow.com/ontario/blue-mountain/ski-resort
+boyne-mountain-resort,Jun,0.0,ikon-pass,Boyne Mountain Resort,https://www.onthesnow.com/michigan/boyne-mountain-resort/ski-resort
+brighton-resort,Jun,0.0,ikon-pass,Brighton Resort,https://www.onthesnow.com/utah/brighton-resort/ski-resort
+copper-mountain-resort,Jun,0.0,ikon-pass,Copper Mountain,https://www.onthesnow.com/colorado/copper-mountain-resort/ski-resort
+crystal-mountain-wa,Jun,0.0,ikon-pass,Crystal Mountain,https://www.onthesnow.com/washington/crystal-mountain-wa/ski-resort
+cypress-mountain,Jun,0.0,ikon-pass,Cypress Mountain,https://www.onthesnow.com/british-columbia/cypress-mountain/ski-resort
+deer-valley-resort,Jun,0.0,ikon-pass,Deer Valley Resort,https://www.onthesnow.com/utah/deer-valley-resort/ski-resort
+thyon-2000,Jun,0.0,epic-pass,Thyon 2000,https://www.onthesnow.co.uk/valais/thyon-2000/ski-resort
+telluride,Jun,0.0,epic-pass,Telluride,https://www.onthesnow.com/colorado/telluride/ski-resort
+stowe-mountain-resort,Jun,0.0,epic-pass,Stowe Mountain,https://www.onthesnow.com/vermont/stowe-mountain-resort/ski-resort
+okemo-mountain-resort,Jun,0.0,epic-pass,Okemo Mountain Resort,https://www.onthesnow.com/vermont/okemo-mountain-resort/ski-resort
+monte-bondone,Jun,0.0,epic-pass,Monte Bondone,https://www.onthesnow.co.uk/trentino/monte-bondone/ski-resort
+mount-sunapee,Jun,0.0,epic-pass,Mount Sunapee,https://www.onthesnow.com/new-hampshire/mount-sunapee/ski-resort
+mount-brighton,Jun,0.0,epic-pass,Mt. Brighton,https://www.onthesnow.com/michigan/mount-brighton/ski-resort
+nakiska-ski-area,Jun,0.0,epic-pass,Nakiska Ski Area,https://www.onthesnow.com/alberta/nakiska-ski-area/ski-resort
+nendaz,Jun,0.0,epic-pass,Nendaz,https://www.onthesnow.co.uk/valais/nendaz/ski-resort
+northstar-california,Jun,0.0,epic-pass,Northstar California,https://www.onthesnow.com/california/northstar-california/ski-resort
+orelle,Jun,0.0,epic-pass,Orelle,https://www.onthesnow.co.uk/northern-alps/orelle/ski-resort
+stoneham,Jun,0.0,epic-pass,Stoneham,https://www.onthesnow.com/quebec/stoneham/ski-resort
+park-city-mountain-resort,Jun,0.0,epic-pass,Park City,https://www.onthesnow.com/utah/park-city-mountain-resort/ski-resort
+pejo,Jun,0.0,epic-pass,Pejo,https://www.onthesnow.co.uk/trentino/pejo/ski-resort
+pinzolo,Jun,0.0,epic-pass,Pinzolo,https://www.onthesnow.co.uk/trentino/pinzolo/ski-resort
+pontedilegno-tonale-adamello-ski,Jun,0.0,epic-pass,Pontedilegno - Tonale,https://www.onthesnow.co.uk/trentino/pontedilegno-tonale-adamello-ski/ski-resort
+saint-martin-de-belleville,Jun,0.0,epic-pass,Saint Martin de Belleville,https://www.onthesnow.co.uk/northern-alps/saint-martin-de-belleville/ski-resort
+stevens-pass-resort,Jun,0.0,epic-pass,Stevens Pass Resort,https://www.onthesnow.com/washington/stevens-pass-resort/ski-resort
+eldora-mountain-resort,Jun,0.0,ikon-pass,Eldora Mountain Resort,https://www.onthesnow.com/colorado/eldora-mountain-resort/ski-resort
+june-mountain,Jun,0.0,ikon-pass,June Mountain,https://www.onthesnow.com/california/june-mountain/ski-resort
+killington-resort,Jun,0.0,ikon-pass,Killington Resort,https://www.onthesnow.com/vermont/killington-resort/ski-resort
+aspen-snowmass,Jul,0.0,mountain-collective,Aspen Snowmass,https://www.onthesnow.com/colorado/aspen-snowmass/ski-resort
+aspen-snowmass,Jul,0.0,ikon-pass,Aspen Snowmass,https://www.onthesnow.com/colorado/aspen-snowmass/ski-resort
+falls-creek-alpine-resort,Feb,0.0,epic-pass,Falls Creek Alpine Resort,https://www.onthesnow.com/australia/falls-creek-alpine-resort/ski-resort
+valle-nevado,Feb,0.0,mountain-collective,Valle Nevado,https://www.onthesnow.com/chile/valle-nevado/ski-resort
+thredbo-alpine-resort,Feb,0.0,mountain-collective,Thredbo Alpine Resort,https://www.onthesnow.com/australia/thredbo-alpine-resort/ski-resort
+thredbo-alpine-resort,Feb,0.0,ikon-pass,Thredbo Alpine Resort,https://www.onthesnow.com/australia/thredbo-alpine-resort/ski-resort
+the-remarkables,Feb,0.0,mountain-collective,The Remarkables,https://www.onthesnow.com/new-zealand/the-remarkables/ski-resort
+coronet-peak,Feb,0.0,mountain-collective,Coronet Peak,https://www.onthesnow.com/new-zealand/coronet-peak/ski-resort
+alta-ski-area,Jul,0.0,mountain-collective,Alta Ski Area,https://www.onthesnow.com/utah/alta-ski-area/ski-resort
+alta-ski-area,Jul,0.0,ikon-pass,Alta Ski Area,https://www.onthesnow.com/utah/alta-ski-area/ski-resort
+big-sky-resort,Jul,0.0,mountain-collective,Big Sky,https://www.onthesnow.com/montana/big-sky-resort/ski-resort
+big-sky-resort,Jul,0.0,ikon-pass,Big Sky,https://www.onthesnow.com/montana/big-sky-resort/ski-resort
+perisher,Feb,0.0,epic-pass,Perisher,https://www.onthesnow.com/australia/perisher/ski-resort
+jackson-hole,Jul,0.0,mountain-collective,Jackson Hole,https://www.onthesnow.com/wyoming/jackson-hole/ski-resort
+jackson-hole,Jul,0.0,ikon-pass,Jackson Hole,https://www.onthesnow.com/wyoming/jackson-hole/ski-resort
+lake-louise,Jul,0.0,mountain-collective,Lake Louise,https://www.onthesnow.com/alberta/lake-louise/ski-resort
+lake-louise,Jul,0.0,ikon-pass,Lake Louise,https://www.onthesnow.com/alberta/lake-louise/ski-resort
+mammoth-mountain-ski-area,Jul,0.0,mountain-collective,Mammoth Mountain,https://www.onthesnow.com/california/mammoth-mountain-ski-area/ski-resort
+mammoth-mountain-ski-area,Jul,0.0,ikon-pass,Mammoth Mountain,https://www.onthesnow.com/california/mammoth-mountain-ski-area/ski-resort
+squaw-valley-usa,Jul,0.0,mountain-collective,Palisades Tahoe,https://www.onthesnow.com/california/squaw-valley-usa/ski-resort
+squaw-valley-usa,Jul,0.0,ikon-pass,Palisades Tahoe,https://www.onthesnow.com/california/squaw-valley-usa/ski-resort
+revelstoke-mountain,Jul,0.0,mountain-collective,Revelstoke,https://www.onthesnow.com/british-columbia/revelstoke-mountain/ski-resort
+revelstoke-mountain,Jul,0.0,ikon-pass,Revelstoke,https://www.onthesnow.com/british-columbia/revelstoke-mountain/ski-resort
+snowbasin,Jul,0.0,mountain-collective,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+snowbasin,Jul,0.0,epic-pass,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+snowbasin,Jul,0.0,ikon-pass,Snowbasin,https://www.onthesnow.com/utah/snowbasin/ski-resort
+mt-hotham,Feb,0.0,epic-pass,Mt. Hotham,https://www.onthesnow.com/australia/mt-hotham/ski-resort
+mt-buller,Feb,0.0,ikon-pass,Mt. Buller,https://www.onthesnow.com/australia/mt-buller/ski-resort
+loon-mountain,Jun,0.0,ikon-pass,Loon Mountain,https://www.onthesnow.com/new-hampshire/loon-mountain/ski-resort
+steamboat,Jun,0.0,ikon-pass,Steamboat,https://www.onthesnow.com/colorado/steamboat/ski-resort
+mt-bachelor,Jun,0.0,ikon-pass,Mt. Bachelor,https://www.onthesnow.com/oregon/mt-bachelor/ski-resort
+ski-banff-norquay,Jun,0.0,ikon-pass,Mt. Norquay,https://www.onthesnow.com/alberta/ski-banff-norquay/ski-resort
+panorama-mountain,Jun,0.0,ikon-pass,Panorama Mountain,https://www.onthesnow.com/british-columbia/panorama-mountain/ski-resort
+snow-summit,Jun,0.0,ikon-pass,Snow Summit,https://www.onthesnow.com/california/snow-summit/ski-resort
+snowshoe-mountain-resort,Jun,0.0,ikon-pass,Snowshoe Mountain,https://www.onthesnow.com/west-virginia/snowshoe-mountain-resort/ski-resort
+solitude-mountain-resort,Jun,0.0,ikon-pass,Solitude Mountain Resort,https://www.onthesnow.com/utah/solitude-mountain-resort/ski-resort
+stratton-mountain,Jun,0.0,ikon-pass,Stratton Mountain,https://www.onthesnow.com/vermont/stratton-mountain/ski-resort
+winter-park-resort,Jun,0.0,ikon-pass,Winter Park,https://www.onthesnow.com/colorado/winter-park-resort/ski-resort
+sugarloaf,Jun,0.0,ikon-pass,Sugarloaf,https://www.onthesnow.com/maine/sugarloaf/ski-resort
+sunday-river,Jun,0.0,ikon-pass,Sunday River,https://www.onthesnow.com/maine/sunday-river/ski-resort
+boyne-highlands,Jun,0.0,ikon-pass,The Highlands,https://www.onthesnow.com/michigan/boyne-highlands/ski-resort
+the-summit-at-snoqualmie,Jun,0.0,ikon-pass,The Summit at Snoqualmie,https://www.onthesnow.com/washington/the-summit-at-snoqualmie/ski-resort
+tremblant,Jun,0.0,ikon-pass,Tremblant,https://www.onthesnow.com/quebec/tremblant/ski-resort
+windham-mountain,Jun,0.0,ikon-pass,Windham Mountain,https://www.onthesnow.com/new-york/windham-mountain/ski-resort
+alta-ski-area,May,0.0,mountain-collective,Alta Ski Area,https://www.onthesnow.com/utah/alta-ski-area/ski-resort
+alta-ski-area,May,0.0,ikon-pass,Alta Ski Area,https://www.onthesnow.com/utah/alta-ski-area/ski-resort
