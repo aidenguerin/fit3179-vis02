@@ -1,9 +1,10 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 600,
-  "height": 400,
+  "width": 400,
+  "height": 200,
+  "background": null,
   "projection": {"type": "mercator"},
-  "title":"North America",
+  "title":"United States / Canada",
   "layer": [
     {
       "data": {
@@ -19,7 +20,7 @@
       "transform": [{"filter":{"field":"country-short","oneOf":["US","CA"]}}],
       "mark": {"type": "circle"},
       "encoding": {
-        "color": {"field": "pass", "type": "nominal"},
+        "color": {"field": "pass", "type": "nominal", "legend": {"orient": "bottom"}},
         "latitude": {"field": "lat", "type": "quantitative"},
         "longitude": {"field": "lng", "type": "quantitative"},
         "tooltip":[
@@ -29,5 +30,11 @@
       }
     }
   ],
-  "config": {}
+  "config": {
+    "style": {
+      "cell": {
+        "stroke": "transparent"
+      }
+    }
+  }
 }

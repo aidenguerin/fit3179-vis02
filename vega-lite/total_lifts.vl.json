@@ -1,0 +1,37 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {"url": "https://raw.githubusercontent.com/aidenguerin/fit3179-vis02/main/web-scraping/data/master.csv"},
+    "mark": "bar",
+    "width": 500,
+    "height": 200,
+    "background": null,
+    "params": [{
+        "name": "pass_selection",
+        "bind": {
+            "input": "select",
+            "options": [
+                "epic-pass",
+                "ikon-pass",
+                "mountain-collective"
+            ],
+            "labels":[
+                "Epic Pass",
+                "Ikon Pass",
+                "Mountain Collective"
+            ],
+            "name": "Pass selection: "
+          }
+        }
+    ],
+    "transform": [
+        {"filter":"datum.pass == pass_selection"}
+    ],
+    "encoding": {
+        "x": { "field": "resort", "type": "nominal", "sort": "-y"},
+        "y": { "field": "Total Lifts", "type": "quantitative" },
+        "color": { "field": "pass", "type": "nominal"},
+        "tooltip":[
+            {"field": "resort","type": "nominal", "title":"Resort"},
+            {"field": "Total Lifts", "type": "quantitative", "title":"Total Lifts"}]
+    }
+}

@@ -1,7 +1,8 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 600,
-    "height": 400,
+    "width": 500,
+    "height": 200,
+    "background": null,
     "projection": {"type": "mercator"},
     "title":"Australia / NZ",
     "layer": [
@@ -19,7 +20,7 @@
         "transform": [{"filter":{"field":"country-short","oneOf":["AU","NZ"]}}],
         "mark": {"type": "circle"},
         "encoding": {
-          "color": {"field": "pass", "type": "nominal"},
+          "color": {"field": "pass", "type": "nominal", "legend": {"orient": "bottom"}},
           "latitude": {"field": "lat", "type": "quantitative"},
           "longitude": {"field": "lng", "type": "quantitative"},
           "tooltip":[
@@ -29,5 +30,11 @@
         }
       }
     ],
-    "config": {}
+    "config": {
+      "style": {
+        "cell": {
+          "stroke": "transparent"
+        }
+      }
+    }
   }

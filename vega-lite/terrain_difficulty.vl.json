@@ -22,15 +22,16 @@
     "mark": "bar",
     "width": 600,
     "height": 300,
+    "background": null,
     "transform": [{"filter":"datum.Percentage > 0"}, 
                   {"filter":"datum.pass == pass_selection"},
-                  {"calculate": "datum.run_type == 'Beginners Runs'", "as": "Beginners"},
-                  {"calculate": "datum.run_type == 'Intermediate Runs'", "as": "Intermediate"},
-                  {"calculate": "datum.run_type == 'Advanced Runs'", "as": "Advanced"},
-                  {"calculate": "datum.run_type == 'Expert Runs'", "as": "Expert"}
+                  {"calculate": "datum.run_type == 'Beginners Runs' ? datum.Percentage : 0", "as": "Beginners"},
+                  {"calculate": "datum.run_type == 'Intermediate Runs' ? datum.Percentage : 0", "as": "Intermediate"},
+                  {"calculate": "datum.run_type == 'Advanced Runs' ? datum.Percentage : 0", "as": "Advanced"},
+                  {"calculate": "datum.run_type == 'Expert Runs' ? datum.Percentage : 0", "as": "Expert"}
                 ],
     "encoding": {
-        "x": { "field": "resort", "type": "nominal", "sort": {"op": "sum", "field": "Beginners"}},
+        "x": { "field": "resort", "type": "nominal", "sort": {"op": "sum", "field": "Beginners", "order": "descending"}},
         "y": { "field": "Percentage", "type": "quantitative", "stack":"normalize"},
         "color": { "field": "run_type", 
                     "type": "nominal", 
@@ -38,7 +39,8 @@
                     "domain": ["Expert Runs", "Advanced Runs","Intermediate Runs", "Beginners Runs"]}
         },
         "tooltip":[
-            {"field": "run_type","type": "nominal", "title":"run_type"},
+            {"field": "resort","type": "nominal", "title":"Resort"},
+            {"field": "run_type","type": "nominal", "title":"Run Type"},
             {"field": "Percentage", "type": "quantitative", "title":"Percentage of runs"}],
         "order": {"field": "Difficulty", "type": "ordinal"}        
     }
