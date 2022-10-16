@@ -1,37 +1,25 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "data": {"url": "https://raw.githubusercontent.com/aidenguerin/fit3179-vis02/main/web-scraping/data/resort_snowfall.csv"},
+    "data": {"url": "https://raw.githubusercontent.com/aidenguerin/fit3179-vis02/main/web-scraping/data/clean_resort_snowfall.csv"},
     "mark": "bar",
-    "width": 500,
+    "width": 200,
     "height": 200,
     "background": null,
-    "params": [{
-        "name": "pass_selection",
-        "bind": {
-            "input": "select",
-            "options": [
-                "epic-pass",
-                "ikon-pass",
-                "mountain-collective"
-            ],
-            "labels":[
-                "Epic Pass",
-                "Ikon Pass",
-                "Mountain Collective"
-            ],
-            "name": "Pass selection: "
-          }
-        }
-    ],
-    "transform": [
-        {"filter":"datum.pass == pass_selection"}
-    ],
+    "transform": [{"filter": "datum.snowfall_cm > 0"}],
     "encoding": {
-        "x": { "field": "resort", "type": "nominal", "sort": "-y"},
-        "y": { "field": "Total Lifts", "type": "quantitative" },
-        "color": { "field": "pass", "type": "nominal", "legend": null },
+        "x": { "field": "month", "type": "nominal", "scale": {"domain": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]}},
+        "y": { "field": "snowfall_cm", "type": "quantitative", "aggregate": "mean"},
+        "color": { 
+            "field": "pass", 
+            "type": "nominal", 
+            "legend": null, 
+            "scale": {
+                "range": [ "#e76d28", "#f1cb17", "#26384c"],
+                "domain": ["epic-pass", "ikon-pass","mountain-collective"]}},
         "tooltip":[
-            {"field": "resort","type": "nominal", "title":"Resort"},
-            {"field": "Total Lifts", "type": "quantitative", "title":"Total Lifts"}]
+            {"field": "pass","type": "nominal", "title":"Includes mountains from"},
+            {"field": "snowfall_cm", "type": "quantitative", "title":"Average Snowfall (cm)"}],
+        "xOffset": {"field": "pass"} 
     }
 }
+  

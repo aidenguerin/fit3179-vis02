@@ -3,6 +3,7 @@
     "data": {"url": "https://raw.githubusercontent.com/aidenguerin/fit3179-vis02/main/web-scraping/data/terrain_difficulty.csv"},
     "params": [{
         "name": "pass_selection",
+        "value": "epic-pass",
         "bind": {
             "input": "select",
             "options": [
