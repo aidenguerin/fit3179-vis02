@@ -9,6 +9,7 @@
     "encoding": {
         "x": { "field": "month", "type": "nominal", "scale": {"domain": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]}},
         "y": { "field": "snowfall_cm", "type": "quantitative", "aggregate": "mean"},
+        "xOffset": {"field": "pass"},
         "color": { 
             "field": "pass", 
             "type": "nominal", 
@@ -18,8 +19,7 @@
                 "domain": ["epic-pass", "ikon-pass","mountain-collective"]}},
         "tooltip":[
             {"field": "pass","type": "nominal", "title":"Includes mountains from"},
-            {"field": "snowfall_cm", "type": "quantitative", "title":"Average Snowfall (cm)"}],
-        "xOffset": {"field": "pass"} 
+            {"field": "snowfall_cm", "type": "quantitative", "title":"Average Snowfall (cm)"}]
+        
     }
 }
-  

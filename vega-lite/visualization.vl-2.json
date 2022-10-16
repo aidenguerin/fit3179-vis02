@@ -1,0 +1,53 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/aidenguerin/fit3179-vis02/main/web-scraping/data/clean_resort_snowfall.csv"
+  },
+  "mark": "bar",
+  "width": 200,
+  "height": 200,
+  "background": null,
+  "transform": [{"filter": "datum.snowfall_cm > 0"}],
+  "encoding": {
+    "x": {
+      "field": "month",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "Jan",
+          "Feb",
+          "Mar",
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct",
+          "Nov",
+          "Dec"
+        ]
+      }
+    },
+    "y": {"field": "snowfall_cm", "type": "quantitative", "aggregate": "mean"},
+    "xOffset": {"field": "pass"},
+    "color": {
+      "field": "pass",
+      "type": "nominal",
+      "legend": null,
+      "scale": {
+        "range": ["#e76d28", "#f1cb17", "#26384c"],
+        "domain": ["epic-pass", "ikon-pass", "mountain-collective"]
+      }
+    },
+    "tooltip": [
+      {"field": "pass", "type": "nominal", "title": "Includes mountains from"},
+      {
+        "field": "snowfall_cm",
+        "type": "quantitative",
+        "title": "Average Snowfall (cm)"
+      }
+    ]
+  },
+  "config": {}
+}

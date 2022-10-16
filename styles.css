@@ -11,6 +11,10 @@ body {
   background-color: white;
 }
 
+p {
+  text-align: left;
+}
+
 .page {
   width: 850px;
   background-color: #38b6ff;
