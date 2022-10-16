@@ -18,9 +18,15 @@
         "url": "https://raw.githubusercontent.com/aidenguerin/fit3179-vis02/main/web-scraping/data/master.csv"
       },
       "transform": [{"filter":{"field":"country-short","oneOf":["US","CA"]}}],
-      "mark": {"type": "circle"},
+      "mark": {"type": "point", "filled": true, "opacity": 1},
       "encoding": {
-        "color": {"field": "pass", "type": "nominal", "legend": {"orient": "bottom"}},
+        "color": {
+          "field": "pass", 
+          "type": "nominal", 
+          "legend": {"orient": "bottom"}, 
+          "scale": {
+            "range": [ "#e76d28", "#f1cb17", "#26384c"],
+            "domain": ["epic-pass", "ikon-pass","mountain-collective"]}},
         "latitude": {"field": "lat", "type": "quantitative"},
         "longitude": {"field": "lng", "type": "quantitative"},
         "tooltip":[
